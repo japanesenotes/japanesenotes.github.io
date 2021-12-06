@@ -3,6 +3,9 @@
 
 [link a](dir_a/file_a.md)
 [link b](dir_b/file_b.md)
+[kanji test](kanjis/世.md)
+
+
 
 You can use the [editor on GitHub](https://github.com/japanesenotes/japanesenotes.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
