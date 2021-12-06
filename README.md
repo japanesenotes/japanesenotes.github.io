@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+
+[link a](dir_a/file_a.md)
+[link b](dir_b/file_b.md)
+
 You can use the [editor on GitHub](https://github.com/japanesenotes/japanesenotes.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
