@@ -1,44 +1,42 @@
-## Welcome to GitHub Pages
+
+# Japanese
+
+* [Wanikani radicals](radicals.md)
+* [Wanikani kanjis](kanjis.md)
+* [Wanikani vocabulary](vocabulary.md)
+* [Wanikani Levels](levels.md)
+* [Grammar](grammar.md)
+
+## Resources
+
+| Website | Link |
+| --- | --- |
+| Wanikani	        | https://www.wanikani.com/
+| Kanji damage      | http://www.kanjidamage.com/
+| Jitenon           | https://jitenon.com/
+| Tanoshii japanese | https://www.tanoshiijapanese.com/
+| Baike	            | https://baike.baidu.com/
+| Kanji Alive       | https://app.kanjialive.com/
+| Kanshudo          | https://www.kanshudo.com/
+| Koohii            | https://kanji.koohii.com/
+
+## Documents
 
 
-[link a](dir_a/file_a.md)
-[link b](dir_b/file_b.md)
-[kanji test](kanjis/世.md)
+* [wanikani anji flashcards](media/wanikani/wk_flashcards_kanjis.pdf)
+* [wanikani kanji flashcards (stroke order)](media/wanikani/wk_flashcards_kanjis_stroke_orders.pdf)
+* [wanikani anji flashcards (16 per page)](media/wanikani/wk_flashcards_kanjis_16.pdf)
+* [wanikani kanjis](media/wanikani/wanikanikanjis.pdf)
 
 
 
-You can use the [editor on GitHub](https://github.com/japanesenotes/japanesenotes.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Anki
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* https://mpv.io/installation/
+* https://github.com/Ajatt-Tools/mpvacious
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Anime
 
-```markdown
-Syntax highlighted code block
+* https://jpdb.io/anime-difficulty-list
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/japanesenotes/japanesenotes.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
