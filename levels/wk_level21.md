@@ -21,7 +21,9 @@
 | vocabulary | [産む](../vocabulary/産む.md), [口笛](../vocabulary/口笛.md), [参加する](../vocabulary/参加する.md), [参加者](../vocabulary/参加者.md), [警察官](../vocabulary/警察官.md), [乱す](../vocabulary/乱す.md), [宇宙人](../vocabulary/宇宙人.md), [宇宙船](../vocabulary/宇宙船.md), [履き物](../vocabulary/履き物.md), [説得する](../vocabulary/説得する.md), [混乱する](../vocabulary/混乱する.md), [減らす](../vocabulary/減らす.md), [続ける](../vocabulary/続ける.md), [固有名詞](../vocabulary/固有名詞.md), [他動詞](../vocabulary/他動詞.md), [暴力団](../vocabulary/暴力団.md), [容疑者](../vocabulary/容疑者.md), [暴走族](../vocabulary/暴走族.md), [経済](../vocabulary/経済.md), [いい加減にしろ](../vocabulary/いい加減にしろ.md), [手続き](../vocabulary/手続き.md), [敵](../vocabulary/敵.md), [素敵](../vocabulary/素敵.md), [大敵](../vocabulary/大敵.md), [無敵](../vocabulary/無敵.md), [済む](../vocabulary/済む.md), [委員](../vocabulary/委員.md), [挙がる](../vocabulary/挙がる.md), [選挙](../vocabulary/選挙.md), [判子](../vocabulary/判子.md), [評判](../vocabulary/評判.md), [制服](../vocabulary/制服.md), [制度](../vocabulary/制度.md), [強制](../vocabulary/強制.md), [自制](../vocabulary/自制.md), [務める](../vocabulary/務める.md), [事務所](../vocabulary/事務所.md), [義務](../vocabulary/義務.md), [任務](../vocabulary/任務.md), [審査](../vocabulary/審査.md), [総合](../vocabulary/総合.md), [総理](../vocabulary/総理.md), [総体的](../vocabulary/総体的.md), [設ける](../vocabulary/設ける.md), [設定する](../vocabulary/設定する.md), [公設](../vocabulary/公設.md), [建設](../vocabulary/建設.md), [資本](../vocabulary/資本.md), [資金](../vocabulary/資金.md), [資料](../vocabulary/資料.md), [投資](../vocabulary/投資.md), [人権](../vocabulary/人権.md), [権利](../vocabulary/権利.md), [女権](../vocabulary/女権.md), [条件](../vocabulary/条件.md), [事件](../vocabulary/事件.md), [派手](../vocabulary/派手.md), [立派](../vocabulary/立派.md), [岡山県](../vocabulary/岡山県.md), [素材](../vocabulary/素材.md), [断る](../vocabulary/断る.md), [判断](../vocabulary/判断.md), [評論](../vocabulary/評論.md), [書評](../vocabulary/書評.md), [批判](../vocabulary/批判.md), [任意](../vocabulary/任意.md), [検査](../vocabulary/検査.md), [検問する](../vocabulary/検問する.md), [審判](../vocabulary/審判.md), [条約](../vocabulary/条約.md), [責める](../vocabulary/責める.md), [責任](../vocabulary/責任.md), [省く](../vocabulary/省く.md), [反省](../vocabulary/反省.md), [増える](../vocabulary/増える.md), [増加](../vocabulary/増加.md), [急増](../vocabulary/急増.md), [増税](../vocabulary/増税.md), [税金](../vocabulary/税金.md), [無税](../vocabulary/無税.md), [解ける](../vocabulary/解ける.md), [解決](../vocabulary/解決.md), [理解](../vocabulary/理解.md), [正解](../vocabulary/正解.md), [分解](../vocabulary/分解.md), [実際](../vocabulary/実際.md), [国際](../vocabulary/国際.md), [際](../vocabulary/際.md), [認める](../vocabulary/認める.md), [確認](../vocabulary/確認.md), [企てる](../vocabulary/企てる.md), [企画](../vocabulary/企画.md), [正義](../vocabulary/正義.md), [主義](../vocabulary/主義.md), [義理](../vocabulary/義理.md), [定義](../vocabulary/定義.md), [〜務省](../vocabulary/〜務省.md), [形容動詞](../vocabulary/形容動詞.md), [解説](../vocabulary/解説.md), [布地](../vocabulary/布地.md), [得体](../vocabulary/得体.md), [心得](../vocabulary/心得.md), [目覚める](../vocabulary/目覚める.md), [資格](../vocabulary/資格.md), [羨む](../vocabulary/羨む.md), [羨望](../vocabulary/羨望.md), [苛々する](../vocabulary/苛々する.md), [飲酒運転](../vocabulary/飲酒運転.md), [無くす](../vocabulary/無くす.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -33,7 +35,9 @@
 | [角](../radicals/角.md) | Angle |
 | [半](../radicals/半.md) | Half |
 | [刃](../radicals/刃.md) | Blade |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -70,7 +74,9 @@
 | [企](../kanjis/企.md) | Plan |
 | [義](../kanjis/義.md) | Righteousness |
 | [羨](../kanjis/羨.md) | Envy, Jealousy |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

@@ -21,7 +21,9 @@
 | vocabulary | [仲良し](../vocabulary/仲良し.md), [小指](../vocabulary/小指.md), [仲良く](../vocabulary/仲良く.md), [着く](../vocabulary/着く.md), [酒好き](../vocabulary/酒好き.md), [想像する](../vocabulary/想像する.md), [映像](../vocabulary/映像.md), [画像](../vocabulary/画像.md), [一億](../vocabulary/一億.md), [一億円](../vocabulary/一億円.md), [億](../vocabulary/億.md), [問題](../vocabulary/問題.md), [疑問](../vocabulary/疑問.md), [器](../vocabulary/器.md), [器用](../vocabulary/器用.md), [楽器](../vocabulary/楽器.md), [食器](../vocabulary/食器.md), [力士](../vocabulary/力士.md), [宿題](../vocabulary/宿題.md), [新宿](../vocabulary/新宿.md), [事情](../vocabulary/事情.md), [人情](../vocabulary/人情.md), [情け](../vocabulary/情け.md), [感情](../vocabulary/感情.md), [予想](../vocabulary/予想.md), [回想](../vocabulary/回想.md), [思想](../vocabulary/思想.md), [五感](../vocabulary/五感.md), [同感](../vocabulary/同感.md), [飲み会](../vocabulary/飲み会.md), [見返る](../vocabulary/見返る.md), [初めに](../vocabulary/初めに.md), [初めて](../vocabulary/初めて.md), [神風](../vocabulary/神風.md), [手伝う](../vocabulary/手伝う.md), [左利き](../vocabulary/左利き.md), [体育](../vocabulary/体育.md), [右利き](../vocabulary/右利き.md), [育てる](../vocabulary/育てる.md), [追い付く](../vocabulary/追い付く.md), [戦う](../vocabulary/戦う.md), [追いかける](../vocabulary/追いかける.md), [注文する](../vocabulary/注文する.md), [大好き](../vocabulary/大好き.md), [放れる](../vocabulary/放れる.md), [感じ](../vocabulary/感じ.md), [感じる](../vocabulary/感じる.md), [感動する](../vocabulary/感動する.md), [感心](../vocabulary/感心.md), [感想](../vocabulary/感想.md), [感謝](../vocabulary/感謝.md), [整然](../vocabulary/整然.md), [入館料](../vocabulary/入館料.md), [料金](../vocabulary/料金.md), [映る](../vocabulary/映る.md), [映画](../vocabulary/映画.md), [暗い](../vocabulary/暗い.md), [暗殺](../vocabulary/暗殺.md), [暗記](../vocabulary/暗記.md), [〜様](../vocabulary/〜様.md), [様々](../vocabulary/様々.md), [皆様](../vocabulary/皆様.md), [目標](../vocabulary/目標.md), [橋](../vocabulary/橋.md), [殺す](../vocabulary/殺す.md), [殺人](../vocabulary/殺人.md), [自殺](../vocabulary/自殺.md), [全然](../vocabulary/全然.md), [当然](../vocabulary/当然.md), [自然](../vocabulary/自然.md), [情熱](../vocabulary/情熱.md), [熱](../vocabulary/熱.md), [熱い](../vocabulary/熱い.md), [熱心](../vocabulary/熱心.md), [皆さん](../vocabulary/皆さん.md), [福島](../vocabulary/福島.md), [緑](../vocabulary/緑.md), [緑色](../vocabulary/緑色.md), [練習](../vocabulary/練習.md), [詩](../vocabulary/詩.md), [詩人](../vocabulary/詩人.md), [詩歌](../vocabulary/詩歌.md), [課長](../vocabulary/課長.md), [謝る](../vocabulary/謝る.md), [賞金](../vocabulary/賞金.md), [車輪](../vocabulary/車輪.md), [輪](../vocabulary/輪.md), [選ぶ](../vocabulary/選ぶ.md), [選手](../vocabulary/選手.md), [水銀](../vocabulary/水銀.md), [銀](../vocabulary/銀.md), [銀色](../vocabulary/銀色.md), [銀行](../vocabulary/銀行.md), [鏡](../vocabulary/鏡.md), [〜放題](../vocabulary/〜放題.md), [話題](../vocabulary/話題.md), [お願いします](../vocabulary/お願いします.md), [心願](../vocabulary/心願.md), [養う](../vocabulary/養う.md), [養子](../vocabulary/養子.md), [旅館](../vocabulary/旅館.md), [本館](../vocabulary/本館.md), [駅](../vocabulary/駅.md), [駅前](../vocabulary/駅前.md), [駅員](../vocabulary/駅員.md), [駅長](../vocabulary/駅長.md), [温める](../vocabulary/温める.md), [整理](../vocabulary/整理.md), [宿](../vocabulary/宿.md), [実感](../vocabulary/実感.md), [別れる](../vocabulary/別れる.md), [共有する](../vocabulary/共有する.md), [表情](../vocabulary/表情.md), [中指](../vocabulary/中指.md), [女神](../vocabulary/女神.md), [学問](../vocabulary/学問.md), [想定](../vocabulary/想定.md), [王様](../vocabulary/王様.md), [親指](../vocabulary/親指.md), [神様](../vocabulary/神様.md), [指先](../vocabulary/指先.md), [特選](../vocabulary/特選.md), [受かる](../vocabulary/受かる.md), [天王星](../vocabulary/天王星.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -42,7 +44,9 @@
 | [良](../radicals/良.md) | Good |
 | [象](../radicals/象.md) | Elephant |
 | [畐](../radicals/畐.md) | Scarecrow |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -83,7 +87,9 @@
 | [映](../kanjis/映.md) | Reflect, Reflection |
 | [疑](../kanjis/疑.md) | Doubt |
 | [皆](../kanjis/皆.md) | All, Everyone, Everything, Everybody |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

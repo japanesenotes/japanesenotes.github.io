@@ -21,7 +21,9 @@
 | vocabulary | [博覧会](../vocabulary/博覧会.md), [移住者](../vocabulary/移住者.md), [詰まる](../vocabulary/詰まる.md), [魅力](../vocabulary/魅力.md), [並べる](../vocabulary/並べる.md), [乏しい](../vocabulary/乏しい.md), [欠乏](../vocabulary/欠乏.md), [冷やす](../vocabulary/冷やす.md), [結婚](../vocabulary/結婚.md), [求婚](../vocabulary/求婚.md), [新婚旅行](../vocabulary/新婚旅行.md), [未婚](../vocabulary/未婚.md), [延ばす](../vocabulary/延ばす.md), [延長](../vocabulary/延長.md), [延期する](../vocabulary/延期する.md), [快い](../vocabulary/快い.md), [快感](../vocabulary/快感.md), [快速](../vocabulary/快速.md), [不快](../vocabulary/不快.md), [懐かしい](../vocabulary/懐かしい.md), [押す](../vocabulary/押す.md), [撮る](../vocabulary/撮る.md), [撮影](../vocabulary/撮影.md), [盗撮](../vocabulary/盗撮.md), [診断する](../vocabulary/診断する.md), [旗](../vocabulary/旗.md), [国旗](../vocabulary/国旗.md), [背景](../vocabulary/背景.md), [更に](../vocabulary/更に.md), [更生](../vocabulary/更生.md), [更新](../vocabulary/更新.md), [変更](../vocabulary/変更.md), [枕](../vocabulary/枕.md), [浮く](../vocabulary/浮く.md), [浮世絵](../vocabulary/浮世絵.md), [浮気](../vocabulary/浮気.md), [渇く](../vocabulary/渇く.md), [漏水](../vocabulary/漏水.md), [漏出](../vocabulary/漏出.md), [漏れる](../vocabulary/漏れる.md), [照れる](../vocabulary/照れる.md), [照明](../vocabulary/照明.md), [出版](../vocabulary/出版.md), [版権](../vocabulary/版権.md), [初版](../vocabulary/初版.md), [盗む](../vocabulary/盗む.md), [強盗](../vocabulary/強盗.md), [盗作](../vocabulary/盗作.md), [盗品](../vocabulary/盗品.md), [幼稚園](../vocabulary/幼稚園.md), [切符](../vocabulary/切符.md), [精一杯](../vocabulary/精一杯.md), [精神的](../vocabulary/精神的.md), [精神病](../vocabulary/精神病.md), [〜系](../vocabulary/〜系.md), [日系](../vocabulary/日系.md), [太陽系](../vocabulary/太陽系.md), [体系的](../vocabulary/体系的.md), [絶える](../vocabulary/絶える.md), [翌日](../vocabulary/翌日.md), [翌月](../vocabulary/翌月.md), [翌朝](../vocabulary/翌朝.md), [翌年](../vocabulary/翌年.md), [背](../vocabulary/背.md), [一覧](../vocabulary/一覧.md), [ご覧](../vocabulary/ご覧.md), [観覧](../vocabulary/観覧.md), [貧しい](../vocabulary/貧しい.md), [貧乏](../vocabulary/貧乏.md), [購入](../vocabulary/購入.md), [購買](../vocabulary/購買.md), [購読](../vocabulary/購読.md), [越える](../vocabulary/越える.md), [越権](../vocabulary/越権.md), [逆さま](../vocabulary/逆さま.md), [遊ぶ](../vocabulary/遊ぶ.md), [遊園地](../vocabulary/遊園地.md), [適当](../vocabulary/適当.md), [不適](../vocabulary/不適.md), [登録する](../vocabulary/登録する.md), [預ける](../vocabulary/預ける.md), [預金](../vocabulary/預金.md), [飾る](../vocabulary/飾る.md), [服飾](../vocabulary/服飾.md), [電飾](../vocabulary/電飾.md), [騒ぐ](../vocabulary/騒ぐ.md), [騒音](../vocabulary/騒音.md), [攻撃する](../vocabulary/攻撃する.md), [先程](../vocabulary/先程.md), [官僚的](../vocabulary/官僚的.md), [移る](../vocabulary/移る.md), [怖がる](../vocabulary/怖がる.md), [主](../vocabulary/主.md), [研修生](../vocabulary/研修生.md), [背後](../vocabulary/背後.md), [快楽](../vocabulary/快楽.md), [快適](../vocabulary/快適.md), [成程](../vocabulary/成程.md), [押し](../vocabulary/押し.md), [程よく](../vocabulary/程よく.md), [匂う](../vocabulary/匂う.md), [濡らす](../vocabulary/濡らす.md), [寄せる](../vocabulary/寄せる.md), [退ける](../vocabulary/退ける.md), [痛める](../vocabulary/痛める.md), [柵](../vocabulary/柵.md), [鉄柵](../vocabulary/鉄柵.md), [電気柵](../vocabulary/電気柵.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -31,7 +33,9 @@
 | [系](../radicals/系.md) | Lineage |
 | [甲](../radicals/甲.md) | Turtle Shell |
 | [冘](../radicals/冘.md) | Pirate |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -68,7 +72,9 @@
 | [匂](../kanjis/匂.md) | Scent, Fragrance |
 | [濡](../kanjis/濡.md) | Wet, Damp |
 | [柵](../kanjis/柵.md) | Fence |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

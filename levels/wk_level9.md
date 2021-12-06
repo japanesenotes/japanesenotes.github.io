@@ -21,7 +21,9 @@
 | vocabulary | [売る](../vocabulary/売る.md), [ハート形](../vocabulary/ハート形.md), [星](../vocabulary/星.md), [海](../vocabulary/海.md), [千円札](../vocabulary/千円札.md), [住民](../vocabulary/住民.md), [事](../vocabulary/事.md), [用事](../vocabulary/用事.md), [工事](../vocabulary/工事.md), [大事](../vocabulary/大事.md), [返事](../vocabulary/返事.md), [食事](../vocabulary/食事.md), [使う](../vocabulary/使う.md), [道具](../vocabulary/道具.md), [家具](../vocabulary/家具.md), [受ける](../vocabulary/受ける.md), [和風](../vocabulary/和風.md), [平和](../vocabulary/平和.md), [和食](../vocabulary/和食.md), [和室](../vocabulary/和室.md), [和服](../vocabulary/和服.md), [予定](../vocabulary/予定.md), [決定](../vocabulary/決定.md), [実](../vocabulary/実.md), [事実](../vocabulary/事実.md), [実力](../vocabulary/実力.md), [服](../vocabulary/服.md), [泳ぐ](../vocabulary/泳ぐ.md), [物](../vocabulary/物.md), [名物](../vocabulary/名物.md), [苦しい](../vocabulary/苦しい.md), [乗る](../vocabulary/乗る.md), [お客さん](../vocabulary/お客さん.md), [客室](../vocabulary/客室.md), [〜屋](../vocabulary/〜屋.md), [部屋](../vocabulary/部屋.md), [肉屋](../vocabulary/肉屋.md), [茶屋](../vocabulary/茶屋.md), [魚屋](../vocabulary/魚屋.md), [名古屋](../vocabulary/名古屋.md), [今度](../vocabulary/今度.md), [丁度](../vocabulary/丁度.md), [毎度](../vocabulary/毎度.md), [角度](../vocabulary/角度.md), [〜度](../vocabulary/〜度.md), [持つ](../vocabulary/持つ.md), [世界](../vocabulary/世界.md), [発売](../vocabulary/発売.md), [発音](../vocabulary/発音.md), [発見](../vocabulary/発見.md), [相談](../vocabulary/相談.md), [相手](../vocabulary/相手.md), [〜県](../vocabulary/〜県.md), [美しい](../vocabulary/美しい.md), [美人](../vocabulary/美人.md), [負ける](../vocabulary/負ける.md), [勝負](../vocabulary/勝負.md), [勝つ](../vocabulary/勝つ.md), [勝者](../vocabulary/勝者.md), [必勝](../vocabulary/必勝.md), [楽勝](../vocabulary/楽勝.md), [送る](../vocabulary/送る.md), [重い](../vocabulary/重い.md), [重要](../vocabulary/重要.md), [体重](../vocabulary/体重.md), [二重](../vocabulary/二重.md), [必要](../vocabulary/必要.md), [要点](../vocabulary/要点.md), [仮に](../vocabulary/仮に.md), [仮名](../vocabulary/仮名.md), [仮定](../vocabulary/仮定.md), [曲がる](../vocabulary/曲がる.md), [交わる](../vocabulary/交わる.md), [小学校](../vocabulary/小学校.md), [通り](../vocabulary/通り.md), [気を付けて](../vocabulary/気を付けて.md), [新しい](../vocabulary/新しい.md), [高校生](../vocabulary/高校生.md), [中学校](../vocabulary/中学校.md), [付く](../vocabulary/付く.md), [見付ける](../vocabulary/見付ける.md), [弱虫](../vocabulary/弱虫.md), [弱々しい](../vocabulary/弱々しい.md), [欠ける](../vocabulary/欠ける.md), [高さ](../vocabulary/高さ.md), [白黒](../vocabulary/白黒.md), [返す](../vocabulary/返す.md), [保持](../vocabulary/保持.md), [生保](../vocabulary/生保.md), [保つ](../vocabulary/保つ.md), [試みる](../vocabulary/試みる.md), [試食](../vocabulary/試食.md), [体験](../vocabulary/体験.md), [受験](../vocabulary/受験.md), [実験](../vocabulary/実験.md), [試験](../vocabulary/試験.md), [発表](../vocabulary/発表.md), [表す](../vocabulary/表す.md), [出発](../vocabulary/出発.md), [本屋](../vocabulary/本屋.md), [全部](../vocabulary/全部.md), [天使](../vocabulary/天使.md), [新年](../vocabulary/新年.md), [要る](../vocabulary/要る.md), [対談](../vocabulary/対談.md), [〜部](../vocabulary/〜部.md), [部分](../vocabulary/部分.md), [不自由](../vocabulary/不自由.md), [教え](../vocabulary/教え.md), [表](../vocabulary/表.md), [付近](../vocabulary/付近.md), [何度](../vocabulary/何度.md), [泳ぎ](../vocabulary/泳ぎ.md), [記事](../vocabulary/記事.md), [火事](../vocabulary/火事.md), [通す](../vocabulary/通す.md), [部室](../vocabulary/部室.md), [生物](../vocabulary/生物.md), [家事](../vocabulary/家事.md), [部首](../vocabulary/部首.md), [使用](../vocabulary/使用.md), [出身](../vocabulary/出身.md), [交代](../vocabulary/交代.md), [空手](../vocabulary/空手.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -40,7 +42,9 @@
 | [覀](../radicals/覀.md) | Helicopter |
 | [None](../radicals/None.md) | Gladiator |
 | [永](../radicals/永.md) | Eternity |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -81,7 +85,9 @@
 | [保](../kanjis/保.md) | Preserve, Guarantee |
 | [試](../kanjis/試.md) | Try, Attempt |
 | [験](../kanjis/験.md) | Test |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

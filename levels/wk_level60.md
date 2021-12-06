@@ -19,12 +19,16 @@
 | vocabulary | [定款](../vocabulary/定款.md), [約款](../vocabulary/約款.md), [倹約](../vocabulary/倹約.md), [解剖学](../vocabulary/解剖学.md), [弾劾](../vocabulary/弾劾.md), [隠匿](../vocabulary/隠匿.md), [匿名](../vocabulary/匿名.md), [升](../vocabulary/升.md), [升目](../vocabulary/升目.md), [唄](../vocabulary/唄.md), [唄う](../vocabulary/唄う.md), [長唄](../vocabulary/長唄.md), [囚人](../vocabulary/囚人.md), [死刑囚](../vocabulary/死刑囚.md), [坑道](../vocabulary/坑道.md), [妄想](../vocabulary/妄想.md), [婿](../vocabulary/婿.md), [花婿](../vocabulary/花婿.md), [娘婿](../vocabulary/娘婿.md), [寡婦](../vocabulary/寡婦.md), [寡黙](../vocabulary/寡黙.md), [帆船](../vocabulary/帆船.md), [帆柱](../vocabulary/帆柱.md), [廉価](../vocabulary/廉価.md), [管弦楽団](../vocabulary/管弦楽団.md), [思慕](../vocabulary/思慕.md), [慕う](../vocabulary/慕う.md), [感慨無量](../vocabulary/感慨無量.md), [感慨深い](../vocabulary/感慨深い.md), [悪戯](../vocabulary/悪戯.md), [戯れ](../vocabulary/戯れ.md), [拷問](../vocabulary/拷問.md), [某〜](../vocabulary/某〜.md), [桟橋](../vocabulary/桟橋.md), [殉職](../vocabulary/殉職.md), [吸い殻](../vocabulary/吸い殻.md), [分泌](../vocabulary/分泌.md), [泌尿器](../vocabulary/泌尿器.md), [渓谷](../vocabulary/渓谷.md), [渓流](../vocabulary/渓流.md), [湧く](../vocabulary/湧く.md), [湧水](../vocabulary/湧水.md), [漸く](../vocabulary/漸く.md), [濁る](../vocabulary/濁る.md), [煩い](../vocabulary/煩い.md), [煩雑](../vocabulary/煩雑.md), [煩忙](../vocabulary/煩忙.md), [湖畔](../vocabulary/湖畔.md), [下痢](../vocabulary/下痢.md), [赤痢](../vocabulary/赤痢.md), [矯正](../vocabulary/矯正.md), [硫黄](../vocabulary/硫黄.md), [罷免](../vocabulary/罷免.md), [藍](../vocabulary/藍.md), [藻](../vocabulary/藻.md), [海藻](../vocabulary/海藻.md), [野蛮](../vocabulary/野蛮.md), [南蛮](../vocabulary/南蛮.md), [蛮行](../vocabulary/蛮行.md), [謹賀新年](../vocabulary/謹賀新年.md), [容赦なく](../vocabulary/容赦なく.md), [逝去](../vocabulary/逝去.md), [醜い](../vocabulary/醜い.md), [醜悪](../vocabulary/醜悪.md), [醜態](../vocabulary/醜態.md), [醜聞](../vocabulary/醜聞.md), [狐](../vocabulary/狐.md), [冥王星](../vocabulary/冥王星.md), [冥界](../vocabulary/冥界.md), [冥土](../vocabulary/冥土.md), [酌み交わす](../vocabulary/酌み交わす.md), [詠う](../vocabulary/詠う.md), [某](../vocabulary/某.md), [某国](../vocabulary/某国.md), [某所](../vocabulary/某所.md), [某氏](../vocabulary/某氏.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
 | [勇](../radicals/勇.md) | Courage |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -63,7 +67,9 @@
 | [倹](../kanjis/倹.md) | Thrifty, Frugal |
 | [狐](../kanjis/狐.md) | Fox |
 | [冥](../kanjis/冥.md) | Underworld |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

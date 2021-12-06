@@ -21,7 +21,9 @@
 | vocabulary | [現在](../vocabulary/現在.md), [混じる](../vocabulary/混じる.md), [保守主義](../vocabulary/保守主義.md), [素晴らしい](../vocabulary/素晴らしい.md), [各駅停車](../vocabulary/各駅停車.md), [確認する](../vocabulary/確認する.md), [済ます](../vocabulary/済ます.md), [経済的](../vocabulary/経済的.md), [委員会](../vocabulary/委員会.md), [選挙する](../vocabulary/選挙する.md), [判断する](../vocabulary/判断する.md), [責任感](../vocabulary/責任感.md), [バス停](../vocabulary/バス停.md), [停止](../vocabulary/停止.md), [停電](../vocabulary/停電.md), [吸血鬼](../vocabulary/吸血鬼.md), [吸収](../vocabulary/吸収.md), [領収書](../vocabulary/領収書.md), [収入](../vocabulary/収入.md), [革](../vocabulary/革.md), [革命](../vocabulary/革命.md), [皮革](../vocabulary/皮革.md), [無職](../vocabulary/無職.md), [職場](../vocabulary/職場.md), [職業](../vocabulary/職業.md), [職員](../vocabulary/職員.md), [有職](../vocabulary/有職.md), [求職](../vocabulary/求職.md), [辞職](../vocabulary/辞職.md), [鬼](../vocabulary/鬼.md), [規則](../vocabulary/規則.md), [規律](../vocabulary/規律.md), [看護師](../vocabulary/看護師.md), [弁護士](../vocabulary/弁護士.md), [保護する](../vocabulary/保護する.md), [教師](../vocabulary/教師.md), [医師](../vocabulary/医師.md), [法律](../vocabulary/法律.md), [律動](../vocabulary/律動.md), [不文律](../vocabulary/不文律.md), [割る](../vocabulary/割る.md), [役割](../vocabulary/役割.md), [一割](../vocabulary/一割.md), [割合](../vocabulary/割合.md), [裁く](../vocabulary/裁く.md), [裁判](../vocabulary/裁判.md), [崎](../vocabulary/崎.md), [川崎](../vocabulary/川崎.md), [長崎](../vocabulary/長崎.md), [基準](../vocabulary/基準.md), [反則](../vocabulary/反則.md), [法則](../vocabulary/法則.md), [備える](../vocabulary/備える.md), [準備](../vocabulary/準備.md), [導く](../vocabulary/導く.md), [指導](../vocabulary/指導.md), [幹](../vocabulary/幹.md), [新幹線](../vocabulary/新幹線.md), [張る](../vocabulary/張る.md), [優しい](../vocabulary/優しい.md), [男優](../vocabulary/男優.md), [優先](../vocabulary/優先.md), [優勝](../vocabulary/優勝.md), [宅](../vocabulary/宅.md), [自宅](../vocabulary/自宅.md), [住宅](../vocabulary/住宅.md), [沢](../vocabulary/沢.md), [贅沢](../vocabulary/贅沢.md), [施行](../vocabulary/施行.md), [現れる](../vocabulary/現れる.md), [表現](../vocabulary/表現.md), [現実](../vocabulary/現実.md), [現場](../vocabulary/現場.md), [牛乳](../vocabulary/牛乳.md), [乳首](../vocabulary/乳首.md), [呼ぶ](../vocabulary/呼ぶ.md), [城](../vocabulary/城.md), [俳優](../vocabulary/俳優.md), [俳句](../vocabulary/俳句.md), [秀でる](../vocabulary/秀でる.md), [優秀](../vocabulary/優秀.md), [経済学](../vocabulary/経済学.md), [検査する](../vocabulary/検査する.md), [挙げる](../vocabulary/挙げる.md), [理解する](../vocabulary/理解する.md), [批判する](../vocabulary/批判する.md), [増やす](../vocabulary/増やす.md), [解く](../vocabulary/解く.md), [断つ](../vocabulary/断つ.md), [施設](../vocabulary/施設.md), [総理府](../vocabulary/総理府.md), [了解](../vocabulary/了解.md), [演技](../vocabulary/演技.md), [演ずる](../vocabulary/演ずる.md), [演芸](../vocabulary/演芸.md), [上演](../vocabulary/上演.md), [台詞](../vocabulary/台詞.md), [心得る](../vocabulary/心得る.md), [楽天主義](../vocabulary/楽天主義.md), [沢山](../vocabulary/沢山.md), [現に](../vocabulary/現に.md), [割り算](../vocabulary/割り算.md), [羨ましい](../vocabulary/羨ましい.md), [収まる](../vocabulary/収まる.md), [加わる](../vocabulary/加わる.md), [痒い](../vocabulary/痒い.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -31,7 +33,9 @@
 | [道](../radicals/道.md) | Road |
 | [鬼](../radicals/鬼.md) | Demon |
 | [衣](../radicals/衣.md) | Clothes |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -67,7 +71,9 @@
 | [俳](../kanjis/俳.md) | Haiku |
 | [秀](../kanjis/秀.md) | Excel |
 | [痒](../kanjis/痒.md) | Itchy |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

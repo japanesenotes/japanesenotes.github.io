@@ -21,14 +21,18 @@
 | vocabulary | [貨幣価値](../vocabulary/貨幣価値.md), [不明瞭](../vocabulary/不明瞭.md), [浸透](../vocabulary/浸透.md), [粘り](../vocabulary/粘り.md), [お婆ちゃん](../vocabulary/お婆ちゃん.md), [憎らしい](../vocabulary/憎らしい.md), [憎しみ](../vocabulary/憎しみ.md), [憎い](../vocabulary/憎い.md), [扇](../vocabulary/扇.md), [団扇](../vocabulary/団扇.md), [挿入する](../vocabulary/挿入する.md), [駒](../vocabulary/駒.md), [紫](../vocabulary/紫.md), [紫外線](../vocabulary/紫外線.md), [紫色](../vocabulary/紫色.md), [抽象](../vocabulary/抽象.md), [抽選](../vocabulary/抽選.md), [抽出](../vocabulary/抽出.md), [誓い](../vocabulary/誓い.md), [誓約](../vocabulary/誓約.md), [悟る](../vocabulary/悟る.md), [覚悟](../vocabulary/覚悟.md), [開拓](../vocabulary/開拓.md), [拘置](../vocabulary/拘置.md), [礎](../vocabulary/礎.md), [基礎](../vocabulary/基礎.md), [鶴](../vocabulary/鶴.md), [刈る](../vocabulary/刈る.md), [草刈り](../vocabulary/草刈り.md), [刈り取る](../vocabulary/刈り取る.md), [剛健](../vocabulary/剛健.md), [唯](../vocabulary/唯.md), [唯一](../vocabulary/唯一.md), [唯物論](../vocabulary/唯物論.md), [壇](../vocabulary/壇.md), [花壇](../vocabulary/花壇.md), [仏壇](../vocabulary/仏壇.md), [尼僧](../vocabulary/尼僧.md), [尼](../vocabulary/尼.md), [気概](../vocabulary/気概.md), [概算](../vocabulary/概算.md), [概念](../vocabulary/概念.md), [概要](../vocabulary/概要.md), [大概](../vocabulary/大概.md), [一概に](../vocabulary/一概に.md), [浸る](../vocabulary/浸る.md), [浸水](../vocabulary/浸水.md), [侵食](../vocabulary/侵食.md), [淡い](../vocabulary/淡い.md), [淡水](../vocabulary/淡水.md), [煮る](../vocabulary/煮る.md), [雑煮](../vocabulary/雑煮.md), [煮物](../vocabulary/煮物.md), [覆る](../vocabulary/覆る.md), [覆面](../vocabulary/覆面.md), [転覆](../vocabulary/転覆.md), [謀る](../vocabulary/謀る.md), [無謀](../vocabulary/無謀.md), [陰謀](../vocabulary/陰謀.md), [陶器](../vocabulary/陶器.md), [陶芸](../vocabulary/陶芸.md), [隔離](../vocabulary/隔離.md), [隔週](../vocabulary/隔週.md), [間隔](../vocabulary/間隔.md), [隔月](../vocabulary/隔月.md), [隔てる](../vocabulary/隔てる.md), [遠征](../vocabulary/遠征.md), [征服](../vocabulary/征服.md), [陛下](../vocabulary/陛下.md), [俗語](../vocabulary/俗語.md), [民俗](../vocabulary/民俗.md), [俗](../vocabulary/俗.md), [桑](../vocabulary/桑.md), [桑原](../vocabulary/桑原.md), [桑畑](../vocabulary/桑畑.md), [潤う](../vocabulary/潤う.md), [利潤](../vocabulary/利潤.md), [数珠](../vocabulary/数珠.md), [珠算](../vocabulary/珠算.md), [真珠](../vocabulary/真珠.md), [衰える](../vocabulary/衰える.md), [老衰](../vocabulary/老衰.md), [衰退](../vocabulary/衰退.md), [推奨](../vocabulary/推奨.md), [奨学金](../vocabulary/奨学金.md), [劣化](../vocabulary/劣化.md), [劣悪](../vocabulary/劣悪.md), [劣等感](../vocabulary/劣等感.md), [劣る](../vocabulary/劣る.md), [勘](../vocabulary/勘.md), [勘案](../vocabulary/勘案.md), [勘弁](../vocabulary/勘弁.md), [割り勘](../vocabulary/割り勘.md), [勘違い](../vocabulary/勘違い.md), [王妃](../vocabulary/王妃.md), [皇太子妃](../vocabulary/皇太子妃.md), [妃](../vocabulary/妃.md), [恨み](../vocabulary/恨み.md), [哀れむ](../vocabulary/哀れむ.md), [憩い](../vocabulary/憩い.md), [詐欺師](../vocabulary/詐欺師.md), [花柳界](../vocabulary/花柳界.md), [休憩所](../vocabulary/休憩所.md), [お疲れ様](../vocabulary/お疲れ様.md), [慌てる](../vocabulary/慌てる.md), [恐慌](../vocabulary/恐慌.md), [蹴る](../vocabulary/蹴る.md), [一蹴する](../vocabulary/一蹴する.md), [炊ける](../vocabulary/炊ける.md), [砕ける](../vocabulary/砕ける.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
 | [回](../radicals/回.md) | Times |
 | [甚](../radicals/甚.md) | Crab Trap |
 | [荒](../radicals/荒.md) | Wild |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -67,7 +71,9 @@
 | [妃](../kanjis/妃.md) | Princess, Queen |
 | [慌](../kanjis/慌.md) | Confused, Bewildered |
 | [蹴](../kanjis/蹴.md) | Kick |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

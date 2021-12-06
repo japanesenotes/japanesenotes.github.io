@@ -21,7 +21,9 @@
 | vocabulary | [好む](../vocabulary/好む.md), [映画館](../vocabulary/映画館.md), [仏](../vocabulary/仏.md), [仏教](../vocabulary/仏教.md), [大仏](../vocabulary/大仏.md), [信じる](../vocabulary/信じる.md), [自信](../vocabulary/自信.md), [信号](../vocabulary/信号.md), [信心](../vocabulary/信心.md), [信用](../vocabulary/信用.md), [不信](../vocabulary/不信.md), [返信](../vocabulary/返信.md), [勇気](../vocabulary/勇気.md), [区](../vocabulary/区.md), [区分](../vocabulary/区分.md), [地区](../vocabulary/地区.md), [単に](../vocabulary/単に.md), [単語](../vocabulary/単語.md), [上司](../vocabulary/上司.md), [坂](../vocabulary/坂.md), [変](../vocabulary/変.md), [変人](../vocabulary/変人.md), [変化](../vocabulary/変化.md), [変死](../vocabulary/変死.md), [大変](../vocabulary/大変.md), [事変](../vocabulary/事変.md), [夫](../vocabulary/夫.md), [岩](../vocabulary/岩.md), [帰る](../vocabulary/帰る.md), [建てる](../vocabulary/建てる.md), [建築](../vocabulary/建築.md), [式](../vocabulary/式.md), [春](../vocabulary/春.md), [春休み](../vocabulary/春休み.md), [昨今](../vocabulary/昨今.md), [昨日](../vocabulary/昨日.md), [昼](../vocabulary/昼.md), [晩](../vocabulary/晩.md), [今晩は](../vocabulary/今晩は.md), [毎晩](../vocabulary/毎晩.md), [晴れる](../vocabulary/晴れる.md), [毒](../vocabulary/毒.md), [中毒](../vocabulary/中毒.md), [有毒](../vocabulary/有毒.md), [食中毒](../vocabulary/食中毒.md), [毒ガス](../vocabulary/毒ガス.md), [方法](../vocabulary/方法.md), [文法](../vocabulary/文法.md), [不法](../vocabulary/不法.md), [泣く](../vocabulary/泣く.md), [浅い](../vocabulary/浅い.md), [猫](../vocabulary/猫.md), [子猫](../vocabulary/子猫.md), [秋](../vocabulary/秋.md), [新築](../vocabulary/新築.md), [世紀](../vocabulary/世紀.md), [紀元後](../vocabulary/紀元後.md), [英語](../vocabulary/英語.md), [英会話](../vocabulary/英会話.md), [英文](../vocabulary/英文.md), [英国](../vocabulary/英国.md), [英和](../vocabulary/英和.md), [時計](../vocabulary/時計.md), [合計](../vocabulary/合計.md), [計画](../vocabulary/計画.md), [計算](../vocabulary/計算.md), [軍人](../vocabulary/軍人.md), [海軍](../vocabulary/海軍.md), [飯](../vocabulary/飯.md), [ご飯](../vocabulary/ご飯.md), [不器用](../vocabulary/不器用.md), [お願い](../vocabulary/お願い.md), [飲み放題](../vocabulary/飲み放題.md), [食べ放題](../vocabulary/食べ放題.md), [人殺し](../vocabulary/人殺し.md), [殺人者](../vocabulary/殺人者.md), [指輪](../vocabulary/指輪.md), [輪ゴム](../vocabulary/輪ゴム.md), [整理する](../vocabulary/整理する.md), [暗記する](../vocabulary/暗記する.md), [練習する](../vocabulary/練習する.md), [映す](../vocabulary/映す.md), [変事](../vocabulary/変事.md), [同期中](../vocabulary/同期中.md), [寺](../vocabulary/寺.md), [美味しい](../vocabulary/美味しい.md), [変える](../vocabulary/変える.md), [丈夫](../vocabulary/丈夫.md), [丈](../vocabulary/丈.md), [頑丈](../vocabulary/頑丈.md), [見返す](../vocabulary/見返す.md), [軍](../vocabulary/軍.md), [列](../vocabulary/列.md), [伝](../vocabulary/伝.md), [情けない](../vocabulary/情けない.md), [放つ](../vocabulary/放つ.md), [整える](../vocabulary/整える.md), [昼休み](../vocabulary/昼休み.md), [晴れ](../vocabulary/晴れ.md), [昨年](../vocabulary/昨年.md), [乗馬](../vocabulary/乗馬.md), [由来](../vocabulary/由来.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -31,7 +33,9 @@
 | [去](../radicals/去.md) | Past |
 | [歩](../radicals/歩.md) | Walk |
 | [丈](../radicals/丈.md) | Height |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -68,7 +72,9 @@
 | [晩](../kanjis/晩.md) | Night, Evening |
 | [猫](../kanjis/猫.md) | Cat |
 | [丈](../kanjis/丈.md) | Height, Ten Feet |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

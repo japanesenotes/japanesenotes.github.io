@@ -21,7 +21,9 @@
 | vocabulary | [右手](../vocabulary/右手.md), [四日](../vocabulary/四日.md), [四つ](../vocabulary/四つ.md), [四千](../vocabulary/四千.md), [四十](../vocabulary/四十.md), [左手](../vocabulary/左手.md), [生きる](../vocabulary/生きる.md), [石](../vocabulary/石.md), [休み](../vocabulary/休み.md), [休む](../vocabulary/休む.md), [休止](../vocabulary/休止.md), [休日](../vocabulary/休日.md), [先ず](../vocabulary/先ず.md), [先](../vocabulary/先.md), [先々月](../vocabulary/先々月.md), [先月](../vocabulary/先月.md), [先日](../vocabulary/先日.md), [先生](../vocabulary/先生.md), [名人](../vocabulary/名人.md), [名字](../vocabulary/名字.md), [字](../vocabulary/字.md), [太字](../vocabulary/太字.md), [文字](../vocabulary/文字.md), [一文字](../vocabulary/一文字.md), [２０１１年](../vocabulary/２０１１年.md), [年内](../vocabulary/年内.md), [年中](../vocabulary/年中.md), [一年生](../vocabulary/一年生.md), [少年](../vocabulary/少年.md), [去年](../vocabulary/去年.md), [早い](../vocabulary/早い.md), [早々](../vocabulary/早々.md), [気](../vocabulary/気.md), [気に入る](../vocabulary/気に入る.md), [一気](../vocabulary/一気.md), [気分](../vocabulary/気分.md), [人気](../vocabulary/人気.md), [元気](../vocabulary/元気.md), [天気](../vocabulary/天気.md), [本気](../vocabulary/本気.md), [平気](../vocabulary/平気.md), [一本気](../vocabulary/一本気.md), [百万](../vocabulary/百万.md), [四百](../vocabulary/四百.md), [五百](../vocabulary/五百.md), [二百](../vocabulary/二百.md), [竹の子](../vocabulary/竹の子.md), [竹](../vocabulary/竹.md), [糸](../vocabulary/糸.md), [耳](../vocabulary/耳.md), [虫](../vocabulary/虫.md), [村](../vocabulary/村.md), [村人](../vocabulary/村人.md), [男](../vocabulary/男.md), [町](../vocabulary/町.md), [花](../vocabulary/花.md), [花火](../vocabulary/花火.md), [花見](../vocabulary/花見.md), [見る](../vocabulary/見る.md), [見せる](../vocabulary/見せる.md), [見方](../vocabulary/見方.md), [月見](../vocabulary/月見.md), [貝](../vocabulary/貝.md), [赤](../vocabulary/赤.md), [赤ちゃん](../vocabulary/赤ちゃん.md), [足りる](../vocabulary/足りる.md), [足](../vocabulary/足.md), [不足](../vocabulary/不足.md), [車](../vocabulary/車.md), [車内](../vocabulary/車内.md), [世](../vocabulary/世.md), [二世](../vocabulary/二世.md), [三世](../vocabulary/三世.md), [主に](../vocabulary/主に.md), [主人](../vocabulary/主人.md), [仕方](../vocabulary/仕方.md), [他](../vocabulary/他.md), [他人](../vocabulary/他人.md), [代わる](../vocabulary/代わる.md), [一代](../vocabulary/一代.md), [代用](../vocabulary/代用.md), [写す](../vocabulary/写す.md), [号](../vocabulary/号.md), [中央](../vocabulary/中央.md), [平ら](../vocabulary/平ら.md), [平日](../vocabulary/平日.md), [打つ](../vocabulary/打つ.md), [一打](../vocabulary/一打.md), [氷](../vocabulary/氷.md), [かき氷](../vocabulary/かき氷.md), [申す](../vocabulary/申す.md), [申し申し](../vocabulary/申し申し.md), [皿](../vocabulary/皿.md), [小皿](../vocabulary/小皿.md), [お礼](../vocabulary/お礼.md), [不正](../vocabulary/不正.md), [子牛](../vocabulary/子牛.md), [切手](../vocabulary/切手.md), [年](../vocabulary/年.md), [名](../vocabulary/名.md), [宝](../vocabulary/宝.md), [宝石](../vocabulary/宝石.md), [赤い](../vocabulary/赤い.md), [白い](../vocabulary/白い.md), [百](../vocabulary/百.md), [二十日](../vocabulary/二十日.md), [丸ごと](../vocabulary/丸ごと.md), [出かける](../vocabulary/出かける.md), [大気](../vocabulary/大気.md), [口にする](../vocabulary/口にする.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -55,7 +57,9 @@
 | [厂](../radicals/厂.md) | Cliff |
 | [主](../radicals/主.md) | Master |
 | [乚](../radicals/乚.md) | Umbrella |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -98,7 +102,9 @@
 | [不](../kanjis/不.md) | Not |
 | [仕](../kanjis/仕.md) | Doing, Do |
 | [宝](../kanjis/宝.md) | Treasure |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

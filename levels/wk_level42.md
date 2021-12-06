@@ -21,7 +21,9 @@
 | vocabulary | [駆け込む](../vocabulary/駆け込む.md), [駆け出す](../vocabulary/駆け出す.md), [駆け回る](../vocabulary/駆け回る.md), [不孝者](../vocabulary/不孝者.md), [親不孝](../vocabulary/親不孝.md), [携帯電話](../vocabulary/携帯電話.md), [最新鋭](../vocabulary/最新鋭.md), [犠飛](../vocabulary/犠飛.md), [不透明](../vocabulary/不透明.md), [克服](../vocabulary/克服.md), [克明](../vocabulary/克明.md), [到着](../vocabulary/到着.md), [双子](../vocabulary/双子.md), [双](../vocabulary/双.md), [双眼鏡](../vocabulary/双眼鏡.md), [哲学](../vocabulary/哲学.md), [喪](../vocabulary/喪.md), [喪失](../vocabulary/喪失.md), [堅い](../vocabulary/堅い.md), [床](../vocabulary/床.md), [起床](../vocabulary/起床.md), [温床](../vocabulary/温床.md), [病床](../vocabulary/病床.md), [括る](../vocabulary/括る.md), [一括](../vocabulary/一括.md), [総括](../vocabulary/総括.md), [統括](../vocabulary/統括.md), [括弧](../vocabulary/括弧.md), [円弧](../vocabulary/円弧.md), [挑む](../vocabulary/挑む.md), [挑戦](../vocabulary/挑戦.md), [挑発](../vocabulary/挑発.md), [掘る](../vocabulary/掘る.md), [発掘](../vocabulary/発掘.md), [揚げる](../vocabulary/揚げる.md), [握る](../vocabulary/握る.md), [握手](../vocabulary/握手.md), [握力](../vocabulary/握力.md), [揺る](../vocabulary/揺る.md), [動揺](../vocabulary/動揺.md), [書斎](../vocabulary/書斎.md), [斎場](../vocabulary/斎場.md), [暫く](../vocabulary/暫く.md), [暫定](../vocabulary/暫定.md), [解析](../vocabulary/解析.md), [分析](../vocabulary/分析.md), [枢軸](../vocabulary/枢軸.md), [中枢](../vocabulary/中枢.md), [軸](../vocabulary/軸.md), [掛軸](../vocabulary/掛軸.md), [中軸](../vocabulary/中軸.md), [柄](../vocabulary/柄.md), [国柄](../vocabulary/国柄.md), [人柄](../vocabulary/人柄.md), [一泊](../vocabulary/一泊.md), [二泊](../vocabulary/二泊.md), [宿泊](../vocabulary/宿泊.md), [泊まる](../vocabulary/泊まる.md), [滑る](../vocabulary/滑る.md), [円滑](../vocabulary/円滑.md), [潟](../vocabulary/潟.md), [干潟](../vocabulary/干潟.md), [焦点](../vocabulary/焦点.md), [焦げる](../vocabulary/焦げる.md), [範囲](../vocabulary/範囲.md), [模範](../vocabulary/模範.md), [範](../vocabulary/範.md), [紛らす](../vocabulary/紛らす.md), [紛糾](../vocabulary/紛糾.md), [糾弾](../vocabulary/糾弾.md), [綱](../vocabulary/綱.md), [横綱](../vocabulary/横綱.md), [綱引き](../vocabulary/綱引き.md), [網](../vocabulary/網.md), [交通網](../vocabulary/交通網.md), [通信網](../vocabulary/通信網.md), [肝](../vocabulary/肝.md), [肝炎](../vocabulary/肝炎.md), [肝臓](../vocabulary/肝臓.md), [芝](../vocabulary/芝.md), [芝生](../vocabulary/芝生.md), [東芝](../vocabulary/東芝.md), [芝草](../vocabulary/芝草.md), [荒い](../vocabulary/荒い.md), [荒れる](../vocabulary/荒れる.md), [袋](../vocabulary/袋.md), [ゴミ袋](../vocabulary/ゴミ袋.md), [福袋](../vocabulary/福袋.md), [親孝行](../vocabulary/親孝行.md), [吹き出す](../vocabulary/吹き出す.md), [吹き込む](../vocabulary/吹き込む.md), [口笛を吹く](../vocabulary/口笛を吹く.md), [薄める](../vocabulary/薄める.md), [逃れる](../vocabulary/逃れる.md), [吹き飛ばす](../vocabulary/吹き飛ばす.md), [逃がす](../vocabulary/逃がす.md), [小柄](../vocabulary/小柄.md), [透き通る](../vocabulary/透き通る.md), [拉麺](../vocabulary/拉麺.md), [素麺](../vocabulary/素麺.md), [餅](../vocabulary/餅.md), [殺虫剤](../vocabulary/殺虫剤.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -29,7 +31,9 @@
 | [骨](../radicals/骨.md) | Bone |
 | [臼](../radicals/臼.md) | Grenade |
 | [屋](../radicals/屋.md) | Shop |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -67,7 +71,9 @@
 | [荒](../kanjis/荒.md) | Wild |
 | [袋](../kanjis/袋.md) | Sack |
 | [餅](../kanjis/餅.md) | Mochi, Sticky Rice Cake |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

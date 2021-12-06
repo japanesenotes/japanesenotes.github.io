@@ -21,7 +21,9 @@
 | vocabulary | [待合室](../vocabulary/待合室.md), [取材](../vocabulary/取材.md), [約束する](../vocabulary/約束する.md), [仮面](../vocabulary/仮面.md), [係わる](../vocabulary/係わる.md), [保守的](../vocabulary/保守的.md), [保存](../vocabulary/保存.md), [保険](../vocabulary/保険.md), [保証](../vocabulary/保証.md), [仏像](../vocabulary/仏像.md), [古典的](../vocabulary/古典的.md), [仏典](../vocabulary/仏典.md), [字典](../vocabulary/字典.md), [事典](../vocabulary/事典.md), [冒険](../vocabulary/冒険.md), [冗談](../vocabulary/冗談.md), [危険](../vocabulary/危険.md), [危ない](../vocabulary/危ない.md), [取る](../vocabulary/取る.md), [下品](../vocabulary/下品.md), [作品](../vocabulary/作品.md), [品](../vocabulary/品.md), [新品](../vocabulary/新品.md), [商品](../vocabulary/商品.md), [公園](../vocabulary/公園.md), [園](../vocabulary/園.md), [存じる](../vocabulary/存じる.md), [生存](../vocabulary/生存.md), [守る](../vocabulary/守る.md), [留守](../vocabulary/留守.md), [真実](../vocabulary/真実.md), [専門](../vocabulary/専門.md), [不幸](../vocabulary/不幸.md), [幸せ](../vocabulary/幸せ.md), [政府](../vocabulary/政府.md), [弁当](../vocabulary/弁当.md), [東京弁](../vocabulary/東京弁.md), [〜弁](../vocabulary/〜弁.md), [急ぐ](../vocabulary/急ぐ.md), [急に](../vocabulary/急に.md), [急死](../vocabulary/急死.md), [急行](../vocabulary/急行.md), [政治](../vocabulary/政治.md), [書く](../vocabulary/書く.md), [残品](../vocabulary/残品.md), [全治](../vocabulary/全治.md), [不治](../vocabulary/不治.md), [明治](../vocabulary/明治.md), [浴びる](../vocabulary/浴びる.md), [日光浴](../vocabulary/日光浴.md), [特急](../vocabulary/特急.md), [留学](../vocabulary/留学.md), [写真](../vocabulary/写真.md), [真っ黒](../vocabulary/真っ黒.md), [幸福](../vocabulary/幸福.md), [笑う](../vocabulary/笑う.md), [笑顔](../vocabulary/笑顔.md), [ゴミ箱](../vocabulary/ゴミ箱.md), [箱](../vocabulary/箱.md), [荷物](../vocabulary/荷物.md), [証](../vocabulary/証.md), [証人](../vocabulary/証人.md), [証言](../vocabulary/証言.md), [辞書](../vocabulary/辞書.md), [辞める](../vocabulary/辞める.md), [世辞](../vocabulary/世辞.md), [遠い](../vocabulary/遠い.md), [入門](../vocabulary/入門.md), [関する](../vocabulary/関する.md), [関係](../vocabulary/関係.md), [阪神](../vocabulary/阪神.md), [前面](../vocabulary/前面.md), [地面](../vocabulary/地面.md), [外面](../vocabulary/外面.md), [画面](../vocabulary/画面.md), [面](../vocabulary/面.md), [面白い](../vocabulary/面白い.md), [図書館](../vocabulary/図書館.md), [料理人](../vocabulary/料理人.md), [芸術家](../vocabulary/芸術家.md), [自動的](../vocabulary/自動的.md), [基本的](../vocabulary/基本的.md), [折り目](../vocabulary/折り目.md), [卒業式](../vocabulary/卒業式.md), [不完全](../vocabulary/不完全.md), [美術館](../vocabulary/美術館.md), [折り紙](../vocabulary/折り紙.md), [希望する](../vocabulary/希望する.md), [技術](../vocabulary/技術.md), [妥協する](../vocabulary/妥協する.md), [不合格](../vocabulary/不合格.md), [卒業する](../vocabulary/卒業する.md), [残す](../vocabulary/残す.md), [固める](../vocabulary/固める.md), [証明](../vocabulary/証明.md), [曜日](../vocabulary/曜日.md), [関西](../vocabulary/関西.md), [大阪](../vocabulary/大阪.md), [取れる](../vocabulary/取れる.md), [関心](../vocabulary/関心.md), [自動車](../vocabulary/自動車.md), [教科書](../vocabulary/教科書.md), [顔面](../vocabulary/顔面.md), [急](../vocabulary/急.md), [動物園](../vocabulary/動物園.md), [記念日](../vocabulary/記念日.md), [場面](../vocabulary/場面.md), [辞典](../vocabulary/辞典.md), [幸運](../vocabulary/幸運.md), [折れる](../vocabulary/折れる.md), [門](../vocabulary/門.md), [食料品](../vocabulary/食料品.md), [治安](../vocabulary/治安.md), [荷札](../vocabulary/荷札.md), [遠足](../vocabulary/遠足.md), [帰す](../vocabulary/帰す.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -29,7 +31,9 @@
 | [谷](../radicals/谷.md) | Valley |
 | [面](../radicals/面.md) | Face |
 | [壴](../radicals/壴.md) | Drum |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -66,7 +70,9 @@
 | [冒](../kanjis/冒.md) | Dare |
 | [冗](../kanjis/冗.md) | Superfluous, Unnecessary, Uselessness |
 | [阪](../kanjis/阪.md) | Heights, Slope |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

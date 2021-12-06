@@ -21,12 +21,16 @@
 | vocabulary | [回忌](../vocabulary/回忌.md), [忌](../vocabulary/忌.md), [禁忌](../vocabulary/禁忌.md), [一周忌](../vocabulary/一周忌.md), [忌まわしい](../vocabulary/忌まわしい.md), [早乙女](../vocabulary/早乙女.md), [東亜](../vocabulary/東亜.md), [侮蔑](../vocabulary/侮蔑.md), [侮る](../vocabulary/侮る.md), [侮辱](../vocabulary/侮辱.md), [凸凹](../vocabulary/凸凹.md), [凹む](../vocabulary/凹む.md), [卑屈](../vocabulary/卑屈.md), [卑劣](../vocabulary/卑劣.md), [叔父](../vocabulary/叔父.md), [叔母](../vocabulary/叔母.md), [吟味](../vocabulary/吟味.md), [堪える](../vocabulary/堪える.md), [婚姻](../vocabulary/婚姻.md), [駐屯](../vocabulary/駐屯.md), [岬](../vocabulary/岬.md), [峠](../vocabulary/峠.md), [崇高](../vocabulary/崇高.md), [崇拝](../vocabulary/崇拝.md), [惜しまない](../vocabulary/惜しまない.md), [慶事](../vocabulary/慶事.md), [弁慶](../vocabulary/弁慶.md), [慶祝](../vocabulary/慶祝.md), [慶弔](../vocabulary/慶弔.md), [憂き目](../vocabulary/憂き目.md), [憧れ](../vocabulary/憧れ.md), [憧れる](../vocabulary/憧れる.md), [稚拙](../vocabulary/稚拙.md), [模擬](../vocabulary/模擬.md), [擬装](../vocabulary/擬装.md), [取り敢えず](../vocabulary/取り敢えず.md), [法曹](../vocabulary/法曹.md), [ご無沙汰](../vocabulary/ご無沙汰.md), [流浪](../vocabulary/流浪.md), [浪費](../vocabulary/浪費.md), [放浪](../vocabulary/放浪.md), [浪人](../vocabulary/浪人.md), [浮浪者](../vocabulary/浮浪者.md), [漆](../vocabulary/漆.md), [漆器](../vocabulary/漆器.md), [漆黒](../vocabulary/漆黒.md), [漬物](../vocabulary/漬物.md), [〜漬け](../vocabulary/〜漬け.md), [漬かる](../vocabulary/漬かる.md), [甚大](../vocabulary/甚大.md), [甚だ](../vocabulary/甚だ.md), [親睦](../vocabulary/親睦.md), [暗礁](../vocabulary/暗礁.md), [環礁](../vocabulary/環礁.md), [岩礁](../vocabulary/岩礁.md), [禍根](../vocabulary/禍根.md), [戦禍](../vocabulary/戦禍.md), [危篤](../vocabulary/危篤.md), [紡ぐ](../vocabulary/紡ぐ.md), [紡績](../vocabulary/紡績.md), [紡織](../vocabulary/紡織.md), [胆](../vocabulary/胆.md), [魂胆](../vocabulary/魂胆.md), [胆石](../vocabulary/胆石.md), [大胆](../vocabulary/大胆.md), [落胆](../vocabulary/落胆.md), [大腸菌](../vocabulary/大腸菌.md), [萌え](../vocabulary/萌え.md), [軽蔑](../vocabulary/軽蔑.md), [蔑む](../vocabulary/蔑む.md), [不均衡](../vocabulary/不均衡.md), [詠む](../vocabulary/詠む.md), [普遍的](../vocabulary/普遍的.md), [一遍に](../vocabulary/一遍に.md), [遮断機](../vocabulary/遮断機.md), [左遷](../vocabulary/左遷.md), [遷都](../vocabulary/遷都.md), [変遷](../vocabulary/変遷.md), [酪農](../vocabulary/酪農.md), [鋳造](../vocabulary/鋳造.md), [閑散](../vocabulary/閑散.md), [閑静](../vocabulary/閑静.md), [雌](../vocabulary/雌.md), [雌花](../vocabulary/雌花.md), [詠歌](../vocabulary/詠歌.md), [詠嘆](../vocabulary/詠嘆.md), [梓川](../vocabulary/梓川.md), [沙羅](../vocabulary/沙羅.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
 | [下](../radicals/下.md) | Below |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -66,7 +70,9 @@
 | [汰](../kanjis/汰.md) | Select |
 | [梓](../kanjis/梓.md) | Japanese Birch, Birch |
 | [沙](../kanjis/沙.md) | Sand |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

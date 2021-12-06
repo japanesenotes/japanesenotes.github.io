@@ -21,7 +21,9 @@
 | vocabulary | [故に](../vocabulary/故に.md), [針金](../vocabulary/針金.md), [巨大](../vocabulary/巨大.md), [巨人](../vocabulary/巨人.md), [退く](../vocabulary/退く.md), [矢印](../vocabulary/矢印.md), [絶景](../vocabulary/絶景.md), [並列](../vocabulary/並列.md), [並行](../vocabulary/並行.md), [並ぶ](../vocabulary/並ぶ.md), [並](../vocabulary/並.md), [修士](../vocabulary/修士.md), [修理](../vocabulary/修理.md), [研修](../vocabulary/研修.md), [修辞学](../vocabulary/修辞学.md), [傘](../vocabulary/傘.md), [傘立て](../vocabulary/傘立て.md), [児童](../vocabulary/児童.md), [幼児](../vocabulary/幼児.md), [冷たい](../vocabulary/冷たい.md), [冷静](../vocabulary/冷静.md), [冷凍庫](../vocabulary/冷凍庫.md), [凍る](../vocabulary/凍る.md), [凍死](../vocabulary/凍死.md), [凍結](../vocabulary/凍結.md), [処理](../vocabulary/処理.md), [処分](../vocabulary/処分.md), [処置](../vocabulary/処置.md), [〜券](../vocabulary/〜券.md), [旅券](../vocabulary/旅券.md), [前売り券](../vocabulary/前売り券.md), [回数券](../vocabulary/回数券.md), [刺身](../vocabulary/刺身.md), [創造力](../vocabulary/創造力.md), [創造的](../vocabulary/創造的.md), [博物館](../vocabulary/博物館.md), [博打](../vocabulary/博打.md), [星占い](../vocabulary/星占い.md), [微妙](../vocabulary/微妙.md), [妙](../vocabulary/妙.md), [妙薬](../vocabulary/妙薬.md), [婦人](../vocabulary/婦人.md), [夫婦](../vocabulary/夫婦.md), [主婦](../vocabulary/主婦.md), [幼い](../vocabulary/幼い.md), [幼年時代](../vocabulary/幼年時代.md), [庫](../vocabulary/庫.md), [金庫](../vocabulary/金庫.md), [車庫](../vocabulary/車庫.md), [回復する](../vocabulary/回復する.md), [微か](../vocabulary/微か.md), [微生物](../vocabulary/微生物.md), [憲法](../vocabulary/憲法.md), [憲政](../vocabulary/憲政.md), [無我夢中](../vocabulary/無我夢中.md), [身振り](../vocabulary/身振り.md), [振り仮名](../vocabulary/振り仮名.md), [面接する](../vocabulary/面接する.md), [撃つ](../vocabulary/撃つ.md), [攻撃](../vocabulary/攻撃.md), [攻める](../vocabulary/攻める.md), [専攻](../vocabulary/専攻.md), [反攻](../vocabulary/反攻.md), [浜](../vocabulary/浜.md), [横浜](../vocabulary/横浜.md), [清い](../vocabulary/清い.md), [清潔](../vocabulary/清潔.md), [潔い](../vocabulary/潔い.md), [不潔](../vocabulary/不潔.md), [独り言](../vocabulary/独り言.md), [利益](../vocabulary/利益.md), [有益](../vocabulary/有益.md), [公益](../vocabulary/公益.md), [国益](../vocabulary/国益.md), [移す](../vocabulary/移す.md), [移民](../vocabulary/移民.md), [移住](../vocabulary/移住.md), [程](../vocabulary/程.md), [程度](../vocabulary/程度.md), [過程](../vocabulary/過程.md), [日程](../vocabulary/日程.md), [幼稚](../vocabulary/幼稚.md), [精神](../vocabulary/精神.md), [精度](../vocabulary/精度.md), [絶対](../vocabulary/絶対.md), [絶つ](../vocabulary/絶つ.md), [絶望](../vocabulary/絶望.md), [菓子屋](../vocabulary/菓子屋.md), [大衆](../vocabulary/大衆.md), [衆議院](../vocabulary/衆議院.md), [貯金箱](../vocabulary/貯金箱.md), [比較的](../vocabulary/比較的.md), [比較する](../vocabulary/比較する.md), [逆](../vocabulary/逆.md), [逆効果](../vocabulary/逆効果.md), [逆らう](../vocabulary/逆らう.md), [逆説](../vocabulary/逆説.md), [大間違い](../vocabulary/大間違い.md), [郵便局](../vocabulary/郵便局.md), [郵便番号](../vocabulary/郵便番号.md), [郵便箱](../vocabulary/郵便箱.md), [録音](../vocabulary/録音.md), [登録](../vocabulary/登録.md), [記録](../vocabulary/記録.md), [軍隊](../vocabulary/軍隊.md), [〜隊](../vocabulary/〜隊.md), [兵隊](../vocabulary/兵隊.md), [入隊](../vocabulary/入隊.md), [痛む](../vocabulary/痛む.md), [輸入する](../vocabulary/輸入する.md), [我々](../vocabulary/我々.md), [直接的](../vocabulary/直接的.md), [進撃](../vocabulary/進撃.md), [家政婦](../vocabulary/家政婦.md), [従兄弟](../vocabulary/従兄弟.md), [浜辺](../vocabulary/浜辺.md), [何故なら](../vocabulary/何故なら.md), [間違える](../vocabulary/間違える.md), [移動](../vocabulary/移動.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -31,7 +33,9 @@
 | [専](../radicals/専.md) | Specialty |
 | [麗](../radicals/麗.md) | Lovely |
 | [奇](../radicals/奇.md) | Odd |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -69,7 +73,9 @@
 | [撃](../kanjis/撃.md) | Attack |
 | [攻](../kanjis/攻.md) | Aggression |
 | [綺](../kanjis/綺.md) | Beautiful |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

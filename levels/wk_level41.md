@@ -21,7 +21,9 @@
 | vocabulary | [葬儀](../vocabulary/葬儀.md), [控える](../vocabulary/控える.md), [群れる](../vocabulary/群れる.md), [埋もれる](../vocabulary/埋もれる.md), [埋め合わせる](../vocabulary/埋め合わせる.md), [御手洗](../vocabulary/御手洗.md), [岐阜県](../vocabulary/岐阜県.md), [雇用者](../vocabulary/雇用者.md), [破片](../vocabulary/破片.md), [御免なさい](../vocabulary/御免なさい.md), [社会福祉](../vocabulary/社会福祉.md), [謙遜](../vocabulary/謙遜.md), [拳銃](../vocabulary/拳銃.md), [思い遣り](../vocabulary/思い遣り.md), [原爆](../vocabulary/原爆.md), [渋谷](../vocabulary/渋谷.md), [充電する](../vocabulary/充電する.md), [甲斐性](../vocabulary/甲斐性.md), [生き甲斐](../vocabulary/生き甲斐.md), [手の甲](../vocabulary/手の甲.md), [やり甲斐](../vocabulary/やり甲斐.md), [躍り](../vocabulary/躍り.md), [伺う](../vocabulary/伺う.md), [徹する](../vocabulary/徹する.md), [徹夜](../vocabulary/徹夜.md), [徹底](../vocabulary/徹底.md), [瀬戸](../vocabulary/瀬戸.md), [高瀬](../vocabulary/高瀬.md), [早瀬](../vocabulary/早瀬.md), [瀬](../vocabulary/瀬.md), [撤去](../vocabulary/撤去.md), [撤回](../vocabulary/撤回.md), [撤兵](../vocabulary/撤兵.md), [措置](../vocabulary/措置.md), [措辞](../vocabulary/措辞.md), [拠る](../vocabulary/拠る.md), [拠点](../vocabulary/拠点.md), [証拠](../vocabulary/証拠.md), [根拠](../vocabulary/根拠.md), [礼儀](../vocabulary/礼儀.md), [儀式](../vocabulary/儀式.md), [祝儀](../vocabulary/祝儀.md), [辞儀する](../vocabulary/辞儀する.md), [果樹](../vocabulary/果樹.md), [樹皮](../vocabulary/樹皮.md), [植樹](../vocabulary/植樹.md), [放棄](../vocabulary/放棄.md), [廃棄](../vocabulary/廃棄.md), [投棄](../vocabulary/投棄.md), [虎](../vocabulary/虎.md), [蛍](../vocabulary/蛍.md), [蜂](../vocabulary/蜂.md), [蜂蜜](../vocabulary/蜂蜜.md), [焼酎](../vocabulary/焼酎.md), [蜜](../vocabulary/蜜.md), [廃墟](../vocabulary/廃墟.md), [艦船](../vocabulary/艦船.md), [艦隊](../vocabulary/艦隊.md), [軍艦](../vocabulary/軍艦.md), [潜水艦](../vocabulary/潜水艦.md), [航空母艦](../vocabulary/航空母艦.md), [潜む](../vocabulary/潜む.md), [原潜](../vocabulary/原潜.md), [潜水](../vocabulary/潜水.md), [潜在意識](../vocabulary/潜在意識.md), [拳](../vocabulary/拳.md), [拳骨](../vocabulary/拳骨.md), [炭](../vocabulary/炭.md), [炭素](../vocabulary/炭素.md), [石炭](../vocabulary/石炭.md), [〜畑](../vocabulary/〜畑.md), [田畑](../vocabulary/田畑.md), [麦畑](../vocabulary/麦畑.md), [包む](../vocabulary/包む.md), [包丁](../vocabulary/包丁.md), [包囲](../vocabulary/包囲.md), [衣](../vocabulary/衣.md), [更衣室](../vocabulary/更衣室.md), [脱衣](../vocabulary/脱衣.md), [仁](../vocabulary/仁.md), [仁義](../vocabulary/仁義.md), [鉱山](../vocabulary/鉱山.md), [鉱石](../vocabulary/鉱石.md), [鉱物](../vocabulary/鉱物.md), [炭鉱](../vocabulary/炭鉱.md), [鉄鉱](../vocabulary/鉄鉱.md), [鉱業](../vocabulary/鉱業.md), [至る](../vocabulary/至る.md), [夏至](../vocabulary/夏至.md), [冬至](../vocabulary/冬至.md), [必至](../vocabulary/必至.md), [至上](../vocabulary/至上.md), [誠](../vocabulary/誠.md), [誠意](../vocabulary/誠意.md), [誠実](../vocabulary/誠実.md), [忠誠](../vocabulary/忠誠.md), [郷里](../vocabulary/郷里.md), [故郷](../vocabulary/故郷.md), [帰郷する](../vocabulary/帰郷する.md), [侵攻](../vocabulary/侵攻.md), [侵入](../vocabulary/侵入.md), [侵す](../vocabulary/侵す.md), [侵害](../vocabulary/侵害.md), [偽](../vocabulary/偽.md), [偽る](../vocabulary/偽る.md), [偽装](../vocabulary/偽装.md), [偽造](../vocabulary/偽造.md), [衣服](../vocabulary/衣服.md), [渋々](../vocabulary/渋々.md), [嘘](../vocabulary/嘘.md), [嘘吐き](../vocabulary/嘘吐き.md), [凄い](../vocabulary/凄い.md), [凄絶](../vocabulary/凄絶.md), [喧嘩](../vocabulary/喧嘩.md), [喧しい](../vocabulary/喧しい.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -29,7 +31,9 @@
 | [夆](../radicals/夆.md) | Signpost |
 | [妻](../radicals/妻.md) | Wife |
 | [宣](../radicals/宣.md) | Proclaim |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -67,7 +71,9 @@
 | [凄](../kanjis/凄.md) | Amazing, Wonderful, Terrible, Awful |
 | [喧](../kanjis/喧.md) | Noisy, Picky |
 | [嘩](../kanjis/嘩.md) | Rowdy |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

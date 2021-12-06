@@ -21,7 +21,9 @@
 | vocabulary | [お兄さん](../vocabulary/お兄さん.md), [考え](../vocabulary/考え.md), [考え方](../vocabulary/考え方.md), [形](../vocabulary/形.md), [直る](../vocabulary/直る.md), [欠点](../vocabulary/欠点.md), [〜氏](../vocabulary/〜氏.md), [氏名](../vocabulary/氏名.md), [自由](../vocabulary/自由.md), [理由](../vocabulary/理由.md), [〜札](../vocabulary/〜札.md), [国民](../vocabulary/国民.md), [辺り](../vocabulary/辺り.md), [この辺](../vocabulary/この辺.md), [付ける](../vocabulary/付ける.md), [以外](../vocabulary/以外.md), [以上](../vocabulary/以上.md), [以前](../vocabulary/以前.md), [失う](../vocabulary/失う.md), [失礼](../vocabulary/失礼.md), [必ず](../vocabulary/必ず.md), [必死](../vocabulary/必死.md), [未だ](../vocabulary/未だ.md), [未来](../vocabulary/未来.md), [末](../vocabulary/末.md), [年末](../vocabulary/年末.md), [月末](../vocabulary/月末.md), [高校](../vocabulary/高校.md), [学校](../vocabulary/学校.md), [夏](../vocabulary/夏.md), [夏休み](../vocabulary/夏休み.md), [家](../vocabulary/家.md), [作家](../vocabulary/作家.md), [弱い](../vocabulary/弱い.md), [弱点](../vocabulary/弱点.md), [時](../vocabulary/時.md), [一時](../vocabulary/一時.md), [二時半](../vocabulary/二時半.md), [何時](../vocabulary/何時.md), [同時](../vocabulary/同時.md), [紙](../vocabulary/紙.md), [手紙](../vocabulary/手紙.md), [日記](../vocabulary/日記.md), [通る](../vocabulary/通る.md), [交通](../vocabulary/交通.md), [高い](../vocabulary/高い.md), [強い](../vocabulary/強い.md), [強力](../vocabulary/強力.md), [教える](../vocabulary/教える.md), [教室](../vocabulary/教室.md), [心理学](../vocabulary/心理学.md), [地理](../vocabulary/地理.md), [組](../vocabulary/組.md), [船](../vocabulary/船.md), [風船](../vocabulary/風船.md), [先週](../vocabulary/先週.md), [今週](../vocabulary/今週.md), [週末](../vocabulary/週末.md), [雪](../vocabulary/雪.md), [魚](../vocabulary/魚.md), [金魚](../vocabulary/金魚.md), [海魚](../vocabulary/海魚.md), [鳥](../vocabulary/鳥.md), [白鳥](../vocabulary/白鳥.md), [黄色](../vocabulary/黄色.md), [黒い](../vocabulary/黒い.md), [黒人](../vocabulary/黒人.md), [人形](../vocabulary/人形.md), [手作り](../vocabulary/手作り.md), [風](../vocabulary/風.md), [大学生](../vocabulary/大学生.md), [言い方](../vocabulary/言い方.md), [先回り](../vocabulary/先回り.md), [近々](../vocabulary/近々.md), [青空](../vocabulary/青空.md), [小学生](../vocabulary/小学生.md), [作り方](../vocabulary/作り方.md), [中学生](../vocabulary/中学生.md), [不人気](../vocabulary/不人気.md), [心理](../vocabulary/心理.md), [時代](../vocabulary/時代.md), [本当に](../vocabulary/本当に.md), [社会](../vocabulary/社会.md), [〜丁目](../vocabulary/〜丁目.md), [〜時](../vocabulary/〜時.md), [大きく](../vocabulary/大きく.md), [近く](../vocabulary/近く.md), [台風](../vocabulary/台風.md), [船体](../vocabulary/船体.md), [〜号室](../vocabulary/〜号室.md), [大空](../vocabulary/大空.md), [見当たる](../vocabulary/見当たる.md), [三角形](../vocabulary/三角形.md), [活用形](../vocabulary/活用形.md), [一体](../vocabulary/一体.md), [小声](../vocabulary/小声.md), [辺](../vocabulary/辺.md), [海王星](../vocabulary/海王星.md), [以下](../vocabulary/以下.md), [町民](../vocabulary/町民.md), [来週](../vocabulary/来週.md), [光る](../vocabulary/光る.md), [札](../vocabulary/札.md), [以後](../vocabulary/以後.md), [一斤](../vocabulary/一斤.md), [二斤](../vocabulary/二斤.md), [火星](../vocabulary/火星.md), [木星](../vocabulary/木星.md), [人里](../vocabulary/人里.md), [〜分](../vocabulary/〜分.md), [ナポレオン三世](../vocabulary/ナポレオン三世.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -43,7 +45,9 @@
 | [豕](../radicals/豕.md) | Pig |
 | [孝](../radicals/孝.md) | Teacher |
 | [且](../radicals/且.md) | Top Hat |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -80,7 +84,9 @@
 | [黄](../kanjis/黄.md) | Yellow |
 | [黒](../kanjis/黒.md) | Black |
 | [風](../kanjis/風.md) | Wind, Style |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

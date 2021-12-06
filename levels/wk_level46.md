@@ -21,13 +21,17 @@
 | vocabulary | [辛子](../vocabulary/辛子.md), [素粒子](../vocabulary/素粒子.md), [お握り](../vocabulary/お握り.md), [揚げ出し](../vocabulary/揚げ出し.md), [叫び](../vocabulary/叫び.md), [叫び声](../vocabulary/叫び声.md), [新芽](../vocabulary/新芽.md), [焦り](../vocabulary/焦り.md), [墨](../vocabulary/墨.md), [墨絵](../vocabulary/墨絵.md), [入れ墨](../vocabulary/入れ墨.md), [鳩](../vocabulary/鳩.md), [穏やか](../vocabulary/穏やか.md), [穏当](../vocabulary/穏当.md), [平穏](../vocabulary/平穏.md), [不穏](../vocabulary/不穏.md), [鈍い](../vocabulary/鈍い.md), [鈍感](../vocabulary/鈍感.md), [鈍器](../vocabulary/鈍器.md), [悪魔](../vocabulary/悪魔.md), [魔法](../vocabulary/魔法.md), [魔術](../vocabulary/魔術.md), [魔女](../vocabulary/魔女.md), [寮](../vocabulary/寮.md), [寮生](../vocabulary/寮生.md), [お盆](../vocabulary/お盆.md), [寧ろ](../vocabulary/寧ろ.md), [丁寧](../vocabulary/丁寧.md), [病棟](../vocabulary/病棟.md), [吾輩](../vocabulary/吾輩.md), [斬新](../vocabulary/斬新.md), [斬殺](../vocabulary/斬殺.md), [斬る](../vocabulary/斬る.md), [椅子](../vocabulary/椅子.md), [歳月](../vocabulary/歳月.md), [〜歳](../vocabulary/〜歳.md), [二十歳](../vocabulary/二十歳.md), [万歳](../vocabulary/万歳.md), [歳暮](../vocabulary/歳暮.md), [歳入](../vocabulary/歳入.md), [涼しい](../vocabulary/涼しい.md), [清涼](../vocabulary/清涼.md), [涼風](../vocabulary/涼風.md), [猿真似](../vocabulary/猿真似.md), [猿](../vocabulary/猿.md), [瞳](../vocabulary/瞳.md), [鍵](../vocabulary/鍵.md), [零](../vocabulary/零.md), [零下](../vocabulary/零下.md), [零時](../vocabulary/零時.md), [零点](../vocabulary/零点.md), [碁](../vocabulary/碁.md), [囲碁](../vocabulary/囲碁.md), [碁盤](../vocabulary/碁盤.md), [碁会所](../vocabulary/碁会所.md), [租界](../vocabulary/租界.md), [租税](../vocabulary/租税.md), [泡](../vocabulary/泡.md), [気泡](../vocabulary/気泡.md), [水泡](../vocabulary/水泡.md), [発泡](../vocabulary/発泡.md), [癖](../vocabulary/癖.md), [幽閉](../vocabulary/幽閉.md), [幽霊](../vocabulary/幽霊.md), [口癖](../vocabulary/口癖.md), [鍛錬](../vocabulary/鍛錬.md), [錬金術](../vocabulary/錬金術.md), [鍛える](../vocabulary/鍛える.md), [穂](../vocabulary/穂.md), [稲穂](../vocabulary/稲穂.md), [皇帝](../vocabulary/皇帝.md), [帝](../vocabulary/帝.md), [帝国](../vocabulary/帝国.md), [帝政](../vocabulary/帝政.md), [瞬く](../vocabulary/瞬く.md), [瞬間](../vocabulary/瞬間.md), [瞬時](../vocabulary/瞬時.md), [白菊](../vocabulary/白菊.md), [誇大](../vocabulary/誇大.md), [瞬き](../vocabulary/瞬き.md), [一瞬](../vocabulary/一瞬.md), [誇る](../vocabulary/誇る.md), [誇張](../vocabulary/誇張.md), [庄園](../vocabulary/庄園.md), [阻む](../vocabulary/阻む.md), [阻止](../vocabulary/阻止.md), [阻害](../vocabulary/阻害.md), [黙る](../vocabulary/黙る.md), [沈黙](../vocabulary/沈黙.md), [黙殺](../vocabulary/黙殺.md), [俵](../vocabulary/俵.md), [土俵](../vocabulary/土俵.md), [綿](../vocabulary/綿.md), [綿布](../vocabulary/綿布.md), [架設](../vocabulary/架設.md), [書架](../vocabulary/書架.md), [担架](../vocabulary/担架.md), [紛れもない](../vocabulary/紛れもない.md), [瞳孔](../vocabulary/瞳孔.md), [眼孔](../vocabulary/眼孔.md), [寸暇](../vocabulary/寸暇.md), [魔](../vocabulary/魔.md), [揺らぐ](../vocabulary/揺らぐ.md), [木綿](../vocabulary/木綿.md), [辛口](../vocabulary/辛口.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
 | [恵](../radicals/恵.md) | Favor |
 | [太](../radicals/太.md) | Fat |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -68,7 +72,9 @@
 | [綿](../kanjis/綿.md) | Cotton |
 | [架](../kanjis/架.md) | Shelf |
 | [孔](../kanjis/孔.md) | Cavity, Hole |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

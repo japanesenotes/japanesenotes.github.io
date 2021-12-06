@@ -21,7 +21,9 @@
 | vocabulary | [場合](../vocabulary/場合.md), [待たせる](../vocabulary/待たせる.md), [着物](../vocabulary/着物.md), [下着](../vocabulary/下着.md), [水着](../vocabulary/水着.md), [間に合う](../vocabulary/間に合う.md), [知り合い](../vocabulary/知り合い.md), [待ちぼうけ](../vocabulary/待ちぼうけ.md), [消しゴム](../vocabulary/消しゴム.md), [悪気](../vocabulary/悪気.md), [山登り](../vocabulary/山登り.md), [流行語](../vocabulary/流行語.md), [流行歌](../vocabulary/流行歌.md), [例外](../vocabulary/例外.md), [一例](../vocabulary/一例.md), [例えば](../vocabulary/例えば.md), [例文](../vocabulary/例文.md), [悪例](../vocabulary/悪例.md), [協会](../vocabulary/協会.md), [協力](../vocabulary/協力.md), [参る](../vocabulary/参る.md), [一周](../vocabulary/一周.md), [周囲](../vocabulary/周囲.md), [周年](../vocabulary/周年.md), [囲む](../vocabulary/囲む.md), [雰囲気](../vocabulary/雰囲気.md), [固い](../vocabulary/固い.md), [頑固](../vocabulary/頑固.md), [基本](../vocabulary/基本.md), [四季](../vocabulary/四季.md), [完了](../vocabulary/完了.md), [完全](../vocabulary/完全.md), [完成](../vocabulary/完成.md), [念願](../vocabulary/念願.md), [残念](../vocabulary/残念.md), [人性](../vocabulary/人性.md), [女性](../vocabulary/女性.md), [性病](../vocabulary/性病.md), [男性](../vocabulary/男性.md), [技](../vocabulary/技.md), [技能](../vocabulary/技能.md), [特技](../vocabulary/特技.md), [折る](../vocabulary/折る.md), [折角](../vocabulary/折角.md), [骨折](../vocabulary/骨折.md), [失望](../vocabulary/失望.md), [望み](../vocabulary/望み.md), [望む](../vocabulary/望む.md), [願望](../vocabulary/願望.md), [木材](../vocabulary/木材.md), [材料](../vocabulary/材料.md), [材木](../vocabulary/材木.md), [束](../vocabulary/束.md), [約束](../vocabulary/約束.md), [松](../vocabulary/松.md), [松葉](../vocabulary/松葉.md), [人格](../vocabulary/人格.md), [合格する](../vocabulary/合格する.md), [性格](../vocabulary/性格.md), [格好](../vocabulary/格好.md), [骨格](../vocabulary/骨格.md), [残り](../vocabulary/残り.md), [残る](../vocabulary/残る.md), [残業](../vocabulary/残業.md), [料理](../vocabulary/料理.md), [〜的](../vocabulary/〜的.md), [日本的](../vocabulary/日本的.md), [目的](../vocabulary/目的.md), [予約](../vocabulary/予約.md), [約](../vocabulary/約.md), [才能](../vocabulary/才能.md), [能力](../vocabulary/能力.md), [芸能界](../vocabulary/芸能界.md), [芸人](../vocabulary/芸人.md), [芸者](../vocabulary/芸者.md), [芸術](../vocabulary/芸術.md), [美術](../vocabulary/美術.md), [骨](../vocabulary/骨.md), [落ち着く](../vocabulary/落ち着く.md), [消化する](../vocabulary/消化する.md), [消える](../vocabulary/消える.md), [気持ち悪い](../vocabulary/気持ち悪い.md), [流れる](../vocabulary/流れる.md), [動かす](../vocabulary/動かす.md), [着ける](../vocabulary/着ける.md), [勉強する](../vocabulary/勉強する.md), [旅行する](../vocabulary/旅行する.md), [起こす](../vocabulary/起こす.md), [旅行者](../vocabulary/旅行者.md), [悪口](../vocabulary/悪口.md), [良好](../vocabulary/良好.md), [自動](../vocabulary/自動.md), [卒業](../vocabulary/卒業.md), [希望](../vocabulary/希望.md), [妥協](../vocabulary/妥協.md), [消化不良](../vocabulary/消化不良.md), [期待する](../vocabulary/期待する.md), [回転ずし](../vocabulary/回転ずし.md), [回転する](../vocabulary/回転する.md), [試合](../vocabulary/試合.md), [合わせる](../vocabulary/合わせる.md), [性](../vocabulary/性.md), [動き](../vocabulary/動き.md), [周り](../vocabulary/周り.md), [深さ](../vocabulary/深さ.md), [周期](../vocabulary/周期.md), [理性](../vocabulary/理性.md), [待合](../vocabulary/待合.md), [言葉つき](../vocabulary/言葉つき.md), [具合](../vocabulary/具合.md), [意図的](../vocabulary/意図的.md), [近代的](../vocabulary/近代的.md), [意地悪](../vocabulary/意地悪.md), [合図](../vocabulary/合図.md), [文化祭](../vocabulary/文化祭.md), [本能](../vocabulary/本能.md), [運動会](../vocabulary/運動会.md), [人参](../vocabulary/人参.md), [温まる](../vocabulary/温まる.md), [苺](../vocabulary/苺.md), [狼](../vocabulary/狼.md), [狼男](../vocabulary/狼男.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -30,7 +32,9 @@
 | [井](../radicals/井.md) | Well |
 | [分](../radicals/分.md) | Part |
 | [才](../radicals/才.md) | Genius |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -66,7 +70,9 @@
 | [頑](../kanjis/頑.md) | Stubborn |
 | [苺](../kanjis/苺.md) | Strawberry |
 | [狼](../kanjis/狼.md) | Wolf |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

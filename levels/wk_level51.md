@@ -21,12 +21,16 @@
 | vocabulary | [又](../vocabulary/又.md), [偉人](../vocabulary/偉人.md), [偉大](../vocabulary/偉大.md), [偉い](../vocabulary/偉い.md), [勘定](../vocabulary/勘定.md), [召す](../vocabulary/召す.md), [喚起](../vocabulary/喚起.md), [喚く](../vocabulary/喚く.md), [召喚](../vocabulary/召喚.md), [塚](../vocabulary/塚.md), [愛媛県](../vocabulary/愛媛県.md), [慈悲](../vocabulary/慈悲.md), [慈愛](../vocabulary/慈愛.md), [慈善](../vocabulary/慈善.md), [挟む](../vocabulary/挟む.md), [枯渇](../vocabulary/枯渇.md), [枯れる](../vocabulary/枯れる.md), [沸く](../vocabulary/沸く.md), [沸点](../vocabulary/沸点.md), [浦](../vocabulary/浦.md), [浸す](../vocabulary/浸す.md), [渦](../vocabulary/渦.md), [渦中](../vocabulary/渦中.md), [潤い](../vocabulary/潤い.md), [洗濯機](../vocabulary/洗濯機.md), [洗濯粉](../vocabulary/洗濯粉.md), [洗濯屋](../vocabulary/洗濯屋.md), [乾燥](../vocabulary/乾燥.md), [焦燥](../vocabulary/焦燥.md), [玄関](../vocabulary/玄関.md), [玄米](../vocabulary/玄米.md), [瓶](../vocabulary/瓶.md), [花瓶](../vocabulary/花瓶.md), [空き瓶](../vocabulary/空き瓶.md), [火炎瓶](../vocabulary/火炎瓶.md), [瓶詰](../vocabulary/瓶詰.md), [耕す](../vocabulary/耕す.md), [耕地](../vocabulary/耕地.md), [耕作](../vocabulary/耕作.md), [農耕](../vocabulary/農耕.md), [聡い](../vocabulary/聡い.md), [聡明](../vocabulary/聡明.md), [肯定](../vocabulary/肯定.md), [脂肪](../vocabulary/脂肪.md), [樹脂](../vocabulary/樹脂.md), [皮膚](../vocabulary/皮膚.md), [苗](../vocabulary/苗.md), [苗字](../vocabulary/苗字.md), [蓮](../vocabulary/蓮.md), [蓮花](../vocabulary/蓮花.md), [覆う](../vocabulary/覆う.md), [貞節](../vocabulary/貞節.md), [貞操](../vocabulary/貞操.md), [不貞](../vocabulary/不貞.md), [軒](../vocabulary/軒.md), [〜軒](../vocabulary/〜軒.md), [柔軟](../vocabulary/柔軟.md), [軟禁](../vocabulary/軟禁.md), [私邸](../vocabulary/私邸.md), [官邸](../vocabulary/官邸.md), [公邸](../vocabulary/公邸.md), [邸宅](../vocabulary/邸宅.md), [邸内](../vocabulary/邸内.md), [郊外](../vocabulary/郊外.md), [近郊](../vocabulary/近郊.md), [郡](../vocabulary/郡.md), [釈明](../vocabulary/釈明.md), [注釈](../vocabulary/注釈.md), [会釈](../vocabulary/会釈.md), [解釈](../vocabulary/解釈.md), [隅](../vocabulary/隅.md), [片隅](../vocabulary/片隅.md), [四隅](../vocabulary/四隅.md), [隅々](../vocabulary/隅々.md), [〜隻](../vocabulary/〜隻.md), [頂く](../vocabulary/頂く.md), [山頂](../vocabulary/山頂.md), [襟](../vocabulary/襟.md), [洗濯する](../vocabulary/洗濯する.md), [慌ただしい](../vocabulary/慌ただしい.md), [世界恐慌](../vocabulary/世界恐慌.md), [煎る](../vocabulary/煎る.md), [亮平](../vocabulary/亮平.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
 | [胃](../radicals/胃.md) | Stomach |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -66,7 +70,9 @@
 | [聡](../kanjis/聡.md) | Wise |
 | [浦](../kanjis/浦.md) | Bay |
 | [塚](../kanjis/塚.md) | Mound |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

@@ -21,7 +21,9 @@
 | vocabulary | [宜しく](../vocabulary/宜しく.md), [宜しくお願いします](../vocabulary/宜しくお願いします.md), [繰り返す](../vocabulary/繰り返す.md), [避難する](../vocabulary/避難する.md), [傾ける](../vocabulary/傾ける.md), [奥様](../vocabulary/奥様.md), [遠慮する](../vocabulary/遠慮する.md), [懸かる](../vocabulary/懸かる.md), [一生懸命](../vocabulary/一生懸命.md), [扱い](../vocabulary/扱い.md), [取り扱う](../vocabulary/取り扱う.md), [選択する](../vocabulary/選択する.md), [称える](../vocabulary/称える.md), [内緒話](../vocabulary/内緒話.md), [緩める](../vocabulary/緩める.md), [贈り物](../vocabulary/贈り物.md), [沖縄県](../vocabulary/沖縄県.md), [贈賄](../vocabulary/贈賄.md), [逃す](../vocabulary/逃す.md), [逃亡者](../vocabulary/逃亡者.md), [顧問](../vocabulary/顧問.md), [顧みる](../vocabulary/顧みる.md), [回顧録](../vocabulary/回顧録.md), [駐日](../vocabulary/駐日.md), [駐在](../vocabulary/駐在.md), [駐車場](../vocabulary/駐車場.md), [駐留軍](../vocabulary/駐留軍.md), [駆ける](../vocabulary/駆ける.md), [柱](../vocabulary/柱.md), [電柱](../vocabulary/電柱.md), [唱える](../vocabulary/唱える.md), [主唱](../vocabulary/主唱.md), [唱歌](../vocabulary/唱歌.md), [独唱](../vocabulary/独唱.md), [歌唱](../vocabulary/歌唱.md), [合唱団](../vocabulary/合唱団.md), [孝行](../vocabulary/孝行.md), [不孝](../vocabulary/不孝.md), [俊才](../vocabulary/俊才.md), [兼業](../vocabulary/兼業.md), [兼用](../vocabulary/兼用.md), [兼ねる](../vocabulary/兼ねる.md), [洗剤](../vocabulary/洗剤.md), [薬剤](../vocabulary/薬剤.md), [薬剤師](../vocabulary/薬剤師.md), [防腐剤](../vocabulary/防腐剤.md), [〜剤](../vocabulary/〜剤.md), [吹く](../vocabulary/吹く.md), [堀](../vocabulary/堀.md), [内堀](../vocabulary/内堀.md), [外堀](../vocabulary/外堀.md), [堀川](../vocabulary/堀川.md), [巡回](../vocabulary/巡回.md), [巡礼](../vocabulary/巡礼.md), [巡る](../vocabulary/巡る.md), [巡査](../vocabulary/巡査.md), [戒める](../vocabulary/戒める.md), [戒告](../vocabulary/戒告.md), [訓戒](../vocabulary/訓戒.md), [警戒](../vocabulary/警戒.md), [排気](../vocabulary/排気.md), [排他](../vocabulary/排他.md), [排水](../vocabulary/排水.md), [排出](../vocabulary/排出.md), [排除](../vocabulary/排除.md), [携帯](../vocabulary/携帯.md), [携わる](../vocabulary/携わる.md), [敏感](../vocabulary/敏感.md), [過敏](../vocabulary/過敏.md), [機敏](../vocabulary/機敏.md), [鋭敏](../vocabulary/鋭敏.md), [鋭い](../vocabulary/鋭い.md), [鋭利](../vocabulary/鋭利.md), [新鋭](../vocabulary/新鋭.md), [敷く](../vocabulary/敷く.md), [敷金](../vocabulary/敷金.md), [屋敷](../vocabulary/屋敷.md), [座敷](../vocabulary/座敷.md), [〜殿](../vocabulary/〜殿.md), [殿様](../vocabulary/殿様.md), [殿堂](../vocabulary/殿堂.md), [犠打](../vocabulary/犠打.md), [獲得](../vocabulary/獲得.md), [捕獲](../vocabulary/捕獲.md), [獲物](../vocabulary/獲物.md), [茂る](../vocabulary/茂る.md), [繁茂](../vocabulary/繁茂.md), [頻繁](../vocabulary/頻繁.md), [繁殖](../vocabulary/繁殖.md), [繁栄](../vocabulary/繁栄.md), [頻度](../vocabulary/頻度.md), [頻発](../vocabulary/頻発.md), [頻りに](../vocabulary/頻りに.md), [生殖](../vocabulary/生殖.md), [殖える](../vocabulary/殖える.md), [薄い](../vocabulary/薄い.md), [薄弱](../vocabulary/薄弱.md), [薄情](../vocabulary/薄情.md), [衝撃](../vocabulary/衝撃.md), [衝突](../vocabulary/衝突.md), [名誉](../vocabulary/名誉.md), [栄誉](../vocabulary/栄誉.md), [褒める](../vocabulary/褒める.md), [褒美](../vocabulary/褒美.md), [褒賞](../vocabulary/褒賞.md), [透ける](../vocabulary/透ける.md), [透明](../vocabulary/透明.md), [隣](../vocabulary/隣.md), [隣家](../vocabulary/隣家.md), [近隣](../vocabulary/近隣.md), [隣国](../vocabulary/隣国.md), [隣人](../vocabulary/隣人.md), [雅致](../vocabulary/雅致.md), [雅楽](../vocabulary/雅楽.md), [優雅](../vocabulary/優雅.md), [〜房](../vocabulary/〜房.md), [嬉々](../vocabulary/嬉々.md), [嬉しい](../vocabulary/嬉しい.md), [膝小僧](../vocabulary/膝小僧.md), [妖精](../vocabulary/妖精.md), [妖怪](../vocabulary/妖怪.md), [妖しい](../vocabulary/妖しい.md), [薄まる](../vocabulary/薄まる.md), [麺](../vocabulary/麺.md), [麺棒](../vocabulary/麺棒.md), [中華麺](../vocabulary/中華麺.md), [麺つゆ](../vocabulary/麺つゆ.md), [拉致](../vocabulary/拉致.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -30,7 +32,9 @@
 | [保](../radicals/保.md) | Preserve |
 | [喜](../radicals/喜.md) | Rejoice |
 | [麦](../radicals/麦.md) | Wheat |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -70,7 +74,9 @@
 | [妖](../kanjis/妖.md) | Supernatural, Enchanting |
 | [麺](../kanjis/麺.md) | Noodles |
 | [拉](../kanjis/拉.md) | Abduct, Pull |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

@@ -21,7 +21,9 @@
 | vocabulary | [助手](../vocabulary/助手.md), [研究室](../vocabulary/研究室.md), [始める](../vocabulary/始める.md), [苦い](../vocabulary/苦い.md), [乗せる](../vocabulary/乗せる.md), [起きる](../vocabulary/起きる.md), [早速](../vocabulary/早速.md), [速度](../vocabulary/速度.md), [配る](../vocabulary/配る.md), [お酒](../vocabulary/お酒.md), [日本酒](../vocabulary/日本酒.md), [病院](../vocabulary/病院.md), [学院](../vocabulary/学院.md), [終わる](../vocabulary/終わる.md), [終点](../vocabulary/終点.md), [終了](../vocabulary/終了.md), [最終](../vocabulary/最終.md), [習う](../vocabulary/習う.md), [転がる](../vocabulary/転がる.md), [自転車](../vocabulary/自転車.md), [運転する](../vocabulary/運転する.md), [転送](../vocabulary/転送.md), [回転](../vocabulary/回転.md), [進む](../vocabulary/進む.md), [進化](../vocabulary/進化.md), [進行](../vocabulary/進行.md), [落ちる](../vocabulary/落ちる.md), [青葉](../vocabulary/青葉.md), [軽い](../vocabulary/軽い.md), [運ぶ](../vocabulary/運ぶ.md), [運がいい](../vocabulary/運がいい.md), [開ける](../vocabulary/開ける.md), [公開](../vocabulary/公開.md), [開業](../vocabulary/開業.md), [開発](../vocabulary/開発.md), [集める](../vocabulary/集める.md), [集中](../vocabulary/集中.md), [集金](../vocabulary/集金.md), [飲む](../vocabulary/飲む.md), [工業](../vocabulary/工業.md), [漢字](../vocabulary/漢字.md), [道路](../vocabulary/道路.md), [線路](../vocabulary/線路.md), [路地](../vocabulary/路地.md), [農民](../vocabulary/農民.md), [農業](../vocabulary/農業.md), [地下鉄](../vocabulary/地下鉄.md), [鉄人](../vocabulary/鉄人.md), [電鉄](../vocabulary/電鉄.md), [歌](../vocabulary/歌.md), [歌手](../vocabulary/歌手.md), [算数](../vocabulary/算数.md), [算定する](../vocabulary/算定する.md), [聞く](../vocabulary/聞く.md), [新聞](../vocabulary/新聞.md), [日本語](../vocabulary/日本語.md), [フランス語](../vocabulary/フランス語.md), [スペイン語](../vocabulary/スペイン語.md), [主語](../vocabulary/主語.md), [読む](../vocabulary/読む.md), [読み方](../vocabulary/読み方.md), [鳴く](../vocabulary/鳴く.md), [線](../vocabulary/線.md), [横](../vocabulary/横.md), [調子](../vocabulary/調子.md), [強調](../vocabulary/強調.md), [調べる](../vocabulary/調べる.md), [親](../vocabulary/親.md), [親しい](../vocabulary/親しい.md), [親切](../vocabulary/親切.md), [親友](../vocabulary/親友.md), [頭](../vocabulary/頭.md), [顔](../vocabulary/顔.md), [顔付き](../vocabulary/顔付き.md), [病気](../vocabulary/病気.md), [〜病](../vocabulary/〜病.md), [病人](../vocabulary/病人.md), [最も](../vocabulary/最も.md), [最高](../vocabulary/最高.md), [最後](../vocabulary/最後.md), [最近](../vocabulary/最近.md), [外来語](../vocabulary/外来語.md), [当て字](../vocabulary/当て字.md), [目医者](../vocabulary/目医者.md), [一番目](../vocabulary/一番目.md), [楽しみ](../vocabulary/楽しみ.md), [〜向け](../vocabulary/〜向け.md), [研究所](../vocabulary/研究所.md), [近道](../vocabulary/近道.md), [助かる](../vocabulary/助かる.md), [楽しむ](../vocabulary/楽しむ.md), [決まる](../vocabulary/決まる.md), [投げ付ける](../vocabulary/投げ付ける.md), [化かす](../vocabulary/化かす.md), [話](../vocabulary/話.md), [出会う](../vocabulary/出会う.md), [心配](../vocabulary/心配.md), [求める](../vocabulary/求める.md), [求人](../vocabulary/求人.md), [私鉄](../vocabulary/私鉄.md), [要求](../vocabulary/要求.md), [私大](../vocabulary/私大.md), [開始](../vocabulary/開始.md), [曲線](../vocabulary/曲線.md), [言語](../vocabulary/言語.md), [速い](../vocabulary/速い.md), [千葉](../vocabulary/千葉.md), [思わず](../vocabulary/思わず.md), [立ち飲み](../vocabulary/立ち飲み.md), [作業](../vocabulary/作業.md), [病む](../vocabulary/病む.md), [売れる](../vocabulary/売れる.md), [入院](../vocabulary/入院.md), [葉](../vocabulary/葉.md), [役場](../vocabulary/役場.md), [口調](../vocabulary/口調.md), [語る](../vocabulary/語る.md), [台所](../vocabulary/台所.md), [農場](../vocabulary/農場.md), [大学院](../vocabulary/大学院.md), [今朝](../vocabulary/今朝.md), [近所](../vocabulary/近所.md), [足し算](../vocabulary/足し算.md), [引き算](../vocabulary/引き算.md), [番号札](../vocabulary/番号札.md), [山道](../vocabulary/山道.md), [頁](../vocabulary/頁.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -39,7 +41,9 @@
 | [隹](../radicals/隹.md) | Turkey |
 | [失](../radicals/失.md) | Fault |
 | [売](../radicals/売.md) | Sell |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -81,7 +85,9 @@
 | [最](../kanjis/最.md) | Most |
 | [求](../kanjis/求.md) | Request |
 | [頁](../kanjis/頁.md) | Page |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

@@ -21,13 +21,17 @@
 | vocabulary | [公告](../vocabulary/公告.md), [溶ける](../vocabulary/溶ける.md), [悪賢い](../vocabulary/悪賢い.md), [輝き](../vocabulary/輝き.md), [蟹](../vocabulary/蟹.md), [鰐](../vocabulary/鰐.md), [鬱陶しい](../vocabulary/鬱陶しい.md), [峰](../vocabulary/峰.md), [連峰](../vocabulary/連峰.md), [巧い](../vocabulary/巧い.md), [巧妙](../vocabulary/巧妙.md), [風邪](../vocabulary/風邪.md), [邪魔](../vocabulary/邪魔.md), [邪](../vocabulary/邪.md), [下駄](../vocabulary/下駄.md), [駄目](../vocabulary/駄目.md), [無駄](../vocabulary/無駄.md), [唐突](../vocabulary/唐突.md), [法廷](../vocabulary/法廷.md), [宮廷](../vocabulary/宮廷.md), [名簿](../vocabulary/名簿.md), [帳簿](../vocabulary/帳簿.md), [表彰](../vocabulary/表彰.md), [漫画](../vocabulary/漫画.md), [漫才](../vocabulary/漫才.md), [訂正](../vocabulary/訂正.md), [改訂版](../vocabulary/改訂版.md), [諮問](../vocabulary/諮問.md), [諮る](../vocabulary/諮る.md), [感銘](../vocabulary/感銘.md), [銘柄](../vocabulary/銘柄.md), [銘々](../vocabulary/銘々.md), [堰](../vocabulary/堰.md), [堤](../vocabulary/堤.md), [堤防](../vocabulary/堤防.md), [漂う](../vocabulary/漂う.md), [漂流](../vocabulary/漂流.md), [漂着](../vocabulary/漂着.md), [翻意](../vocabulary/翻意.md), [翻訳](../vocabulary/翻訳.md), [翻る](../vocabulary/翻る.md), [軌跡](../vocabulary/軌跡.md), [軌道](../vocabulary/軌道.md), [皇后](../vocabulary/皇后.md), [興奮](../vocabulary/興奮.md), [奮起](../vocabulary/奮起.md), [〜亭](../vocabulary/〜亭.md), [仰ぐ](../vocabulary/仰ぐ.md), [仰々しい](../vocabulary/仰々しい.md), [仰天](../vocabulary/仰天.md), [信仰](../vocabulary/信仰.md), [伯](../vocabulary/伯.md), [伯母](../vocabulary/伯母.md), [偶に](../vocabulary/偶に.md), [偶然](../vocabulary/偶然.md), [配偶者](../vocabulary/配偶者.md), [淀川](../vocabulary/淀川.md), [古墳](../vocabulary/古墳.md), [墳墓](../vocabulary/墳墓.md), [壮大](../vocabulary/壮大.md), [壮年](../vocabulary/壮年.md), [壮行](../vocabulary/壮行.md), [〜把](../vocabulary/〜把.md), [把握](../vocabulary/把握.md), [運搬](../vocabulary/運搬.md), [搬送](../vocabulary/搬送.md), [搬出](../vocabulary/搬出.md), [液晶](../vocabulary/液晶.md), [水晶](../vocabulary/水晶.md), [洞](../vocabulary/洞.md), [空洞](../vocabulary/空洞.md), [洞穴](../vocabulary/洞穴.md), [生涯](../vocabulary/生涯.md), [検疫](../vocabulary/検疫.md), [免疫](../vocabulary/免疫.md), [疫病](../vocabulary/疫病.md), [脅す](../vocabulary/脅す.md), [飢え](../vocabulary/飢え.md), [尽くす](../vocabulary/尽くす.md), [彩り](../vocabulary/彩り.md), [悔やむ](../vocabulary/悔やむ.md), [殴り合い](../vocabulary/殴り合い.md), [殴り込み](../vocabulary/殴り込み.md), [遂げる](../vocabulary/遂げる.md), [麻布](../vocabulary/麻布.md), [鬱気](../vocabulary/鬱気.md), [伯父](../vocabulary/伯父.md), [灯る](../vocabulary/灯る.md), [無邪気](../vocabulary/無邪気.md), [煮える](../vocabulary/煮える.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
 | [名](../radicals/名.md) | Name |
 | [禺](../radicals/禺.md) | Splinter |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -66,7 +70,9 @@
 | [洞](../kanjis/洞.md) | Cave |
 | [涯](../kanjis/涯.md) | Horizon |
 | [疫](../kanjis/疫.md) | Epidemic |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

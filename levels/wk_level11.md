@@ -21,7 +21,9 @@
 | vocabulary | [売り上げ](../vocabulary/売り上げ.md), [売り切れ](../vocabulary/売り切れ.md), [売り手](../vocabulary/売り手.md), [始めに](../vocabulary/始めに.md), [本物](../vocabulary/本物.md), [乗り物](../vocabulary/乗り物.md), [金持ち](../vocabulary/金持ち.md), [気持ち](../vocabulary/気持ち.md), [放送する](../vocabulary/放送する.md), [物語](../vocabulary/物語.md), [争う](../vocabulary/争う.md), [戦争](../vocabulary/戦争.md), [競争](../vocabulary/競争.md), [仲間](../vocabulary/仲間.md), [仲](../vocabulary/仲.md), [仲直り](../vocabulary/仲直り.md), [伝える](../vocabulary/伝える.md), [共通点](../vocabulary/共通点.md), [共同](../vocabulary/共同.md), [公共](../vocabulary/公共.md), [共有](../vocabulary/共有.md), [好き](../vocabulary/好き.md), [友好](../vocabulary/友好.md), [成る](../vocabulary/成る.md), [成功](../vocabulary/成功.md), [老人](../vocabulary/老人.md), [〜位](../vocabulary/〜位.md), [一位](../vocabulary/一位.md), [首位](../vocabulary/首位.md), [低い](../vocabulary/低い.md), [最低](../vocabulary/最低.md), [初回](../vocabulary/初回.md), [最初](../vocabulary/最初.md), [別の](../vocabulary/別の.md), [別に](../vocabulary/別に.md), [別人](../vocabulary/別人.md), [別々](../vocabulary/別々.md), [特別](../vocabulary/特別.md), [利く](../vocabulary/利く.md), [便利](../vocabulary/便利.md), [努力](../vocabulary/努力.md), [労働](../vocabulary/労働.md), [苦労](../vocabulary/苦労.md), [労働者](../vocabulary/労働者.md), [命](../vocabulary/命.md), [運命](../vocabulary/運命.md), [命令](../vocabulary/命令.md), [海岸](../vocabulary/海岸.md), [放す](../vocabulary/放す.md), [開放する](../vocabulary/開放する.md), [昔](../vocabulary/昔.md), [電波](../vocabulary/電波.md), [注ぐ](../vocabulary/注ぐ.md), [注意](../vocabulary/注意.md), [注文](../vocabulary/注文.md), [集中する](../vocabulary/集中する.md), [育つ](../vocabulary/育つ.md), [教育](../vocabulary/教育.md), [拾う](../vocabulary/拾う.md), [指す](../vocabulary/指す.md), [指](../vocabulary/指.md), [指定する](../vocabulary/指定する.md), [洋風](../vocabulary/洋風.md), [洋服](../vocabulary/洋服.md), [太平洋](../vocabulary/太平洋.md), [洋食](../vocabulary/洋食.md), [洋室](../vocabulary/洋室.md), [神](../vocabulary/神.md), [神道](../vocabulary/神道.md), [神社](../vocabulary/神社.md), [秒](../vocabulary/秒.md), [高級](../vocabulary/高級.md), [初級](../vocabulary/初級.md), [中級](../vocabulary/中級.md), [上級](../vocabulary/上級.md), [追う](../vocabulary/追う.md), [戦い](../vocabulary/戦い.md), [作戦](../vocabulary/作戦.md), [戦車](../vocabulary/戦車.md), [戦場](../vocabulary/戦場.md), [競う](../vocabulary/競う.md), [良い](../vocabulary/良い.md), [特に](../vocabulary/特に.md), [不便](../vocabulary/不便.md), [便所](../vocabulary/便所.md), [働く](../vocabulary/働く.md), [意見](../vocabulary/意見.md), [意味](../vocabulary/意味.md), [味](../vocabulary/味.md), [安売り](../vocabulary/安売り.md), [仕返し](../vocabulary/仕返し.md), [返る](../vocabulary/返る.md), [乗り場](../vocabulary/乗り場.md), [使い方](../vocabulary/使い方.md), [仕事](../vocabulary/仕事.md), [負け犬](../vocabulary/負け犬.md), [勝ち](../vocabulary/勝ち.md), [決定する](../vocabulary/決定する.md), [苦しむ](../vocabulary/苦しむ.md), [気付く](../vocabulary/気付く.md), [見送る](../vocabulary/見送る.md), [時々](../vocabulary/時々.md), [受付](../vocabulary/受付.md), [買い物](../vocabulary/買い物.md), [苦手](../vocabulary/苦手.md), [不良](../vocabulary/不良.md), [気持ちいい](../vocabulary/気持ちいい.md), [試す](../vocabulary/試す.md), [入学試験](../vocabulary/入学試験.md), [意外](../vocabulary/意外.md), [〜付き](../vocabulary/〜付き.md), [味方](../vocabulary/味方.md), [発売中](../vocabulary/発売中.md), [食べ物](../vocabulary/食べ物.md), [波](../vocabulary/波.md), [丁度いい](../vocabulary/丁度いい.md), [保持する](../vocabulary/保持する.md), [通う](../vocabulary/通う.md), [屋上](../vocabulary/屋上.md), [支度](../vocabulary/支度.md), [用意](../vocabulary/用意.md), [欠かす](../vocabulary/欠かす.md), [見物](../vocabulary/見物.md), [予め](../vocabulary/予め.md), [平仮名](../vocabulary/平仮名.md), [文字通り](../vocabulary/文字通り.md), [相図](../vocabulary/相図.md), [初歩](../vocabulary/初歩.md), [新た](../vocabulary/新た.md), [西洋](../vocabulary/西洋.md), [別](../vocabulary/別.md), [心持ち](../vocabulary/心持ち.md), [昔話](../vocabulary/昔話.md), [見事](../vocabulary/見事.md), [生物学](../vocabulary/生物学.md), [伝記](../vocabulary/伝記.md), [転がす](../vocabulary/転がす.md), [進める](../vocabulary/進める.md), [欠く](../vocabulary/欠く.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -35,7 +37,9 @@
 | [音](../radicals/音.md) | Sound |
 | [少](../radicals/少.md) | Few |
 | [単](../radicals/単.md) | Simple |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -77,7 +81,9 @@
 | [令](../kanjis/令.md) | Orders |
 | [意](../kanjis/意.md) | Idea |
 | [味](../kanjis/味.md) | Flavor, Taste |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

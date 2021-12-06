@@ -21,7 +21,9 @@
 | vocabulary | [アメリカ人](../vocabulary/アメリカ人.md), [フランス人](../vocabulary/フランス人.md), [ビー玉](../vocabulary/ビー玉.md), [生まれる](../vocabulary/生まれる.md), [生](../vocabulary/生.md), [一万](../vocabulary/一万.md), [二万](../vocabulary/二万.md), [十万](../vocabulary/十万.md), [今](../vocabulary/今.md), [今日](../vocabulary/今日.md), [今月](../vocabulary/今月.md), [元](../vocabulary/元.md), [半分](../vocabulary/半分.md), [分かる](../vocabulary/分かる.md), [分](../vocabulary/分.md), [大切](../vocabulary/大切.md), [切る](../vocabulary/切る.md), [友人](../vocabulary/友人.md), [太い](../vocabulary/太い.md), [太る](../vocabulary/太る.md), [少し](../vocabulary/少し.md), [少ない](../vocabulary/少ない.md), [引く](../vocabulary/引く.md), [心](../vocabulary/心.md), [戸口](../vocabulary/戸口.md), [方](../vocabulary/方.md), [止める](../vocabulary/止める.md), [中止](../vocabulary/中止.md), [毛](../vocabulary/毛.md), [父](../vocabulary/父.md), [お父さん](../vocabulary/お父さん.md), [牛](../vocabulary/牛.md), [冬](../vocabulary/冬.md), [北](../vocabulary/北.md), [半](../vocabulary/半.md), [古い](../vocabulary/古い.md), [中古](../vocabulary/中古.md), [一台](../vocabulary/一台.md), [二台](../vocabulary/二台.md), [五台](../vocabulary/五台.md), [十台](../vocabulary/十台.md), [外](../vocabulary/外.md), [外人](../vocabulary/外人.md), [外れ](../vocabulary/外れ.md), [市](../vocabulary/市.md), [市立](../vocabulary/市立.md), [シアトル市](../vocabulary/シアトル市.md), [広い](../vocabulary/広い.md), [母](../vocabulary/母.md), [お母さん](../vocabulary/お母さん.md), [用いる](../vocabulary/用いる.md), [公用](../vocabulary/公用.md), [矢](../vocabulary/矢.md), [人生](../vocabulary/人生.md), [イギリス人](../vocabulary/イギリス人.md), [内](../vocabulary/内.md), [〜台](../vocabulary/〜台.md), [〜人](../vocabulary/〜人.md), [少女](../vocabulary/少女.md), [万](../vocabulary/万.md), [今日は](../vocabulary/今日は.md), [用](../vocabulary/用.md), [大人しい](../vocabulary/大人しい.md), [戸](../vocabulary/戸.md), [女の人](../vocabulary/女の人.md), [広げる](../vocabulary/広げる.md), [外す](../vocabulary/外す.md), [山びこ](../vocabulary/山びこ.md), [テーブルの上](../vocabulary/テーブルの上.md), [ベッドの下](../vocabulary/ベッドの下.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -46,7 +48,9 @@
 | [巾](../radicals/巾.md) | Towel |
 | [生](../radicals/生.md) | Life |
 | [今](../radicals/今.md) | Now |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -81,7 +85,9 @@
 | [用](../kanjis/用.md) | Task, Use |
 | [矢](../kanjis/矢.md) | Arrow |
 | [生](../kanjis/生.md) | Life |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

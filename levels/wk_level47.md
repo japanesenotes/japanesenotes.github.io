@@ -21,7 +21,9 @@
 | vocabulary | [岳](../vocabulary/岳.md), [零す](../vocabulary/零す.md), [眺め](../vocabulary/眺め.md), [疲れ](../vocabulary/疲れ.md), [湿らせる](../vocabulary/湿らせる.md), [砕石](../vocabulary/砕石.md), [粉砕](../vocabulary/粉砕.md), [粘る](../vocabulary/粘る.md), [粘土](../vocabulary/粘土.md), [粘着](../vocabulary/粘着.md), [化粧](../vocabulary/化粧.md), [欺く](../vocabulary/欺く.md), [詐欺](../vocabulary/詐欺.md), [詐取](../vocabulary/詐取.md), [詐称](../vocabulary/詐称.md), [霧](../vocabulary/霧.md), [黒い霧](../vocabulary/黒い霧.md), [朝霧](../vocabulary/朝霧.md), [柳](../vocabulary/柳.md), [花柳](../vocabulary/花柳.md), [川柳](../vocabulary/川柳.md), [伊勢](../vocabulary/伊勢.md), [伊達](../vocabulary/伊達.md), [補佐](../vocabulary/補佐.md), [大佐](../vocabulary/大佐.md), [少佐](../vocabulary/少佐.md), [中佐](../vocabulary/中佐.md), [尺](../vocabulary/尺.md), [巻尺](../vocabulary/巻尺.md), [哀れ](../vocabulary/哀れ.md), [可哀想](../vocabulary/可哀想.md), [悲哀](../vocabulary/悲哀.md), [唇](../vocabulary/唇.md), [下唇](../vocabulary/下唇.md), [上唇](../vocabulary/上唇.md), [塀](../vocabulary/塀.md), [土塀](../vocabulary/土塀.md), [撃墜](../vocabulary/撃墜.md), [墜落](../vocabulary/墜落.md), [欠如](../vocabulary/欠如.md), [突如](../vocabulary/突如.md), [躍如](../vocabulary/躍如.md), [老婆](../vocabulary/老婆.md), [お婆さん](../vocabulary/お婆さん.md), [崖](../vocabulary/崖.md), [布巾](../vocabulary/布巾.md), [雑巾](../vocabulary/雑巾.md), [帽子](../vocabulary/帽子.md), [貨幣](../vocabulary/貨幣.md), [紙幣](../vocabulary/紙幣.md), [恨む](../vocabulary/恨む.md), [痛恨](../vocabulary/痛恨.md), [憎む](../vocabulary/憎む.md), [愛憎](../vocabulary/愛憎.md), [憩う](../vocabulary/憩う.md), [休憩](../vocabulary/休憩.md), [扇ぐ](../vocabulary/扇ぐ.md), [扇風機](../vocabulary/扇風機.md), [扇子](../vocabulary/扇子.md), [扉](../vocabulary/扉.md), [門扉](../vocabulary/門扉.md), [挿絵](../vocabulary/挿絵.md), [挿話](../vocabulary/挿話.md), [挿入](../vocabulary/挿入.md), [掌](../vocabulary/掌.md), [車掌](../vocabulary/車掌.md), [掌握](../vocabulary/掌握.md), [滴る](../vocabulary/滴る.md), [水滴](../vocabulary/水滴.md), [点滴](../vocabulary/点滴.md), [自炊](../vocabulary/自炊.md), [炊事](../vocabulary/炊事.md), [炊飯器](../vocabulary/炊飯器.md), [爽やか](../vocabulary/爽やか.md), [〜畳](../vocabulary/〜畳.md), [畳](../vocabulary/畳.md), [明瞭](../vocabulary/明瞭.md), [箸](../vocabulary/箸.md), [割り箸](../vocabulary/割り箸.md), [胴](../vocabulary/胴.md), [胴体](../vocabulary/胴体.md), [芯](../vocabulary/芯.md), [虹](../vocabulary/虹.md), [虹色](../vocabulary/虹色.md), [お嬢さん](../vocabulary/お嬢さん.md), [裸足](../vocabulary/裸足.md), [稼ぎ](../vocabulary/稼ぎ.md), [〜狩り](../vocabulary/〜狩り.md), [歯を磨く](../vocabulary/歯を磨く.md), [澄ます](../vocabulary/澄ます.md), [塊魂](../vocabulary/塊魂.md), [矛先](../vocabulary/矛先.md), [お陰で](../vocabulary/お陰で.md), [粘々](../vocabulary/粘々.md), [煎餅](../vocabulary/煎餅.md), [煎茶](../vocabulary/煎茶.md), [砂利](../vocabulary/砂利.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -29,7 +31,9 @@
 | [波](../radicals/波.md) | Wave |
 | [敝](../radicals/敝.md) | Penguin |
 | [前](../radicals/前.md) | Before |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -70,7 +74,9 @@
 | [虹](../kanjis/虹.md) | Rainbow |
 | [巾](../kanjis/巾.md) | Towel |
 | [煎](../kanjis/煎.md) | Roast |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

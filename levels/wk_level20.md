@@ -21,7 +21,9 @@
 | vocabulary | [皿洗い](../vocabulary/皿洗い.md), [困る](../vocabulary/困る.md), [改まる](../vocabulary/改まる.md), [混ざる](../vocabulary/混ざる.md), [余る](../vocabulary/余る.md), [余計](../vocabulary/余計.md), [残余](../vocabulary/残余.md), [個人](../vocabulary/個人.md), [一個](../vocabulary/一個.md), [個室](../vocabulary/個室.md), [三個](../vocabulary/三個.md), [倒す](../vocabulary/倒す.md), [面倒](../vocabulary/面倒.md), [倒産](../vocabulary/倒産.md), [借り手](../vocabulary/借り手.md), [厚い](../vocabulary/厚い.md), [圧力](../vocabulary/圧力.md), [血圧](../vocabulary/血圧.md), [指圧](../vocabulary/指圧.md), [存在](../vocabulary/存在.md), [実在](../vocabulary/実在.md), [在外](../vocabulary/在外.md), [夢中](../vocabulary/夢中.md), [悪夢](../vocabulary/悪夢.md), [夢](../vocabulary/夢.md), [妨害](../vocabulary/妨害.md), [妨げる](../vocabulary/妨げる.md), [被る](../vocabulary/被る.md), [妻](../vocabulary/妻.md), [夫妻](../vocabulary/夫妻.md), [妻子](../vocabulary/妻子.md), [一夫多妻](../vocabulary/一夫多妻.md), [嫌](../vocabulary/嫌.md), [嫌い](../vocabulary/嫌い.md), [機嫌](../vocabulary/機嫌.md), [嫌疑](../vocabulary/嫌疑.md), [留守番電話](../vocabulary/留守番電話.md), [公害](../vocabulary/公害.md), [水害](../vocabulary/水害.md), [無害](../vocabulary/無害.md), [お尻](../vocabulary/お尻.md), [弓矢](../vocabulary/弓矢.md), [忘れ物](../vocabulary/忘れ物.md), [機械](../vocabulary/機械.md), [飛行機](../vocabulary/飛行機.md), [危機](../vocabulary/危機.md), [災い](../vocabulary/災い.md), [災害](../vocabulary/災害.md), [火災](../vocabulary/火災.md), [災難](../vocabulary/災難.md), [震災](../vocabulary/震災.md), [煙い](../vocabulary/煙い.md), [犯す](../vocabulary/犯す.md), [犯人](../vocabulary/犯人.md), [共犯者](../vocabulary/共犯者.md), [確率](../vocabulary/確率.md), [比率](../vocabulary/比率.md), [確かに](../vocabulary/確かに.md), [正確](../vocabulary/正確.md), [立入禁止](../vocabulary/立入禁止.md), [穴](../vocabulary/穴.md), [穴場](../vocabulary/穴場.md), [鼻の穴](../vocabulary/鼻の穴.md), [穴子](../vocabulary/穴子.md), [経つ](../vocabulary/経つ.md), [経験](../vocabulary/経験.md), [罪](../vocabulary/罪.md), [有罪](../vocabulary/有罪.md), [犯罪](../vocabulary/犯罪.md), [臭い](../vocabulary/臭い.md), [被害](../vocabulary/被害.md), [余裕](../vocabulary/余裕.md), [裕福](../vocabulary/裕福.md), [論文](../vocabulary/論文.md), [理論](../vocabulary/理論.md), [論理](../vocabulary/論理.md), [会議](../vocabulary/会議.md), [議論](../vocabulary/議論.md), [不思議](../vocabulary/不思議.md), [防止](../vocabulary/防止.md), [防ぐ](../vocabulary/防ぐ.md), [防水](../vocabulary/防水.md), [防火](../vocabulary/防火.md), [予防](../vocabulary/予防.md), [困難](../vocabulary/困難.md), [非難](../vocabulary/非難.md), [難しい](../vocabulary/難しい.md), [地震](../vocabulary/地震.md), [震度](../vocabulary/震度.md), [余震](../vocabulary/余震.md), [人類学](../vocabulary/人類学.md), [飛ぶ](../vocabulary/飛ぶ.md), [手洗い](../vocabulary/手洗い.md), [胸焼け](../vocabulary/胸焼け.md), [不可分](../vocabulary/不可分.md), [可能性](../vocabulary/可能性.md), [音訓](../vocabulary/音訓.md), [人達](../vocabulary/人達.md), [静々](../vocabulary/静々.md), [文句する](../vocabulary/文句する.md), [焼ける](../vocabulary/焼ける.md), [電子機器](../vocabulary/電子機器.md), [経路](../vocabulary/経路.md), [読者](../vocabulary/読者.md), [在留](../vocabulary/在留.md), [機](../vocabulary/機.md), [自在](../vocabulary/自在.md), [議会](../vocabulary/議会.md), [会議室](../vocabulary/会議室.md), [議員](../vocabulary/議員.md), [尾](../vocabulary/尾.md), [最後尾](../vocabulary/最後尾.md), [天気予報](../vocabulary/天気予報.md), [嫌悪](../vocabulary/嫌悪.md), [議長](../vocabulary/議長.md), [高等学校](../vocabulary/高等学校.md), [喉飴](../vocabulary/喉飴.md), [産まれる](../vocabulary/産まれる.md), [経由](../vocabulary/経由.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -30,7 +32,9 @@
 | [巛](../radicals/巛.md) | Flood |
 | [至](../radicals/至.md) | Mole |
 | [義](../radicals/義.md) | Righteousness |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -67,7 +71,9 @@
 | [穴](../kanjis/穴.md) | Hole, Cave |
 | [論](../kanjis/論.md) | Theory |
 | [経](../kanjis/経.md) | Passage of Time, Pass Through, Manage |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

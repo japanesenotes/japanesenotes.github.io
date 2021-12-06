@@ -21,12 +21,16 @@
 | vocabulary | [之](../vocabulary/之.md), [起伏](../vocabulary/起伏.md), [伏せる](../vocabulary/伏せる.md), [降伏](../vocabulary/降伏.md), [潜伏](../vocabulary/潜伏.md), [伏線](../vocabulary/伏線.md), [伏兵](../vocabulary/伏兵.md), [佳作](../vocabulary/佳作.md), [傍](../vocabulary/傍.md), [傍観](../vocabulary/傍観.md), [傍受](../vocabulary/傍受.md), [凝固](../vocabulary/凝固.md), [凝視](../vocabulary/凝視.md), [凝る](../vocabulary/凝る.md), [奉仕](../vocabulary/奉仕.md), [信奉](../vocabulary/信奉.md), [奉公](../vocabulary/奉公.md), [奉納](../vocabulary/奉納.md), [尿](../vocabulary/尿.md), [弥生](../vocabulary/弥生.md), [循環](../vocabulary/循環.md), [哀悼](../vocabulary/哀悼.md), [追悼](../vocabulary/追悼.md), [惜しむ](../vocabulary/惜しむ.md), [惜敗](../vocabulary/惜敗.md), [愉快](../vocabulary/愉快.md), [憂鬱](../vocabulary/憂鬱.md), [憂国](../vocabulary/憂国.md), [憂慮](../vocabulary/憂慮.md), [憂える](../vocabulary/憂える.md), [遺憾](../vocabulary/遺憾.md), [披露宴](../vocabulary/披露宴.md), [一抹](../vocabulary/一抹.md), [抹殺](../vocabulary/抹殺.md), [抹茶](../vocabulary/抹茶.md), [抹消](../vocabulary/抹消.md), [据え付ける](../vocabulary/据え付ける.md), [一旦](../vocabulary/一旦.md), [元旦](../vocabulary/元旦.md), [繁昌](../vocabulary/繁昌.md), [素朴](../vocabulary/素朴.md), [栃木県](../vocabulary/栃木県.md), [栓](../vocabulary/栓.md), [栓抜き](../vocabulary/栓抜き.md), [洗浄剤](../vocabulary/洗浄剤.md), [南瓜](../vocabulary/南瓜.md), [瓜実顔](../vocabulary/瓜実顔.md), [治癒](../vocabulary/治癒.md), [癒着](../vocabulary/癒着.md), [粗野](../vocabulary/粗野.md), [粗い](../vocabulary/粗い.md), [粗悪](../vocabulary/粗悪.md), [累計](../vocabulary/累計.md), [累進](../vocabulary/累進.md), [累積](../vocabulary/累積.md), [老舗](../vocabulary/老舗.md), [山葵](../vocabulary/山葵.md), [捕虜](../vocabulary/捕虜.md), [虜](../vocabulary/虜.md), [該当](../vocabulary/該当.md), [貴賓](../vocabulary/貴賓.md), [国賓](../vocabulary/国賓.md), [来賓](../vocabulary/来賓.md), [賓客](../vocabulary/賓客.md), [赴任](../vocabulary/赴任.md), [旦那](../vocabulary/旦那.md), [輪郭](../vocabulary/輪郭.md), [鎮圧](../vocabulary/鎮圧.md), [鎮魂](../vocabulary/鎮魂.md), [鎮める](../vocabulary/鎮める.md), [重鎮](../vocabulary/重鎮.md), [鎮痛剤](../vocabulary/鎮痛剤.md), [骨髄](../vocabulary/骨髄.md), [真髄](../vocabulary/真髄.md), [神髄](../vocabulary/神髄.md), [脊髄](../vocabulary/脊髄.md), [勿論](../vocabulary/勿論.md), [瑛斗](../vocabulary/瑛斗.md), [遼太](../vocabulary/遼太.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
 | [疑](../radicals/疑.md) | Doubt |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -66,7 +70,9 @@
 | [瑛](../kanjis/瑛.md) | Crystal |
 | [那](../kanjis/那.md) | What |
 | [勿](../kanjis/勿.md) | Must Not |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

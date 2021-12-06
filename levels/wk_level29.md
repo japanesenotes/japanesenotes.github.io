@@ -21,7 +21,9 @@
 | vocabulary | [お腹](../vocabulary/お腹.md), [腹立つ](../vocabulary/腹立つ.md), [腹切り](../vocabulary/腹切り.md), [同僚](../vocabulary/同僚.md), [官僚](../vocabulary/官僚.md), [診断](../vocabulary/診断.md), [乾く](../vocabulary/乾く.md), [乾季](../vocabulary/乾季.md), [乾杯](../vocabulary/乾杯.md), [促す](../vocabulary/促す.md), [催促](../vocabulary/催促.md), [催告](../vocabulary/催告.md), [主催](../vocabulary/主催.md), [壊す](../vocabulary/壊す.md), [全壊](../vocabulary/全壊.md), [倒壊](../vocabulary/倒壊.md), [娘](../vocabulary/娘.md), [一人娘](../vocabulary/一人娘.md), [宗教](../vocabulary/宗教.md), [宗派](../vocabulary/宗派.md), [禅宗](../vocabulary/禅宗.md), [宴会](../vocabulary/宴会.md), [宴](../vocabulary/宴.md), [不健康](../vocabulary/不健康.md), [緊張](../vocabulary/緊張.md), [怒り](../vocabulary/怒り.md), [怖い](../vocabulary/怖い.md), [恐怖](../vocabulary/恐怖.md), [恐怖症](../vocabulary/恐怖症.md), [恐ろしい](../vocabulary/恐ろしい.md), [一杯](../vocabulary/一杯.md), [二杯](../vocabulary/二杯.md), [三杯](../vocabulary/三杯.md), [板](../vocabulary/板.md), [看板](../vocabulary/看板.md), [見極める](../vocabulary/見極める.md), [極めて](../vocabulary/極めて.md), [欧米](../vocabulary/欧米.md), [中欧](../vocabulary/中欧.md), [日欧](../vocabulary/日欧.md), [江戸](../vocabulary/江戸.md), [入り江](../vocabulary/入り江.md), [添える](../vocabulary/添える.md), [添付](../vocabulary/添付.md), [強烈](../vocabulary/強烈.md), [猛烈](../vocabulary/猛烈.md), [熱烈](../vocabulary/熱烈.md), [猛〜](../vocabulary/猛〜.md), [略す](../vocabulary/略す.md), [省略](../vocabulary/省略.md), [略語](../vocabulary/略語.md), [略図](../vocabulary/略図.md), [大略](../vocabulary/大略.md), [痛み](../vocabulary/痛み.md), [痛み止め](../vocabulary/痛み止め.md), [眠る](../vocabulary/眠る.md), [眠り薬](../vocabulary/眠り薬.md), [睡眠薬](../vocabulary/睡眠薬.md), [積もる](../vocabulary/積もる.md), [面積](../vocabulary/面積.md), [体積](../vocabulary/体積.md), [検索](../vocabulary/検索.md), [索引](../vocabulary/索引.md), [緊急](../vocabulary/緊急.md), [締切](../vocabulary/締切.md), [締まる](../vocabulary/締まる.md), [大臣](../vocabulary/大臣.md), [航法](../vocabulary/航法.md), [航空](../vocabulary/航空.md), [直航](../vocabulary/直航.md), [商店街](../vocabulary/商店街.md), [街道](../vocabulary/街道.md), [診る](../vocabulary/診る.md), [診察](../vocabulary/診察.md), [詰める](../vocabulary/詰める.md), [誘惑する](../vocabulary/誘惑する.md), [請求](../vocabulary/請求.md), [請願](../vocabulary/請願.md), [要請](../vocabulary/要請.md), [請ける](../vocabulary/請ける.md), [貸し](../vocabulary/貸し.md), [道に迷う](../vocabulary/道に迷う.md), [閣僚](../vocabulary/閣僚.md), [閣議](../vocabulary/閣議.md), [英雄](../vocabulary/英雄.md), [韓国](../vocabulary/韓国.md), [日韓](../vocabulary/日韓.md), [好奇心](../vocabulary/好奇心.md), [奇数](../vocabulary/奇数.md), [奇妙](../vocabulary/奇妙.md), [織物](../vocabulary/織物.md), [怒気](../vocabulary/怒気.md), [腹が減った](../vocabulary/腹が減った.md), [招き猫](../vocabulary/招き猫.md), [構える](../vocabulary/構える.md), [訪れる](../vocabulary/訪れる.md), [監視](../vocabulary/監視.md), [監督](../vocabulary/監督.md), [綺麗](../vocabulary/綺麗.md), [黒板](../vocabulary/黒板.md), [迷惑メール](../vocabulary/迷惑メール.md), [寄与](../vocabulary/寄与.md), [寄付](../vocabulary/寄付.md), [居眠り](../vocabulary/居眠り.md), [怒らせる](../vocabulary/怒らせる.md), [寄る](../vocabulary/寄る.md), [迷い](../vocabulary/迷い.md), [捜索](../vocabulary/捜索.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -31,7 +33,9 @@
 | [臣](../radicals/臣.md) | Servant |
 | [乙](../radicals/乙.md) | Nose |
 | [上](../radicals/上.md) | Above |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -68,7 +72,9 @@
 | [烈](../kanjis/烈.md) | Violent, Intense |
 | [索](../kanjis/索.md) | Search |
 | [詰](../kanjis/詰.md) | Stuffed |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

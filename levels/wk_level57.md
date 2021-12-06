@@ -21,13 +21,17 @@
 | vocabulary | [熊之実](../vocabulary/熊之実.md), [乙](../vocabulary/乙.md), [甲乙](../vocabulary/甲乙.md), [間伐](../vocabulary/間伐.md), [伐採](../vocabulary/伐採.md), [減俸](../vocabulary/減俸.md), [年俸](../vocabulary/年俸.md), [傍ら](../vocabulary/傍ら.md), [凸版](../vocabulary/凸版.md), [凹凸](../vocabulary/凹凸.md), [恐喝](../vocabulary/恐喝.md), [坪](../vocabulary/坪.md), [堕落](../vocabulary/堕落.md), [奉行](../vocabulary/奉行.md), [海峡](../vocabulary/海峡.md), [峡谷](../vocabulary/峡谷.md), [弔意](../vocabulary/弔意.md), [弔辞](../vocabulary/弔辞.md), [弔う](../vocabulary/弔う.md), [悪循環](../vocabulary/悪循環.md), [循環器](../vocabulary/循環器.md), [惜しい](../vocabulary/惜しい.md), [不愉快](../vocabulary/不愉快.md), [憂い](../vocabulary/憂い.md), [果敢](../vocabulary/果敢.md), [敢えて](../vocabulary/敢えて.md), [敢行](../vocabulary/敢行.md), [敢然](../vocabulary/敢然.md), [敢闘](../vocabulary/敢闘.md), [勇敢](../vocabulary/勇敢.md), [旋回](../vocabulary/旋回.md), [旋風](../vocabulary/旋風.md), [旋律](../vocabulary/旋律.md), [楓](../vocabulary/楓.md), [楓糖](../vocabulary/楓糖.md), [水槽](../vocabulary/水槽.md), [浴槽](../vocabulary/浴槽.md), [借款](../vocabulary/借款.md), [漬ける](../vocabulary/漬ける.md), [烏](../vocabulary/烏.md), [烏龍茶](../vocabulary/烏龍茶.md), [盲人](../vocabulary/盲人.md), [盲点](../vocabulary/盲点.md), [盲目](../vocabulary/盲目.md), [色盲](../vocabulary/色盲.md), [粗塩](../vocabulary/粗塩.md), [紺](../vocabulary/紺.md), [濃紺](../vocabulary/濃紺.md), [網羅](../vocabulary/網羅.md), [羅列](../vocabulary/羅列.md), [羅針盤](../vocabulary/羅針盤.md), [胎児](../vocabulary/胎児.md), [堕胎](../vocabulary/堕胎.md), [受胎](../vocabulary/受胎.md), [胎盤](../vocabulary/胎盤.md), [腸](../vocabulary/腸.md), [胃腸](../vocabulary/胃腸.md), [盲腸](../vocabulary/盲腸.md), [大腸](../vocabulary/大腸.md), [膜](../vocabulary/膜.md), [角膜](../vocabulary/角膜.md), [網膜](../vocabulary/網膜.md), [萌芽](../vocabulary/萌芽.md), [均衡](../vocabulary/均衡.md), [平衡](../vocabulary/平衡.md), [烏賊](../vocabulary/烏賊.md), [海賊](../vocabulary/海賊.md), [山賊](../vocabulary/山賊.md), [盗賊](../vocabulary/盗賊.md), [迎賓館](../vocabulary/迎賓館.md), [普遍](../vocabulary/普遍.md), [一遍](../vocabulary/一遍.md), [何遍](../vocabulary/何遍.md), [遍歴](../vocabulary/遍歴.md), [遮る](../vocabulary/遮る.md), [遮断](../vocabulary/遮断.md), [酵素](../vocabulary/酵素.md), [酵母](../vocabulary/酵母.md), [発酵](../vocabulary/発酵.md), [醸成](../vocabulary/醸成.md), [醸造](../vocabulary/醸造.md), [醸す](../vocabulary/醸す.md), [鎮まる](../vocabulary/鎮まる.md), [閲覧](../vocabulary/閲覧.md), [検閲](../vocabulary/検閲.md), [校閲](../vocabulary/校閲.md), [鼓舞](../vocabulary/鼓舞.md), [鼓](../vocabulary/鼓.md), [鼓動](../vocabulary/鼓動.md), [鼓膜](../vocabulary/鼓膜.md), [太鼓](../vocabulary/太鼓.md), [癒す](../vocabulary/癒す.md), [蒼白](../vocabulary/蒼白.md), [拓哉](../vocabulary/拓哉.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
 | [凸](../radicals/凸.md) | Convex |
 | [凹](../radicals/凹.md) | Concave |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -65,7 +69,9 @@
 | [蒼](../kanjis/蒼.md) | Pale, Blue |
 | [瑠](../kanjis/瑠.md) | Lapis Lazuli |
 | [萌](../kanjis/萌.md) | Sprout |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

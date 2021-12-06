@@ -21,7 +21,9 @@
 | vocabulary | [上る](../vocabulary/上る.md), [刀](../vocabulary/刀.md), [土](../vocabulary/土.md), [千](../vocabulary/千.md), [一千](../vocabulary/一千.md), [夕べ](../vocabulary/夕べ.md), [女の子](../vocabulary/女の子.md), [子](../vocabulary/子.md), [女子](../vocabulary/女子.md), [小さい](../vocabulary/小さい.md), [丸](../vocabulary/丸.md), [丸い](../vocabulary/丸い.md), [〜才](../vocabulary/〜才.md), [中](../vocabulary/中.md), [中々](../vocabulary/中々.md), [五月](../vocabulary/五月.md), [五日](../vocabulary/五日.md), [五十](../vocabulary/五十.md), [五つ](../vocabulary/五つ.md), [五](../vocabulary/五.md), [六つ](../vocabulary/六つ.md), [六月](../vocabulary/六月.md), [六日](../vocabulary/六日.md), [十六](../vocabulary/十六.md), [六](../vocabulary/六.md), [〜円](../vocabulary/〜円.md), [千円](../vocabulary/千円.md), [円い](../vocabulary/円い.md), [天](../vocabulary/天.md), [天才](../vocabulary/天才.md), [手](../vocabulary/手.md), [下手](../vocabulary/下手.md), [上手](../vocabulary/上手.md), [文](../vocabulary/文.md), [日](../vocabulary/日.md), [月](../vocabulary/月.md), [十月](../vocabulary/十月.md), [一月](../vocabulary/一月.md), [二月](../vocabulary/二月.md), [木](../vocabulary/木.md), [水](../vocabulary/水.md), [火](../vocabulary/火.md), [火山](../vocabulary/火山.md), [犬](../vocabulary/犬.md), [子犬](../vocabulary/子犬.md), [王](../vocabulary/王.md), [王子](../vocabulary/王子.md), [女王](../vocabulary/女王.md), [王女](../vocabulary/王女.md), [出る](../vocabulary/出る.md), [出口](../vocabulary/出口.md), [右](../vocabulary/右.md), [四](../vocabulary/四.md), [四月](../vocabulary/四月.md), [左](../vocabulary/左.md), [本](../vocabulary/本.md), [日本](../vocabulary/日本.md), [正しい](../vocabulary/正しい.md), [正す](../vocabulary/正す.md), [玉](../vocabulary/玉.md), [玉ねぎ](../vocabulary/玉ねぎ.md), [田](../vocabulary/田.md), [白](../vocabulary/白.md), [白人](../vocabulary/白人.md), [目](../vocabulary/目.md), [目玉](../vocabulary/目玉.md), [立つ](../vocabulary/立つ.md), [二日](../vocabulary/二日.md), [人々](../vocabulary/人々.md), [一日](../vocabulary/一日.md), [七日](../vocabulary/七日.md), [三日](../vocabulary/三日.md), [九日](../vocabulary/九日.md), [八日](../vocabulary/八日.md), [十日](../vocabulary/十日.md), [大いに](../vocabulary/大いに.md), [水中](../vocabulary/水中.md), [左右](../vocabulary/左右.md), [入力](../vocabulary/入力.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -59,7 +61,9 @@
 | [立](../radicals/立.md) | Stand |
 | [牛](../radicals/牛.md) | Cow |
 | [ム](../radicals/ム.md) | Private |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -99,7 +103,9 @@
 | [目](../kanjis/目.md) | Eye |
 | [立](../kanjis/立.md) | Stand |
 | [々](../kanjis/々.md) | Repeater, Repetition, Reduplication, Iteration Mark |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

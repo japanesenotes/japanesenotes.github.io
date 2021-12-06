@@ -21,7 +21,9 @@
 | vocabulary | [照らす](../vocabulary/照らす.md), [航空券](../vocabulary/航空券.md), [鼻詰まり](../vocabulary/鼻詰まり.md), [思い詰める](../vocabulary/思い詰める.md), [見詰める](../vocabulary/見詰める.md), [雄犬](../vocabulary/雄犬.md), [絶やす](../vocabulary/絶やす.md), [緊張する](../vocabulary/緊張する.md), [融合](../vocabulary/融合.md), [融資](../vocabulary/融資.md), [離れる](../vocabulary/離れる.md), [離婚](../vocabulary/離婚.md), [分離](../vocabulary/分離.md), [印鑑](../vocabulary/印鑑.md), [壊れる](../vocabulary/壊れる.md), [壊れ物](../vocabulary/壊れ物.md), [既に](../vocabulary/既に.md), [既存](../vocabulary/既存.md), [既決](../vocabulary/既決.md), [普通](../vocabulary/普通.md), [普段](../vocabulary/普段.md), [編む](../vocabulary/編む.md), [編集](../vocabulary/編集.md), [編者](../vocabulary/編者.md), [外務大臣](../vocabulary/外務大臣.md), [総理大臣](../vocabulary/総理大臣.md), [華やか](../vocabulary/華やか.md), [中華](../vocabulary/中華.md), [地下街](../vocabulary/地下街.md), [豪華](../vocabulary/豪華.md), [鑑定](../vocabulary/鑑定.md), [除く](../vocabulary/除く.md), [掃除](../vocabulary/掃除.md), [除外](../vocabulary/除外.md), [尋ねる](../vocabulary/尋ねる.md), [尋問](../vocabulary/尋問.md), [幾ら](../vocabulary/幾ら.md), [幾つ](../vocabulary/幾つ.md), [幾何学](../vocabulary/幾何学.md), [廊下](../vocabulary/廊下.md), [画廊](../vocabulary/画廊.md), [掃く](../vocabulary/掃く.md), [泥](../vocabulary/泥.md), [泥水](../vocabulary/泥水.md), [棒](../vocabulary/棒.md), [驚く](../vocabulary/驚く.md), [驚嘆](../vocabulary/驚嘆.md), [嘆く](../vocabulary/嘆く.md), [嘆息](../vocabulary/嘆息.md), [感嘆符](../vocabulary/感嘆符.md), [倉庫](../vocabulary/倉庫.md), [倉](../vocabulary/倉.md), [子孫](../vocabulary/子孫.md), [孫](../vocabulary/孫.md), [巣](../vocabulary/巣.md), [巣立ち](../vocabulary/巣立ち.md), [ハチの巣](../vocabulary/ハチの巣.md), [クモの巣](../vocabulary/クモの巣.md), [帯](../vocabulary/帯.md), [地帯](../vocabulary/地帯.md), [直径](../vocabulary/直径.md), [半径](../vocabulary/半径.md), [救急車](../vocabulary/救急車.md), [救う](../vocabulary/救う.md), [散る](../vocabulary/散る.md), [散歩](../vocabulary/散歩.md), [解散](../vocabulary/解散.md), [粉](../vocabulary/粉.md), [麦粉](../vocabulary/麦粉.md), [花粉症](../vocabulary/花粉症.md), [粉状](../vocabulary/粉状.md), [人脈](../vocabulary/人脈.md), [山脈](../vocabulary/山脈.md), [血脈](../vocabulary/血脈.md), [野菜](../vocabulary/野菜.md), [菜食](../vocabulary/菜食.md), [貨物](../vocabulary/貨物.md), [通貨](../vocabulary/通貨.md), [大陸](../vocabulary/大陸.md), [陸軍](../vocabulary/陸軍.md), [似る](../vocabulary/似る.md), [真似](../vocabulary/真似.md), [平均](../vocabulary/平均.md), [均等](../vocabulary/均等.md), [均整](../vocabulary/均整.md), [墓](../vocabulary/墓.md), [墓地](../vocabulary/墓地.md), [富士山](../vocabulary/富士山.md), [富む](../vocabulary/富む.md), [富](../vocabulary/富.md), [富裕](../vocabulary/富裕.md), [道徳](../vocabulary/道徳.md), [徳川](../vocabulary/徳川.md), [徳島県](../vocabulary/徳島県.md), [探す](../vocabulary/探す.md), [探究](../vocabulary/探究.md), [探偵](../vocabulary/探偵.md), [内偵](../vocabulary/内偵.md), [恐れる](../vocabulary/恐れる.md), [迷わす](../vocabulary/迷わす.md), [積む](../vocabulary/積む.md), [主催する](../vocabulary/主催する.md), [催促する](../vocabulary/催促する.md), [幾度](../vocabulary/幾度.md), [恐らく](../vocabulary/恐らく.md), [恐れ](../vocabulary/恐れ.md), [用心棒](../vocabulary/用心棒.md), [華道](../vocabulary/華道.md), [華美](../vocabulary/華美.md), [延びる](../vocabulary/延びる.md), [豊富](../vocabulary/豊富.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -31,7 +33,9 @@
 | [离](../radicals/离.md) | Rocket |
 | [扁](../radicals/扁.md) | Library |
 | [郎](../radicals/郎.md) | Guy |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -71,7 +75,9 @@
 | [徳](../kanjis/徳.md) | Virtue |
 | [探](../kanjis/探.md) | Look For, Search For |
 | [偵](../kanjis/偵.md) | Spy |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

@@ -21,7 +21,9 @@
 | vocabulary | [久しぶり](../vocabulary/久しぶり.md), [複数形](../vocabulary/複数形.md), [心臓](../vocabulary/心臓.md), [肺臓](../vocabulary/肺臓.md), [内臓](../vocabulary/内臓.md), [引っ越す](../vocabulary/引っ越す.md), [追い越す](../vocabulary/追い越す.md), [祖父母](../vocabulary/祖父母.md), [飼い主](../vocabulary/飼い主.md), [傷つける](../vocabulary/傷つける.md), [使い捨て](../vocabulary/使い捨て.md), [投げ捨てる](../vocabulary/投げ捨てる.md), [込める](../vocabulary/込める.md), [申し込む](../vocabulary/申し込む.md), [飛び込み自殺](../vocabulary/飛び込み自殺.md), [書き込む](../vocabulary/書き込む.md), [人込み](../vocabulary/人込み.md), [染み](../vocabulary/染み.md), [染まる](../vocabulary/染まる.md), [汚す](../vocabulary/汚す.md), [言い訳](../vocabulary/言い訳.md), [詰め込む](../vocabulary/詰め込む.md), [歓迎](../vocabulary/歓迎.md), [血液型](../vocabulary/血液型.md), [興味がない](../vocabulary/興味がない.md), [賛成する](../vocabulary/賛成する.md), [誤解](../vocabulary/誤解.md), [誤字](../vocabulary/誤字.md), [誤用](../vocabulary/誤用.md), [誤算](../vocabulary/誤算.md), [貴い](../vocabulary/貴い.md), [兄貴](../vocabulary/兄貴.md), [貴様](../vocabulary/貴様.md), [貴族](../vocabulary/貴族.md), [降る](../vocabulary/降る.md), [降参](../vocabulary/降参.md), [降車](../vocabulary/降車.md), [牛丼](../vocabulary/牛丼.md), [丼](../vocabulary/丼.md), [吐く](../vocabulary/吐く.md), [奴](../vocabulary/奴.md), [奴隷](../vocabulary/奴隷.md), [芋](../vocabulary/芋.md), [焼き芋](../vocabulary/焼き芋.md), [じゃが芋](../vocabulary/じゃが芋.md), [縮まる](../vocabulary/縮まる.md), [縮小](../vocabulary/縮小.md), [単純](../vocabulary/単純.md), [不純](../vocabulary/不純.md), [純毛](../vocabulary/純毛.md), [縦](../vocabulary/縦.md), [縦書](../vocabulary/縦書.md), [縦横](../vocabulary/縦横.md), [純粋](../vocabulary/純粋.md), [粋](../vocabulary/粋.md), [神聖](../vocabulary/神聖.md), [聖書](../vocabulary/聖書.md), [聖日](../vocabulary/聖日.md), [聖地](../vocabulary/聖地.md), [磁気](../vocabulary/磁気.md), [磁石](../vocabulary/磁石.md), [磁場](../vocabulary/磁場.md), [紅](../vocabulary/紅.md), [紅茶](../vocabulary/紅茶.md), [注射](../vocabulary/注射.md), [反射](../vocabulary/反射.md), [発射する](../vocabulary/発射する.md), [放射](../vocabulary/放射.md), [幕](../vocabulary/幕.md), [字幕](../vocabulary/字幕.md), [黒幕](../vocabulary/黒幕.md), [拝む](../vocabulary/拝む.md), [拝見する](../vocabulary/拝見する.md), [推定](../vocabulary/推定.md), [推理](../vocabulary/推理.md), [推薦](../vocabulary/推薦.md), [自薦](../vocabulary/自薦.md), [薦める](../vocabulary/薦める.md), [発揮する](../vocabulary/発揮する.md), [指揮](../vocabulary/指揮.md), [沿岸](../vocabulary/沿岸.md), [沿海](../vocabulary/沿海.md), [沿線](../vocabulary/沿線.md), [沿う](../vocabulary/沿う.md), [源](../vocabulary/源.md), [源氏](../vocabulary/源氏.md), [電源](../vocabulary/電源.md), [震源地](../vocabulary/震源地.md), [勤める](../vocabulary/勤める.md), [通勤](../vocabulary/通勤.md), [常勤](../vocabulary/常勤.md), [承る](../vocabulary/承る.md), [承知](../vocabulary/承知.md), [承認](../vocabulary/承認.md), [歓楽街](../vocabulary/歓楽街.md), [損なう](../vocabulary/損なう.md), [損](../vocabulary/損.md), [損害](../vocabulary/損害.md), [大損](../vocabulary/大損.md), [全損](../vocabulary/全損.md), [枝](../vocabulary/枝.md), [豆](../vocabulary/豆.md), [小豆](../vocabulary/小豆.md), [納豆](../vocabulary/納豆.md), [腐る](../vocabulary/腐る.md), [腐食](../vocabulary/腐食.md), [腐敗](../vocabulary/腐敗.md), [爪](../vocabulary/爪.md), [爪切り](../vocabulary/爪切り.md), [刻む](../vocabulary/刻む.md), [時刻表](../vocabulary/時刻表.md), [深刻](../vocabulary/深刻.md), [眼鏡](../vocabulary/眼鏡.md), [幕府](../vocabulary/幕府.md), [貴重](../vocabulary/貴重.md), [迎え](../vocabulary/迎え.md), [傷む](../vocabulary/傷む.md), [以降](../vocabulary/以降.md), [痩せる](../vocabulary/痩せる.md), [痩身](../vocabulary/痩身.md), [股](../vocabulary/股.md), [咳](../vocabulary/咳.md), [里芋](../vocabulary/里芋.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -30,7 +32,9 @@
 | [爪](../radicals/爪.md) | Claw |
 | [亥](../radicals/亥.md) | Slice |
 | [堇](../radicals/堇.md) | Boot |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -69,7 +73,9 @@
 | [腐](../kanjis/腐.md) | Rot |
 | [痩](../kanjis/痩.md) | Thin |
 | [咳](../kanjis/咳.md) | Cough |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

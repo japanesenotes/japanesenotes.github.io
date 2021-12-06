@@ -21,7 +21,9 @@
 | vocabulary | [悲しい](../vocabulary/悲しい.md), [二枚舌](../vocabulary/二枚舌.md), [乱れる](../vocabulary/乱れる.md), [乱戦](../vocabulary/乱戦.md), [混乱](../vocabulary/混乱.md), [乱交](../vocabulary/乱交.md), [〜冊](../vocabulary/〜冊.md), [三冊](../vocabulary/三冊.md), [八冊](../vocabulary/八冊.md), [一冊](../vocabulary/一冊.md), [別冊](../vocabulary/別冊.md), [いい加減](../vocabulary/いい加減.md), [原子力](../vocabulary/原子力.md), [改善](../vocabulary/改善.md), [善悪](../vocabulary/善悪.md), [集団](../vocabulary/集団.md), [入団](../vocabulary/入団.md), [季節](../vocabulary/季節.md), [宇宙](../vocabulary/宇宙.md), [警官](../vocabulary/警官.md), [内容](../vocabulary/内容.md), [容疑](../vocabulary/容疑.md), [形容詞](../vocabulary/形容詞.md), [履歴書](../vocabulary/履歴書.md), [履く](../vocabulary/履く.md), [若布](../vocabulary/若布.md), [布](../vocabulary/布.md), [財布](../vocabulary/財布.md), [布団](../vocabulary/布団.md), [毛布](../vocabulary/毛布.md), [生徒](../vocabulary/生徒.md), [仏教徒](../vocabulary/仏教徒.md), [信徒](../vocabulary/信徒.md), [得る](../vocabulary/得る.md), [得](../vocabulary/得.md), [得意](../vocabulary/得意.md), [説得](../vocabulary/説得.md), [忙しい](../vocabulary/忙しい.md), [恋人](../vocabulary/恋人.md), [改正](../vocabulary/改正.md), [大失敗](../vocabulary/大失敗.md), [昆布](../vocabulary/昆布.md), [易しい](../vocabulary/易しい.md), [容易](../vocabulary/容易.md), [暴れる](../vocabulary/暴れる.md), [暴力](../vocabulary/暴力.md), [乱暴](../vocabulary/乱暴.md), [暴走](../vocabulary/暴走.md), [梅干](../vocabulary/梅干.md), [歴史](../vocabulary/歴史.md), [学歴](../vocabulary/学歴.md), [比べる](../vocabulary/比べる.md), [比例](../vocabulary/比例.md), [対比](../vocabulary/対比.md), [混ぜる](../vocabulary/混ぜる.md), [減る](../vocabulary/減る.md), [減法](../vocabulary/減法.md), [節句](../vocabulary/節句.md), [絡む](../vocabulary/絡む.md), [続く](../vocabulary/続く.md), [続々](../vocabulary/続々.md), [舌](../vocabulary/舌.md), [猫舌](../vocabulary/猫舌.md), [若い](../vocabulary/若い.md), [若者](../vocabulary/若者.md), [若々しい](../vocabulary/若々しい.md), [名詞](../vocabulary/名詞.md), [動詞](../vocabulary/動詞.md), [歌詞](../vocabulary/歌詞.md), [助詞](../vocabulary/助詞.md), [数詞](../vocabulary/数詞.md), [自動詞](../vocabulary/自動詞.md), [無意識](../vocabulary/無意識.md), [私財](../vocabulary/私財.md), [借財](../vocabulary/借財.md), [連続](../vocabulary/連続.md), [連れる](../vocabulary/連れる.md), [財閥](../vocabulary/財閥.md), [非常に](../vocabulary/非常に.md), [非常口](../vocabulary/非常口.md), [順位](../vocabulary/順位.md), [順番](../vocabulary/順番.md), [大きい順](../vocabulary/大きい順.md), [小さい順](../vocabulary/小さい順.md), [席順](../vocabulary/席順.md), [年代順](../vocabulary/年代順.md), [五十音順](../vocabulary/五十音順.md), [果たして](../vocabulary/果たして.md), [細かい](../vocabulary/細かい.md), [警察署](../vocabulary/警察署.md), [説明書](../vocabulary/説明書.md), [笛](../vocabulary/笛.md), [汽笛](../vocabulary/汽笛.md), [加える](../vocabulary/加える.md), [参加](../vocabulary/参加.md), [連絡する](../vocabulary/連絡する.md), [劇団](../vocabulary/劇団.md), [品詞](../vocabulary/品詞.md), [覚える](../vocabulary/覚える.md), [連中](../vocabulary/連中.md), [多忙](../vocabulary/多忙.md), [喜び](../vocabulary/喜び.md), [連日](../vocabulary/連日.md), [関連](../vocabulary/関連.md), [悲しみ](../vocabulary/悲しみ.md), [宙](../vocabulary/宙.md), [混血](../vocabulary/混血.md), [改める](../vocabulary/改める.md), [飲酒](../vocabulary/飲酒.md), [昆虫](../vocabulary/昆虫.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -32,7 +34,9 @@
 | [我](../radicals/我.md) | Ego |
 | [右](../radicals/右.md) | Right |
 | [感](../radicals/感.md) | Feeling |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -69,7 +73,9 @@
 | [比](../kanjis/比.md) | Compare |
 | [笛](../kanjis/笛.md) | Flute |
 | [史](../kanjis/史.md) | History |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

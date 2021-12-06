@@ -21,7 +21,9 @@
 | vocabulary | [砂](../vocabulary/砂.md), [うなぎ丼](../vocabulary/うなぎ丼.md), [降りる](../vocabulary/降りる.md), [親子丼](../vocabulary/親子丼.md), [吐き気](../vocabulary/吐き気.md), [吐き出す](../vocabulary/吐き出す.md), [奴ら](../vocabulary/奴ら.md), [口紅](../vocabulary/口紅.md), [薦め](../vocabulary/薦め.md), [勤め](../vocabulary/勤め.md), [電磁場](../vocabulary/電磁場.md), [放射能](../vocabulary/放射能.md), [指揮者](../vocabulary/指揮者.md), [源氏物語](../vocabulary/源氏物語.md), [損害する](../vocabulary/損害する.md), [枝豆](../vocabulary/枝豆.md), [豆腐](../vocabulary/豆腐.md), [旧姓](../vocabulary/旧姓.md), [復旧](../vocabulary/復旧.md), [姓名](../vocabulary/姓名.md), [貿易](../vocabulary/貿易.md), [甘い](../vocabulary/甘い.md), [甘く見る](../vocabulary/甘く見る.md), [甘党](../vocabulary/甘党.md), [将来](../vocabulary/将来.md), [将軍](../vocabulary/将軍.md), [大将](../vocabulary/大将.md), [主将](../vocabulary/主将.md), [同盟](../vocabulary/同盟.md), [連盟](../vocabulary/連盟.md), [盟約](../vocabulary/盟約.md), [遺産](../vocabulary/遺産.md), [遺失](../vocabulary/遺失.md), [遺伝](../vocabulary/遺伝.md), [遺体](../vocabulary/遺体.md), [伸びる](../vocabulary/伸びる.md), [債券](../vocabulary/債券.md), [債権](../vocabulary/債権.md), [国債](../vocabulary/国債.md), [及ぶ](../vocabulary/及ぶ.md), [普及](../vocabulary/普及.md), [及第](../vocabulary/及第.md), [奈良](../vocabulary/奈良.md), [神奈川県](../vocabulary/神奈川県.md), [幅](../vocabulary/幅.md), [廃止](../vocabulary/廃止.md), [廃れる](../vocabulary/廃れる.md), [廃絶](../vocabulary/廃絶.md), [換気](../vocabulary/換気.md), [変換](../vocabulary/変換.md), [摘む](../vocabulary/摘む.md), [指摘](../vocabulary/指摘.md), [摘発する](../vocabulary/摘発する.md), [核](../vocabulary/核.md), [核兵器](../vocabulary/核兵器.md), [核実験](../vocabulary/核実験.md), [沖合](../vocabulary/沖合.md), [縄](../vocabulary/縄.md), [縄文](../vocabulary/縄文.md), [津波](../vocabulary/津波.md), [献血](../vocabulary/献血.md), [献金](../vocabulary/献金.md), [医療](../vocabulary/医療.md), [治療](../vocabulary/治療.md), [継父](../vocabulary/継父.md), [継ぐ](../vocabulary/継ぐ.md), [継承](../vocabulary/継承.md), [維持](../vocabulary/維持.md), [維新](../vocabulary/維新.md), [舞台](../vocabulary/舞台.md), [舞う](../vocabulary/舞う.md), [歌舞伎](../vocabulary/歌舞伎.md), [舞踏](../vocabulary/舞踏.md), [踏む](../vocabulary/踏む.md), [一般](../vocabulary/一般.md), [超〜](../vocabulary/超〜.md), [超自然的](../vocabulary/超自然的.md), [超音速](../vocabulary/超音速.md), [超音波](../vocabulary/超音波.md), [頼む](../vocabulary/頼む.md), [信頼](../vocabulary/信頼.md), [依頼](../vocabulary/依頼.md), [依存](../vocabulary/依存.md), [馬鹿](../vocabulary/馬鹿.md), [鹿児島県](../vocabulary/鹿児島県.md), [鹿](../vocabulary/鹿.md), [承諾](../vocabulary/承諾.md), [受諾](../vocabulary/受諾.md), [許諾](../vocabulary/許諾.md), [諾否](../vocabulary/諾否.md), [象牙](../vocabulary/象牙.md), [牙](../vocabulary/牙.md), [降参する](../vocabulary/降参する.md), [換える](../vocabulary/換える.md), [汚い](../vocabulary/汚い.md), [大幅](../vocabulary/大幅.md), [舞](../vocabulary/舞.md), [誤り](../vocabulary/誤り.md), [貴重品](../vocabulary/貴重品.md), [依然](../vocabulary/依然.md), [鮭](../vocabulary/鮭.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -31,7 +33,9 @@
 | [甘](../radicals/甘.md) | Sweet |
 | [南](../radicals/南.md) | South |
 | [舛](../radicals/舛.md) | Dance |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -69,7 +73,9 @@
 | [牙](../kanjis/牙.md) | Fang, Tusk |
 | [超](../kanjis/超.md) | Ultra, Super |
 | [鮭](../kanjis/鮭.md) | Salmon |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

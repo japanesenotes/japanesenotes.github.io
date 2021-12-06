@@ -21,7 +21,9 @@
 | vocabulary | [尻尾](../vocabulary/尻尾.md), [経験者](../vocabulary/経験者.md), [混む](../vocabulary/混む.md), [評価](../vocabulary/評価.md), [圧倒する](../vocabulary/圧倒する.md), [高血圧](../vocabulary/高血圧.md), [存在する](../vocabulary/存在する.md), [嫌味](../vocabulary/嫌味.md), [機会](../vocabulary/機会.md), [防犯](../vocabulary/防犯.md), [産業](../vocabulary/産業.md), [被害者](../vocabulary/被害者.md), [寝る](../vocabulary/寝る.md), [昼寝](../vocabulary/昼寝.md), [寝不足](../vocabulary/寝不足.md), [寝坊](../vocabulary/寝坊.md), [過ぎる](../vocabulary/過ぎる.md), [過去](../vocabulary/過去.md), [罰](../vocabulary/罰.md), [罰金](../vocabulary/罰金.md), [罰ゲーム](../vocabulary/罰ゲーム.md), [罰する](../vocabulary/罰する.md), [誕生](../vocabulary/誕生.md), [脱ぐ](../vocabulary/脱ぐ.md), [脱線](../vocabulary/脱線.md), [脱字](../vocabulary/脱字.md), [脱走する](../vocabulary/脱走する.md), [脱税](../vocabulary/脱税.md), [坊さん](../vocabulary/坊さん.md), [赤ん坊](../vocabulary/赤ん坊.md), [坊主](../vocabulary/坊主.md), [宮](../vocabulary/宮.md), [各々](../vocabulary/各々.md), [各〜](../vocabulary/各〜.md), [各地](../vocabulary/各地.md), [各自](../vocabulary/各自.md), [案内](../vocabulary/案内.md), [案外](../vocabulary/案外.md), [置く](../vocabulary/置く.md), [位置](../vocabulary/位置.md), [費用](../vocabulary/費用.md), [消費](../vocabulary/消費.md), [社費](../vocabulary/社費.md), [価](../vocabulary/価.md), [物価](../vocabulary/物価.md), [地価](../vocabulary/地価.md), [勢い](../vocabulary/勢い.md), [勢力](../vocabulary/勢力.md), [姿勢](../vocabulary/姿勢.md), [大勢](../vocabulary/大勢.md), [営む](../vocabulary/営む.md), [営業](../vocabulary/営業.md), [公営](../vocabulary/公営.md), [私営](../vocabulary/私営.md), [市営](../vocabulary/市営.md), [官営](../vocabulary/官営.md), [県営](../vocabulary/県営.md), [示す](../vocabulary/示す.md), [指示](../vocabulary/指示.md), [公示](../vocabulary/公示.md), [大統領](../vocabulary/大統領.md), [伝統](../vocabulary/伝統.md), [統合](../vocabulary/統合.md), [受領書](../vocabulary/受領書.md), [領域](../vocabulary/領域.md), [領土](../vocabulary/領土.md), [策](../vocabulary/策.md), [政策](../vocabulary/政策.md), [藤](../vocabulary/藤.md), [副詞](../vocabulary/副詞.md), [副業](../vocabulary/副業.md), [副題](../vocabulary/副題.md), [値](../vocabulary/値.md), [価値](../vocabulary/価値.md), [観る](../vocabulary/観る.md), [観光](../vocabulary/観光.md), [観客](../vocabulary/観客.md), [外観](../vocabulary/外観.md), [主観](../vocabulary/主観.md), [観念](../vocabulary/観念.md), [姿](../vocabulary/姿.md), [区域](../vocabulary/区域.md), [地域](../vocabulary/地域.md), [吸う](../vocabulary/吸う.md), [応じる](../vocabulary/応じる.md), [一応](../vocabulary/一応.md), [反応](../vocabulary/反応.md), [提案](../vocabulary/提案.md), [提出](../vocabulary/提出.md), [援助](../vocabulary/援助.md), [支援](../vocabulary/支援.md), [状態](../vocabulary/状態.md), [変態](../vocabulary/変態.md), [態と](../vocabulary/態と.md), [態度](../vocabulary/態度.md), [失態](../vocabulary/失態.md), [賀状](../vocabulary/賀状.md), [年賀状](../vocabulary/年賀状.md), [不可能](../vocabulary/不可能.md), [非難する](../vocabulary/非難する.md), [大嫌い](../vocabulary/大嫌い.md), [倒れる](../vocabulary/倒れる.md), [飛ばす](../vocabulary/飛ばす.md), [確かめる](../vocabulary/確かめる.md), [面倒臭い](../vocabulary/面倒臭い.md), [応援](../vocabulary/応援.md), [お手洗い](../vocabulary/お手洗い.md), [在留する](../vocabulary/在留する.md), [不機嫌](../vocabulary/不機嫌.md), [震える](../vocabulary/震える.md), [価格](../vocabulary/価格.md), [嫌悪感](../vocabulary/嫌悪感.md), [対応](../vocabulary/対応.md), [待機](../vocabulary/待機.md), [有り難う](../vocabulary/有り難う.md), [お土産](../vocabulary/お土産.md), [諦観](../vocabulary/諦観.md), [諦める](../vocabulary/諦める.md), [袖](../vocabulary/袖.md), [領袖](../vocabulary/領袖.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -32,7 +34,9 @@
 | [爰](../radicals/爰.md) | Football |
 | [能](../radicals/能.md) | Ability |
 | [丬](../radicals/丬.md) | Icicle |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -69,7 +73,9 @@
 | [賀](../kanjis/賀.md) | Congratulations |
 | [諦](../kanjis/諦.md) | Give Up, Abandon |
 | [袖](../kanjis/袖.md) | Sleeve |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

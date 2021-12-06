@@ -21,7 +21,9 @@
 | vocabulary | [入れる](../vocabulary/入れる.md), [上がる](../vocabulary/上がる.md), [下がる](../vocabulary/下がる.md), [出す](../vocabulary/出す.md), [生む](../vocabulary/生む.md), [立てる](../vocabulary/立てる.md), [分ける](../vocabulary/分ける.md), [止まる](../vocabulary/止まる.md), [兄](../vocabulary/兄.md), [外れる](../vocabulary/外れる.md), [見える](../vocabulary/見える.md), [皮](../vocabulary/皮.md), [交ぜる](../vocabulary/交ぜる.md), [大会](../vocabulary/大会.md), [会う](../vocabulary/会う.md), [光](../vocabulary/光.md), [光年](../vocabulary/光年.md), [月光](../vocabulary/月光.md), [日光](../vocabulary/日光.md), [同じ](../vocabulary/同じ.md), [同日](../vocabulary/同日.md), [〜回](../vocabulary/〜回.md), [回る](../vocabulary/回る.md), [一回](../vocabulary/一回.md), [今回](../vocabulary/今回.md), [毎回](../vocabulary/毎回.md), [多い](../vocabulary/多い.md), [多分](../vocabulary/多分.md), [当たる](../vocabulary/当たる.md), [当たり](../vocabulary/当たり.md), [毎月](../vocabulary/毎月.md), [毎日](../vocabulary/毎日.md), [毎年](../vocabulary/毎年.md), [米](../vocabulary/米.md), [羽](../vocabulary/羽.md), [考える](../vocabulary/考える.md), [肉](../vocabulary/肉.md), [牛肉](../vocabulary/牛肉.md), [皮肉](../vocabulary/皮肉.md), [自分](../vocabulary/自分.md), [自立](../vocabulary/自立.md), [色](../vocabulary/色.md), [色々](../vocabulary/色々.md), [水色](../vocabulary/水色.md), [行く](../vocabulary/行く.md), [行き](../vocabulary/行き.md), [西](../vocabulary/西.md), [北西](../vocabulary/北西.md), [何千](../vocabulary/何千.md), [何](../vocabulary/何.md), [何人](../vocabulary/何人.md), [何月](../vocabulary/何月.md), [何日](../vocabulary/何日.md), [何年](../vocabulary/何年.md), [何回](../vocabulary/何回.md), [学ぶ](../vocabulary/学ぶ.md), [学生](../vocabulary/学生.md), [学年](../vocabulary/学年.md), [入学](../vocabulary/入学.md), [工学](../vocabulary/工学.md), [大学](../vocabulary/大学.md), [休学](../vocabulary/休学.md), [林](../vocabulary/林.md), [空気](../vocabulary/空気.md), [空](../vocabulary/空.md), [金](../vocabulary/金.md), [金玉](../vocabulary/金玉.md), [お金](../vocabulary/お金.md), [雨](../vocabulary/雨.md), [青い](../vocabulary/青い.md), [青年](../vocabulary/青年.md), [草](../vocabulary/草.md), [音](../vocabulary/音.md), [作る](../vocabulary/作る.md), [体](../vocabulary/体.md), [体力](../vocabulary/体力.md), [体内](../vocabulary/体内.md), [作文](../vocabulary/作文.md), [作用](../vocabulary/作用.md), [工作](../vocabulary/工作.md), [大作](../vocabulary/大作.md), [図](../vocabulary/図.md), [声](../vocabulary/声.md), [大声](../vocabulary/大声.md), [弟](../vocabulary/弟.md), [兄弟](../vocabulary/兄弟.md), [来る](../vocabulary/来る.md), [来月](../vocabulary/来月.md), [来年](../vocabulary/来年.md), [古来](../vocabulary/古来.md), [外来](../vocabulary/外来.md), [〜年来](../vocabulary/〜年来.md), [社内](../vocabulary/社内.md), [入社](../vocabulary/入社.md), [公社](../vocabulary/公社.md), [本社](../vocabulary/本社.md), [会社](../vocabulary/会社.md), [角](../vocabulary/角.md), [三角](../vocabulary/三角.md), [四角](../vocabulary/四角.md), [言う](../vocabulary/言う.md), [谷](../vocabulary/谷.md), [走る](../vocabulary/走る.md), [走行](../vocabulary/走行.md), [近い](../vocabulary/近い.md), [近日](../vocabulary/近日.md), [近年](../vocabulary/近年.md), [麦](../vocabulary/麦.md), [男の子](../vocabulary/男の子.md), [毛虫](../vocabulary/毛虫.md), [下町](../vocabulary/下町.md), [男の人](../vocabulary/男の人.md), [今まで](../vocabulary/今まで.md), [毛糸](../vocabulary/毛糸.md), [今すぐ](../vocabulary/今すぐ.md), [里](../vocabulary/里.md), [里心](../vocabulary/里心.md), [本当](../vocabulary/本当.md), [空車](../vocabulary/空車.md), [万人](../vocabulary/万人.md), [会](../vocabulary/会.md), [考古学](../vocabulary/考古学.md), [一生](../vocabulary/一生.md), [仕草](../vocabulary/仕草.md), [〜形](../vocabulary/〜形.md), [外交](../vocabulary/外交.md), [生まれ](../vocabulary/生まれ.md), [大体](../vocabulary/大体.md), [文学](../vocabulary/文学.md), [本来](../vocabulary/本来.md), [〜斤](../vocabulary/〜斤.md), [その他](../vocabulary/その他.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -50,7 +52,9 @@
 | [会](../radicals/会.md) | Meet, Meeting |
 | [开](../radicals/开.md) | Lantern |
 | [羽](../radicals/羽.md) | Feathers |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -97,7 +101,9 @@
 | [草](../kanjis/草.md) | Grass, Weed |
 | [音](../kanjis/音.md) | Sound |
 | [斤](../kanjis/斤.md) | Axe, Bread Loaf Counter |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

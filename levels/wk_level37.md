@@ -21,7 +21,9 @@
 | vocabulary | [一人暮らし](../vocabulary/一人暮らし.md), [彼女](../vocabulary/彼女.md), [恥知らず](../vocabulary/恥知らず.md), [試験地獄](../vocabulary/試験地獄.md), [船酔い](../vocabulary/船酔い.md), [〜鍋](../vocabulary/〜鍋.md), [払い](../vocabulary/払い.md), [油絵](../vocabulary/油絵.md), [甘酢](../vocabulary/甘酢.md), [盛り上がる](../vocabulary/盛り上がる.md), [遅い](../vocabulary/遅い.md), [恥ずかしがる](../vocabulary/恥ずかしがる.md), [破れる](../vocabulary/破れる.md), [自己紹介](../vocabulary/自己紹介.md), [紹介する](../vocabulary/紹介する.md), [紹介状](../vocabulary/紹介状.md), [汁物](../vocabulary/汁物.md), [味噌汁](../vocabulary/味噌汁.md), [酔っ払い](../vocabulary/酔っ払い.md), [二日酔い](../vocabulary/二日酔い.md), [給油所](../vocabulary/給油所.md), [跳ぶ](../vocabulary/跳ぶ.md), [昭和](../vocabulary/昭和.md), [漁師](../vocabulary/漁師.md), [漁船](../vocabulary/漁船.md), [漁業](../vocabulary/漁業.md), [償う](../vocabulary/償う.md), [弁償](../vocabulary/弁償.md), [刑務所](../vocabulary/刑務所.md), [死刑](../vocabulary/死刑.md), [刑事](../vocabulary/刑事.md), [刑期](../vocabulary/刑期.md), [刑罰](../vocabulary/刑罰.md), [終身刑](../vocabulary/終身刑.md), [募る](../vocabulary/募る.md), [募金](../vocabulary/募金.md), [募集](../vocabulary/募集.md), [応募](../vocabulary/応募.md), [執る](../vocabulary/執る.md), [執着](../vocabulary/執着.md), [執筆](../vocabulary/執筆.md), [塁](../vocabulary/塁.md), [塁打](../vocabulary/塁打.md), [塁審](../vocabulary/塁審.md), [崩す](../vocabulary/崩す.md), [崩壊](../vocabulary/崩壊.md), [患う](../vocabulary/患う.md), [患者](../vocabulary/患者.md), [急患](../vocabulary/急患.md), [戻る](../vocabulary/戻る.md), [対向する](../vocabulary/対向する.md), [反抗する](../vocabulary/反抗する.md), [抗戦](../vocabulary/抗戦.md), [抗体](../vocabulary/抗体.md), [抵抗する](../vocabulary/抵抗する.md), [大抵](../vocabulary/大抵.md), [上旬](../vocabulary/上旬.md), [下旬](../vocabulary/下旬.md), [中旬](../vocabulary/中旬.md), [旬](../vocabulary/旬.md), [湾](../vocabulary/湾.md), [台湾](../vocabulary/台湾.md), [爆発](../vocabulary/爆発.md), [爆弾](../vocabulary/爆弾.md), [爆笑](../vocabulary/爆笑.md), [自爆](../vocabulary/自爆.md), [爆撃](../vocabulary/爆撃.md), [弾](../vocabulary/弾.md), [弾む](../vocabulary/弾む.md), [弾丸](../vocabulary/弾丸.md), [聴力](../vocabulary/聴力.md), [聴者](../vocabulary/聴者.md), [聴く](../vocabulary/聴く.md), [盗聴](../vocabulary/盗聴.md), [跡](../vocabulary/跡.md), [奇跡](../vocabulary/奇跡.md), [証跡](../vocabulary/証跡.md), [遺跡](../vocabulary/遺跡.md), [遣う](../vocabulary/遣う.md), [闘う](../vocabulary/闘う.md), [戦闘](../vocabulary/戦闘.md), [闘志](../vocabulary/闘志.md), [陣](../vocabulary/陣.md), [陣営](../vocabulary/陣営.md), [香り](../vocabulary/香り.md), [香港](../vocabulary/香港.md), [香水](../vocabulary/香水.md), [香川県](../vocabulary/香川県.md), [兆候](../vocabulary/兆候.md), [前兆](../vocabulary/前兆.md), [臨む](../vocabulary/臨む.md), [臨海](../vocabulary/臨海.md), [臨時](../vocabulary/臨時.md), [削る](../vocabulary/削る.md), [削除](../vocabulary/削除.md), [削減](../vocabulary/削減.md), [契約](../vocabulary/契約.md), [契機](../vocabulary/契機.md), [恵む](../vocabulary/恵む.md), [知恵](../vocabulary/知恵.md), [抱く](../vocabulary/抱く.md), [掲げる](../vocabulary/掲げる.md), [掲示](../vocabulary/掲示.md), [掲載](../vocabulary/掲載.md), [狙い](../vocabulary/狙い.md), [狙撃](../vocabulary/狙撃.md), [葬式](../vocabulary/葬式.md), [葬る](../vocabulary/葬る.md), [火葬](../vocabulary/火葬.md), [派遣](../vocabulary/派遣.md), [弾力](../vocabulary/弾力.md), [支払い](../vocabulary/支払い.md), [串](../vocabulary/串.md), [串焼き](../vocabulary/串焼き.md), [眉](../vocabulary/眉.md), [眉間](../vocabulary/眉間.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -30,7 +32,9 @@
 | [串](../radicals/串.md) | Skewer |
 | [暴](../radicals/暴.md) | Violence |
 | [包](../radicals/包.md) | Wrap |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -68,7 +72,9 @@
 | [葬](../kanjis/葬.md) | Burial |
 | [串](../kanjis/串.md) | Skewer, Spit |
 | [眉](../kanjis/眉.md) | Eyebrows |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

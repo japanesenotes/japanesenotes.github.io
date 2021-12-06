@@ -21,12 +21,16 @@
 | vocabulary | [皮膚科](../vocabulary/皮膚科.md), [皮膚病](../vocabulary/皮膚病.md), [襟元](../vocabulary/襟元.md), [襟巻き](../vocabulary/襟巻き.md), [丹誠](../vocabulary/丹誠.md), [丹念](../vocabulary/丹念.md), [批准](../vocabulary/批准.md), [過剰](../vocabulary/過剰.md), [余剰](../vocabulary/余剰.md), [剰余金](../vocabulary/剰余金.md), [召し上がる](../vocabulary/召し上がる.md), [啓示](../vocabulary/啓示.md), [啓発](../vocabulary/啓発.md), [啓蒙](../vocabulary/啓蒙.md), [土壌](../vocabulary/土壌.md), [平壌](../vocabulary/平壌.md), [寛大](../vocabulary/寛大.md), [寛容](../vocabulary/寛容.md), [寛ぐ](../vocabulary/寛ぐ.md), [元帥](../vocabulary/元帥.md), [総帥](../vocabulary/総帥.md), [統帥](../vocabulary/統帥.md), [徐行](../vocabulary/徐行.md), [徐々](../vocabulary/徐々.md), [惨事](../vocabulary/惨事.md), [悲惨](../vocabulary/悲惨.md), [惨め](../vocabulary/惨め.md), [惨敗](../vocabulary/惨敗.md), [惨状](../vocabulary/惨状.md), [披露](../vocabulary/披露.md), [挟まる](../vocabulary/挟まる.md), [据える](../vocabulary/据える.md), [搭載](../vocabulary/搭載.md), [搭乗](../vocabulary/搭乗.md), [曙](../vocabulary/曙.md), [枯れ木](../vocabulary/枯れ木.md), [枯らす](../vocabulary/枯らす.md), [沸かす](../vocabulary/沸かす.md), [沸騰](../vocabulary/沸騰.md), [自浄](../vocabulary/自浄.md), [浄化](../vocabulary/浄化.md), [浄土](../vocabulary/浄土.md), [不浄](../vocabulary/不浄.md), [浄水](../vocabulary/浄水.md), [清浄](../vocabulary/清浄.md), [洗浄](../vocabulary/洗浄.md), [渦巻き](../vocabulary/渦巻き.md), [玄人](../vocabulary/玄人.md), [瓜](../vocabulary/瓜.md), [西瓜](../vocabulary/西瓜.md), [原稿](../vocabulary/原稿.md), [草稿](../vocabulary/草稿.md), [投稿](../vocabulary/投稿.md), [稿料](../vocabulary/稿料.md), [緯度](../vocabulary/緯度.md), [南緯](../vocabulary/南緯.md), [北緯](../vocabulary/北緯.md), [経緯](../vocabulary/経緯.md), [緯線](../vocabulary/緯線.md), [化繊](../vocabulary/化繊.md), [繊維](../vocabulary/繊維.md), [合繊](../vocabulary/合繊.md), [繊細](../vocabulary/繊細.md), [肯く](../vocabulary/肯く.md), [胞子](../vocabulary/胞子.md), [細胞](../vocabulary/細胞.md), [同胞](../vocabulary/同胞.md), [胡座](../vocabulary/胡座.md), [胡瓜](../vocabulary/胡瓜.md), [脂身](../vocabulary/脂身.md), [舗](../vocabulary/舗.md), [店舗](../vocabulary/店舗.md), [舗装](../vocabulary/舗装.md), [本舗](../vocabulary/本舗.md), [艦艇](../vocabulary/艦艇.md), [競艇](../vocabulary/競艇.md), [苗木](../vocabulary/苗木.md), [苗床](../vocabulary/苗床.md), [葵](../vocabulary/葵.md), [蒙古](../vocabulary/蒙古.md), [蓮根](../vocabulary/蓮根.md), [虐殺](../vocabulary/虐殺.md), [虐待](../vocabulary/虐待.md), [残虐](../vocabulary/残虐.md), [暴虐](../vocabulary/暴虐.md), [虐げる](../vocabulary/虐げる.md), [諭す](../vocabulary/諭す.md), [教諭](../vocabulary/教諭.md), [軒並](../vocabulary/軒並.md), [錦](../vocabulary/錦.md), [錦鯉](../vocabulary/錦鯉.md), [随時](../vocabulary/随時.md), [随所](../vocabulary/随所.md), [随筆](../vocabulary/随筆.md), [随分](../vocabulary/随分.md), [追随](../vocabulary/追随.md), [頂](../vocabulary/頂.md), [頂戴](../vocabulary/頂戴.md), [高騰](../vocabulary/高騰.md), [暴騰](../vocabulary/暴騰.md), [急騰](../vocabulary/急騰.md), [鯉](../vocabulary/鯉.md), [緋鯉](../vocabulary/緋鯉.md), [真鯉](../vocabulary/真鯉.md), [諒一郎](../vocabulary/諒一郎.md), [莉子](../vocabulary/莉子.md), [駿馬](../vocabulary/駿馬.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
 | [高](../radicals/高.md) | Tall |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -65,7 +69,9 @@
 | [駿](../kanjis/駿.md) | Speed |
 | [諒](../kanjis/諒.md) | Comprehend, Reality |
 | [莉](../kanjis/莉.md) | Jasmine |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

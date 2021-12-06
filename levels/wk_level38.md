@@ -21,7 +21,9 @@
 | vocabulary | [戻す](../vocabulary/戻す.md), [貿易会社](../vocabulary/貿易会社.md), [遺伝子](../vocabulary/遺伝子.md), [奈良県](../vocabulary/奈良県.md), [廃止する](../vocabulary/廃止する.md), [乗り換える](../vocabulary/乗り換える.md), [指摘する](../vocabulary/指摘する.md), [沖縄](../vocabulary/沖縄.md), [維持する](../vocabulary/維持する.md), [明治維新](../vocabulary/明治維新.md), [お見舞い](../vocabulary/お見舞い.md), [舞踏会](../vocabulary/舞踏会.md), [一般的](../vocabulary/一般的.md), [全般的](../vocabulary/全般的.md), [頼み](../vocabulary/頼み.md), [頼る](../vocabulary/頼る.md), [依頼人](../vocabulary/依頼人.md), [馬鹿らしい](../vocabulary/馬鹿らしい.md), [需要](../vocabulary/需要.md), [必需品](../vocabulary/必需品.md), [年齢](../vocabulary/年齢.md), [高齢者](../vocabulary/高齢者.md), [老齢](../vocabulary/老齢.md), [宜しい](../vocabulary/宜しい.md), [繰る](../vocabulary/繰る.md), [避ける](../vocabulary/避ける.md), [避難](../vocabulary/避難.md), [避妊](../vocabulary/避妊.md), [妊娠する](../vocabulary/妊娠する.md), [妊婦](../vocabulary/妊婦.md), [致す](../vocabulary/致す.md), [一致する](../vocabulary/一致する.md), [致命的](../vocabulary/致命的.md), [朝刊](../vocabulary/朝刊.md), [月刊](../vocabulary/月刊.md), [夕刊](../vocabulary/夕刊.md), [刊行する](../vocabulary/刊行する.md), [日刊](../vocabulary/日刊.md), [奏楽](../vocabulary/奏楽.md), [演奏](../vocabulary/演奏.md), [伴う](../vocabulary/伴う.md), [同伴する](../vocabulary/同伴する.md), [併殺](../vocabulary/併殺.md), [併合](../vocabulary/併合.md), [傾く](../vocabulary/傾く.md), [傾向](../vocabulary/傾向.md), [却って](../vocabulary/却って.md), [却下](../vocabulary/却下.md), [奥](../vocabulary/奥.md), [奥さん](../vocabulary/奥さん.md), [遠慮](../vocabulary/遠慮.md), [配慮](../vocabulary/配慮.md), [考慮](../vocabulary/考慮.md), [懸ける](../vocabulary/懸ける.md), [懸命](../vocabulary/懸命.md), [房](../vocabulary/房.md), [冷房](../vocabulary/冷房.md), [暖房](../vocabulary/暖房.md), [扱う](../vocabulary/扱う.md), [抑圧](../vocabulary/抑圧.md), [抑制](../vocabulary/抑制.md), [抑止](../vocabulary/抑止.md), [選択](../vocabulary/選択.md), [描写](../vocabulary/描写.md), [描画](../vocabulary/描画.md), [描く](../vocabulary/描く.md), [盤](../vocabulary/盤.md), [円盤](../vocabulary/円盤.md), [基盤](../vocabulary/基盤.md), [対称](../vocabulary/対称.md), [仮称](../vocabulary/仮称.md), [一人称](../vocabulary/一人称.md), [一緒](../vocabulary/一緒.md), [内緒](../vocabulary/内緒.md), [緩い](../vocabulary/緩い.md), [緩む](../vocabulary/緩む.md), [緩やか](../vocabulary/緩やか.md), [委託](../vocabulary/委託.md), [託す](../vocabulary/託す.md), [信託](../vocabulary/信託.md), [受託](../vocabulary/受託.md), [贈る](../vocabulary/贈る.md), [贈収賄](../vocabulary/贈収賄.md), [賄賂](../vocabulary/賄賂.md), [賄う](../vocabulary/賄う.md), [逃げる](../vocabulary/逃げる.md), [逃亡](../vocabulary/逃亡.md), [生還](../vocabulary/生還.md), [返還](../vocabulary/返還.md), [還元](../vocabulary/還元.md), [湯豆腐](../vocabulary/湯豆腐.md), [伸ばす](../vocabulary/伸ばす.md), [及ぼす](../vocabulary/及ぼす.md), [及び](../vocabulary/及び.md), [踏み込む](../vocabulary/踏み込む.md), [超す](../vocabulary/超す.md), [縄張り](../vocabulary/縄張り.md), [奥深い](../vocabulary/奥深い.md), [欠伸](../vocabulary/欠伸.md), [降ろす](../vocabulary/降ろす.md), [馬鹿馬鹿しい](../vocabulary/馬鹿馬鹿しい.md), [奥底](../vocabulary/奥底.md), [膝](../vocabulary/膝.md), [膝頭](../vocabulary/膝頭.md), [噛む](../vocabulary/噛む.md), [完璧](../vocabulary/完璧.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -31,7 +33,9 @@
 | [空](../radicals/空.md) | Sky |
 | [有](../radicals/有.md) | Have |
 | [歯](../radicals/歯.md) | Tooth |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -70,7 +74,9 @@
 | [膝](../kanjis/膝.md) | Knee |
 | [噛](../kanjis/噛.md) | Bite, Chew |
 | [璧](../kanjis/璧.md) | Disc, Jade Disc |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

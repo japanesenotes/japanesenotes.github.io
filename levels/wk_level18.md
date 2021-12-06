@@ -21,7 +21,9 @@
 | vocabulary | [上品](../vocabulary/上品.md), [大阪弁](../vocabulary/大阪弁.md), [関西弁](../vocabulary/関西弁.md), [土曜日](../vocabulary/土曜日.md), [日曜日](../vocabulary/日曜日.md), [月曜日](../vocabulary/月曜日.md), [木曜日](../vocabulary/木曜日.md), [水曜日](../vocabulary/水曜日.md), [留学生](../vocabulary/留学生.md), [お笑い](../vocabulary/お笑い.md), [手荷物](../vocabulary/手荷物.md), [証明書](../vocabulary/証明書.md), [笑い](../vocabulary/笑い.md), [借用](../vocabulary/借用.md), [借りる](../vocabulary/借りる.md), [借金](../vocabulary/借金.md), [借家](../vocabulary/借家.md), [僧院](../vocabulary/僧院.md), [仏僧](../vocabulary/仏僧.md), [切り取る](../vocabulary/切り取る.md), [取り出す](../vocabulary/取り出す.md), [取り分け](../vocabulary/取り分け.md), [取り決め](../vocabulary/取り決め.md), [文句](../vocabulary/文句.md), [禁句](../vocabulary/禁句.md), [可愛い](../vocabulary/可愛い.md), [許可](../vocabulary/許可.md), [可分](../vocabulary/可分.md), [不可欠](../vocabulary/不可欠.md), [告白](../vocabulary/告白.md), [告げる](../vocabulary/告げる.md), [広告](../vocabulary/広告.md), [予告](../vocabulary/予告.md), [報告](../vocabulary/報告.md), [喫煙](../vocabulary/喫煙.md), [喫茶店](../vocabulary/喫茶店.md), [情報](../vocabulary/情報.md), [予報](../vocabulary/予報.md), [報じる](../vocabulary/報じる.md), [報道](../vocabulary/報道.md), [お守り](../vocabulary/お守り.md), [留守番](../vocabulary/留守番.md), [正座](../vocabulary/正座.md), [座禅](../vocabulary/座禅.md), [座席](../vocabulary/座席.md), [銀座](../vocabulary/銀座.md), [駅弁](../vocabulary/駅弁.md), [弓](../vocabulary/弓.md), [弓道](../vocabulary/弓道.md), [忘れる](../vocabulary/忘れる.md), [忘年会](../vocabulary/忘年会.md), [下書き](../vocabulary/下書き.md), [書き入れる](../vocabulary/書き入れる.md), [書き方](../vocabulary/書き方.md), [書き直す](../vocabulary/書き直す.md), [何枚](../vocabulary/何枚.md), [枚数](../vocabulary/枚数.md), [五枚](../vocabulary/五枚.md), [洗う](../vocabulary/洗う.md), [洗車](../vocabulary/洗車.md), [洗練](../vocabulary/洗練.md), [焼く](../vocabulary/焼く.md), [日焼け](../vocabulary/日焼け.md), [焼き鳥](../vocabulary/焼き鳥.md), [焼き肉](../vocabulary/焼き肉.md), [夕焼け](../vocabulary/夕焼け.md), [煙](../vocabulary/煙.md), [黒煙](../vocabulary/黒煙.md), [祈る](../vocabulary/祈る.md), [祈念](../vocabulary/祈念.md), [祈願](../vocabulary/祈願.md), [禁煙](../vocabulary/禁煙.md), [禁止](../vocabulary/禁止.md), [禅寺](../vocabulary/禅寺.md), [禅僧](../vocabulary/禅僧.md), [人種](../vocabulary/人種.md), [等しい](../vocabulary/等しい.md), [等号](../vocabulary/等号.md), [一等](../vocabulary/一等.md), [不等](../vocabulary/不等.md), [訓練](../vocabulary/訓練.md), [胸](../vocabulary/胸.md), [脳](../vocabulary/脳.md), [脳死](../vocabulary/脳死.md), [脳みそ](../vocabulary/脳みそ.md), [洗脳](../vocabulary/洗脳.md), [落書き](../vocabulary/落書き.md), [葉書](../vocabulary/葉書.md), [訓読み](../vocabulary/訓読み.md), [教訓](../vocabulary/教訓.md), [許す](../vocabulary/許す.md), [友達](../vocabulary/友達.md), [配達する](../vocabulary/配達する.md), [達人](../vocabulary/達人.md), [伝達](../vocabulary/伝達.md), [静か](../vocabulary/静か.md), [静止](../vocabulary/静止.md), [平静](../vocabulary/平静.md), [人類](../vocabulary/人類.md), [分類](../vocabulary/分類.md), [種類](../vocabulary/種類.md), [親類](../vocabulary/親類.md), [汽車](../vocabulary/汽車.md), [汽船](../vocabulary/汽船.md), [書類](../vocabulary/書類.md), [火曜日](../vocabulary/火曜日.md), [金曜日](../vocabulary/金曜日.md), [可能](../vocabulary/可能.md), [大丈夫](../vocabulary/大丈夫.md), [〜枚](../vocabulary/〜枚.md), [座る](../vocabulary/座る.md), [〜達](../vocabulary/〜達.md), [警告](../vocabulary/警告.md), [固まる](../vocabulary/固まる.md), [達する](../vocabulary/達する.md), [遠く](../vocabulary/遠く.md), [子守歌](../vocabulary/子守歌.md), [高等](../vocabulary/高等.md), [辞書形](../vocabulary/辞書形.md), [対等](../vocabulary/対等.md), [幸い](../vocabulary/幸い.md), [禁じる](../vocabulary/禁じる.md), [品物](../vocabulary/品物.md), [喉](../vocabulary/喉.md), [喉頭](../vocabulary/喉頭.md), [叩く](../vocabulary/叩く.md), [叩頭](../vocabulary/叩頭.md), [飴](../vocabulary/飴.md), [飴細工](../vocabulary/飴細工.md), [治る](../vocabulary/治る.md), [苛める](../vocabulary/苛める.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -33,7 +35,9 @@
 | [争](../radicals/争.md) | Conflict |
 | [凶](../radicals/凶.md) | Treasure Chest |
 | [午](../radicals/午.md) | Noon |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -68,7 +72,9 @@
 | [叩](../kanjis/叩.md) | Tap, Strike, Slap |
 | [飴](../kanjis/飴.md) | Candy |
 | [苛](../kanjis/苛.md) | Frustration |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

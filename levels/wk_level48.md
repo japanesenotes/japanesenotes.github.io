@@ -21,14 +21,18 @@
 | vocabulary | [砕く](../vocabulary/砕く.md), [炊く](../vocabulary/炊く.md), [癖に](../vocabulary/癖に.md), [帝国主義](../vocabulary/帝国主義.md), [車椅子](../vocabulary/車椅子.md), [土俵際](../vocabulary/土俵際.md), [紛れ](../vocabulary/紛れ.md), [脅し](../vocabulary/脅し.md), [脅迫](../vocabulary/脅迫.md), [魔法使い](../vocabulary/魔法使い.md), [涼む](../vocabulary/涼む.md), [備蓄](../vocabulary/備蓄.md), [貯蓄](../vocabulary/貯蓄.md), [蓄える](../vocabulary/蓄える.md), [蚊](../vocabulary/蚊.md), [蚊帳](../vocabulary/蚊帳.md), [記帳](../vocabulary/記帳.md), [手帳](../vocabulary/手帳.md), [メモ帳](../vocabulary/メモ帳.md), [電話帳](../vocabulary/電話帳.md), [蛇](../vocabulary/蛇.md), [貼る](../vocabulary/貼る.md), [辱める](../vocabulary/辱める.md), [恥辱](../vocabulary/恥辱.md), [屈辱](../vocabulary/屈辱.md), [鉢](../vocabulary/鉢.md), [火鉢](../vocabulary/火鉢.md), [鉢巻](../vocabulary/鉢巻.md), [闇](../vocabulary/闇.md), [暗闇](../vocabulary/暗闇.md), [無闇に](../vocabulary/無闇に.md), [隙](../vocabulary/隙.md), [隙間](../vocabulary/隙間.md), [霜](../vocabulary/霜.md), [飢餓](../vocabulary/飢餓.md), [飢える](../vocabulary/飢える.md), [餓死](../vocabulary/餓死.md), [畜産](../vocabulary/畜産.md), [家畜](../vocabulary/家畜.md), [畜生](../vocabulary/畜生.md), [迅速](../vocabulary/迅速.md), [騎士](../vocabulary/騎士.md), [騎馬](../vocabulary/騎馬.md), [騎手](../vocabulary/騎手.md), [騎兵](../vocabulary/騎兵.md), [尽きる](../vocabulary/尽きる.md), [理不尽](../vocabulary/理不尽.md), [尽力](../vocabulary/尽力.md), [彩る](../vocabulary/彩る.md), [色彩](../vocabulary/色彩.md), [迷彩](../vocabulary/迷彩.md), [水彩画](../vocabulary/水彩画.md), [油彩](../vocabulary/油彩.md), [記憶](../vocabulary/記憶.md), [憶測](../vocabulary/憶測.md), [溶かす](../vocabulary/溶かす.md), [溶岩](../vocabulary/溶岩.md), [水溶性](../vocabulary/水溶性.md), [耐える](../vocabulary/耐える.md), [忍耐](../vocabulary/忍耐.md), [耐熱](../vocabulary/耐熱.md), [耐火](../vocabulary/耐火.md), [耐久性](../vocabulary/耐久性.md), [踊る](../vocabulary/踊る.md), [踊り](../vocabulary/踊り.md), [踊り場](../vocabulary/踊り場.md), [盆踊り](../vocabulary/盆踊り.md), [賢い](../vocabulary/賢い.md), [賢人](../vocabulary/賢人.md), [賢明](../vocabulary/賢明.md), [輝く](../vocabulary/輝く.md), [光輝](../vocabulary/光輝.md), [輝度](../vocabulary/輝度.md), [麻](../vocabulary/麻.md), [大麻](../vocabulary/大麻.md), [麻酔](../vocabulary/麻酔.md), [灯り](../vocabulary/灯り.md), [街灯](../vocabulary/街灯.md), [電灯](../vocabulary/電灯.md), [咲く](../vocabulary/咲く.md), [遅咲き](../vocabulary/遅咲き.md), [返り咲き](../vocabulary/返り咲き.md), [培う](../vocabulary/培う.md), [培養](../vocabulary/培養.md), [悔しい](../vocabulary/悔しい.md), [後悔](../vocabulary/後悔.md), [脇](../vocabulary/脇.md), [脇見](../vocabulary/脇見.md), [脇役](../vocabulary/脇役.md), [未遂](../vocabulary/未遂.md), [遂行](../vocabulary/遂行.md), [班](../vocabulary/班.md), [首班](../vocabulary/首班.md), [班長](../vocabulary/班長.md), [塗布](../vocabulary/塗布.md), [塗る](../vocabulary/塗る.md), [塗装](../vocabulary/塗装.md), [塗料](../vocabulary/塗料.md), [斜め](../vocabulary/斜め.md), [斜面](../vocabulary/斜面.md), [斜体](../vocabulary/斜体.md), [殴る](../vocabulary/殴る.md), [殴打](../vocabulary/殴打.md), [盾](../vocabulary/盾.md), [矛盾](../vocabulary/矛盾.md), [後ろ盾](../vocabulary/後ろ盾.md), [収穫](../vocabulary/収穫.md), [零れる](../vocabulary/零れる.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
 | [玄](../radicals/玄.md) | Mysterious |
 | [容](../radicals/容.md) | Form |
 | [光](../radicals/光.md) | Sunlight |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -69,7 +73,9 @@
 | [殴](../kanjis/殴.md) | Assault |
 | [盾](../kanjis/盾.md) | Shield |
 | [穫](../kanjis/穫.md) | Harvest |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

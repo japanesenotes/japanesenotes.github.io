@@ -21,7 +21,9 @@
 | vocabulary | [将棋](../vocabulary/将棋.md), [跡継ぎ](../vocabulary/跡継ぎ.md), [跳ねる](../vocabulary/跳ねる.md), [縄跳び](../vocabulary/縄跳び.md), [応募する](../vocabulary/応募する.md), [本塁打](../vocabulary/本塁打.md), [崩れる](../vocabulary/崩れる.md), [払い戻す](../vocabulary/払い戻す.md), [弾く](../vocabulary/弾く.md), [言葉遣い](../vocabulary/言葉遣い.md), [小遣い](../vocabulary/小遣い.md), [削除する](../vocabulary/削除する.md), [掲示板](../vocabulary/掲示板.md), [渋滞](../vocabulary/渋滞.md), [募集中](../vocabulary/募集中.md), [戻り道](../vocabulary/戻り道.md), [取り戻す](../vocabulary/取り戻す.md), [原子爆弾](../vocabulary/原子爆弾.md), [足跡](../vocabulary/足跡.md), [狙う](../vocabulary/狙う.md), [邦訳](../vocabulary/邦訳.md), [邦人](../vocabulary/邦人.md), [連邦](../vocabulary/連邦.md), [呼び鈴](../vocabulary/呼び鈴.md), [鈴](../vocabulary/鈴.md), [岐阜](../vocabulary/岐阜.md), [隆盛](../vocabulary/隆盛.md), [隆起](../vocabulary/隆起.md), [雇う](../vocabulary/雇う.md), [解雇する](../vocabulary/解雇する.md), [雇用](../vocabulary/雇用.md), [壁](../vocabulary/壁.md), [壁紙](../vocabulary/壁紙.md), [棋士](../vocabulary/棋士.md), [棋院](../vocabulary/棋院.md), [渋い](../vocabulary/渋い.md), [片〜](../vocabulary/片〜.md), [片手](../vocabulary/片手.md), [片言](../vocabulary/片言.md), [片仮名](../vocabulary/片仮名.md), [片道](../vocabulary/片道.md), [群れ](../vocabulary/群れ.md), [群馬県](../vocabulary/群馬県.md), [群集](../vocabulary/群集.md), [仙人](../vocabulary/仙人.md), [水仙](../vocabulary/水仙.md), [仙台](../vocabulary/仙台.md), [充実](../vocabulary/充実.md), [充電](../vocabulary/充電.md), [補充](../vocabulary/補充.md), [免れる](../vocabulary/免れる.md), [免状](../vocabulary/免状.md), [免許](../vocabulary/免許.md), [免税](../vocabulary/免税.md), [御免](../vocabulary/御免.md), [免除](../vocabulary/免除.md), [勧める](../vocabulary/勧める.md), [勧告](../vocabulary/勧告.md), [勧誘](../vocabulary/勧誘.md), [圏外](../vocabulary/圏外.md), [英語圏](../vocabulary/英語圏.md), [南極圏](../vocabulary/南極圏.md), [埋める](../vocabulary/埋める.md), [埼玉県](../vocabulary/埼玉県.md), [奪う](../vocabulary/奪う.md), [御飯](../vocabulary/御飯.md), [御覧になる](../vocabulary/御覧になる.md), [慎む](../vocabulary/慎む.md), [慎重](../vocabulary/慎重.md), [拒む](../vocabulary/拒む.md), [拒否](../vocabulary/拒否.md), [枠](../vocabulary/枠.md), [枠組み](../vocabulary/枠組み.md), [甲](../vocabulary/甲.md), [甲斐](../vocabulary/甲斐.md), [福祉](../vocabulary/福祉.md), [稲](../vocabulary/稲.md), [稲田](../vocabulary/稲田.md), [稲作](../vocabulary/稲作.md), [譲る](../vocabulary/譲る.md), [移譲](../vocabulary/移譲.md), [謙譲語](../vocabulary/謙譲語.md), [謙虚](../vocabulary/謙虚.md), [躍る](../vocabulary/躍る.md), [飛躍](../vocabulary/飛躍.md), [活躍](../vocabulary/活躍.md), [躍進](../vocabulary/躍進.md), [躍動](../vocabulary/躍動.md), [跳躍](../vocabulary/跳躍.md), [銃](../vocabulary/銃.md), [銃殺](../vocabulary/銃殺.md), [銃弾](../vocabulary/銃弾.md), [短銃](../vocabulary/短銃.md), [項目](../vocabulary/項目.md), [事項](../vocabulary/事項.md), [要項](../vocabulary/要項.md), [鋼](../vocabulary/鋼.md), [鋼材](../vocabulary/鋼材.md), [製鋼](../vocabulary/製鋼.md), [掲載する](../vocabulary/掲載する.md), [控え](../vocabulary/控え.md), [眉毛](../vocabulary/眉毛.md), [宛名](../vocabulary/宛名.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -33,7 +35,9 @@
 | [真](../radicals/真.md) | Reality |
 | [巻](../radicals/巻.md) | Scroll |
 | [㐮](../radicals/㐮.md) | Nurse |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -72,7 +76,9 @@
 | [項](../kanjis/項.md) | Paragraph |
 | [鋼](../kanjis/鋼.md) | Steel |
 | [宛](../kanjis/宛.md) | Address |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

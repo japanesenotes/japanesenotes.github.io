@@ -21,7 +21,9 @@
 | vocabulary | [悲しむ](../vocabulary/悲しむ.md), [喜ぶ](../vocabulary/喜ぶ.md), [治す](../vocabulary/治す.md), [建築家](../vocabulary/建築家.md), [紀元前](../vocabulary/紀元前.md), [朝ご飯](../vocabulary/朝ご飯.md), [泣き虫](../vocabulary/泣き虫.md), [泣き声](../vocabulary/泣き声.md), [晩ご飯](../vocabulary/晩ご飯.md), [昼ご飯](../vocabulary/昼ご飯.md), [願い事](../vocabulary/願い事.md), [右側](../vocabulary/右側.md), [左側](../vocabulary/左側.md), [内側](../vocabulary/内側.md), [外側](../vocabulary/外側.md), [両側](../vocabulary/両側.md), [東側](../vocabulary/東側.md), [西側](../vocabulary/西側.md), [兵員](../vocabulary/兵員.md), [兵器](../vocabulary/兵器.md), [兵士](../vocabulary/兵士.md), [米兵](../vocabulary/米兵.md), [原因](../vocabulary/原因.md), [原子](../vocabulary/原子.md), [原作](../vocabulary/原作.md), [内因](../vocabulary/内因.md), [主因](../vocabulary/主因.md), [悪因悪果](../vocabulary/悪因悪果.md), [食堂](../vocabulary/食堂.md), [塩](../vocabulary/塩.md), [塩水](../vocabulary/塩水.md), [塩味](../vocabulary/塩味.md), [官金](../vocabulary/官金.md), [外交官](../vocabulary/外交官.md), [察する](../vocabulary/察する.md), [察知](../vocabulary/察知.md), [席](../vocabulary/席.md), [欠席](../vocabulary/欠席.md), [出席](../vocabulary/出席.md), [空席](../vocabulary/空席.md), [常に](../vocabulary/常に.md), [日常](../vocabulary/日常.md), [常識](../vocabulary/常識.md), [干す](../vocabulary/干す.md), [干天](../vocabulary/干天.md), [干渉](../vocabulary/干渉.md), [幻](../vocabulary/幻.md), [幻覚](../vocabulary/幻覚.md), [幻想](../vocabulary/幻想.md), [底](../vocabulary/底.md), [心底](../vocabulary/心底.md), [川底](../vocabulary/川底.md), [建つ](../vocabulary/建つ.md), [建物](../vocabulary/建物.md), [建前](../vocabulary/建前.md), [恋](../vocabulary/恋.md), [失恋](../vocabulary/失恋.md), [愛](../vocabulary/愛.md), [愛国心](../vocabulary/愛国心.md), [恋愛](../vocabulary/恋愛.md), [自愛](../vocabulary/自愛.md), [性愛](../vocabulary/性愛.md), [愛知県](../vocabulary/愛知県.md), [敗れる](../vocabulary/敗れる.md), [失敗](../vocabulary/失敗.md), [勝敗](../vocabulary/勝敗.md), [敗者](../vocabulary/敗者.md), [是非](../vocabulary/是非.md), [果物](../vocabulary/果物.md), [結果](../vocabulary/結果.md), [栄える](../vocabulary/栄える.md), [光栄](../vocabulary/光栄.md), [栄光](../vocabulary/栄光.md), [梅](../vocabulary/梅.md), [梅酒](../vocabulary/梅酒.md), [交渉](../vocabulary/交渉.md), [無力](../vocabulary/無力.md), [無休](../vocabulary/無休.md), [無名](../vocabulary/無名.md), [無事](../vocabulary/無事.md), [無知](../vocabulary/無知.md), [無茶](../vocabulary/無茶.md), [無料](../vocabulary/無料.md), [細い](../vocabulary/細い.md), [結局](../vocabulary/結局.md), [署名](../vocabulary/署名.md), [薬](../vocabulary/薬.md), [薬学](../vocabulary/薬学.md), [薬方](../vocabulary/薬方.md), [薬物](../vocabulary/薬物.md), [薬用](../vocabulary/薬用.md), [虚栄心](../vocabulary/虚栄心.md), [虚弱](../vocabulary/虚弱.md), [自覚](../vocabulary/自覚.md), [感覚](../vocabulary/感覚.md), [説明](../vocabulary/説明.md), [小説](../vocabulary/小説.md), [伝説](../vocabulary/伝説.md), [仮説](../vocabulary/仮説.md), [図説](../vocabulary/図説.md), [知識](../vocabulary/知識.md), [意識](../vocabulary/意識.md), [警察](../vocabulary/警察.md), [非常](../vocabulary/非常.md), [鼻](../vocabulary/鼻.md), [鼻くそ](../vocabulary/鼻くそ.md), [鼻先](../vocabulary/鼻先.md), [鼻歌](../vocabulary/鼻歌.md), [鼻血](../vocabulary/鼻血.md), [水兵](../vocabulary/水兵.md), [詳しい](../vocabulary/詳しい.md), [詳細](../vocabulary/詳細.md), [不詳](../vocabulary/不詳.md), [劇](../vocabulary/劇.md), [喜劇](../vocabulary/喜劇.md), [悲劇](../vocabulary/悲劇.md), [劇的](../vocabulary/劇的.md), [劇場](../vocabulary/劇場.md), [歌劇](../vocabulary/歌劇.md), [不味い](../vocabulary/不味い.md), [兵](../vocabulary/兵.md), [無理](../vocabulary/無理.md), [側](../vocabulary/側.md), [変わる](../vocabulary/変わる.md), [勇む](../vocabulary/勇む.md), [無し](../vocabulary/無し.md), [完結](../vocabulary/完結.md), [無言](../vocabulary/無言.md), [愛する](../vocabulary/愛する.md), [相変わらず](../vocabulary/相変わらず.md), [愛人](../vocabulary/愛人.md), [虚しい](../vocabulary/虚しい.md), [果てる](../vocabulary/果てる.md), [愛情](../vocabulary/愛情.md), [一昨日](../vocabulary/一昨日.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -33,7 +35,9 @@
 | [苟](../radicals/苟.md) | Poem |
 | [兑](../radicals/兑.md) | Guard |
 | [祭](../radicals/祭.md) | Festival |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -74,7 +78,9 @@
 | [幻](../kanjis/幻.md) | Illusion |
 | [詳](../kanjis/詳.md) | Detailed |
 | [劇](../kanjis/劇.md) | Drama |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

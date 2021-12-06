@@ -21,7 +21,9 @@
 | vocabulary | [始まる](../vocabulary/始まる.md), [待つ](../vocabulary/待つ.md), [勉強](../vocabulary/勉強.md), [家庭](../vocabulary/家庭.md), [庭](../vocabulary/庭.md), [息](../vocabulary/息.md), [息子](../vocabulary/息子.md), [利息](../vocabulary/利息.md), [旅](../vocabulary/旅.md), [旅行](../vocabulary/旅行.md), [根](../vocabulary/根.md), [根本](../vocabulary/根本.md), [屋根](../vocabulary/屋根.md), [根気](../vocabulary/根気.md), [大根](../vocabulary/大根.md), [流す](../vocabulary/流す.md), [流行](../vocabulary/流行.md), [一流](../vocabulary/一流.md), [本流](../vocabulary/本流.md), [消す](../vocabulary/消す.md), [〜倍](../vocabulary/〜倍.md), [二倍](../vocabulary/二倍.md), [店員](../vocabulary/店員.md), [全員](../vocabulary/全員.md), [社員](../vocabulary/社員.md), [会社員](../vocabulary/会社員.md), [広島](../vocabulary/広島.md), [祭](../vocabulary/祭.md), [文章](../vocabulary/文章.md), [第二章](../vocabulary/第二章.md), [第一](../vocabulary/第一.md), [第一位](../vocabulary/第一位.md), [東京都](../vocabulary/東京都.md), [京都](../vocabulary/京都.md), [動く](../vocabulary/動く.md), [動物](../vocabulary/動物.md), [運動](../vocabulary/運動.md), [商売](../vocabulary/商売.md), [商人](../vocabulary/商人.md), [悪い](../vocabulary/悪い.md), [悪人](../vocabulary/悪人.md), [悪女](../vocabulary/悪女.md), [最悪](../vocabulary/最悪.md), [家族](../vocabulary/家族.md), [民族](../vocabulary/民族.md), [血族](../vocabulary/血族.md), [深い](../vocabulary/深い.md), [深夜](../vocabulary/深夜.md), [水深](../vocabulary/水深.md), [最深](../vocabulary/最深.md), [球](../vocabulary/球.md), [野球](../vocabulary/野球.md), [童話](../vocabulary/童話.md), [太陽](../vocabulary/太陽.md), [一階](../vocabulary/一階.md), [二階](../vocabulary/二階.md), [四十二階](../vocabulary/四十二階.md), [寒い](../vocabulary/寒い.md), [暑い](../vocabulary/暑い.md), [期待](../vocabulary/期待.md), [学期](../vocabulary/学期.md), [時期](../vocabulary/時期.md), [植物](../vocabulary/植物.md), [歯医者](../vocabulary/歯医者.md), [虫歯](../vocabulary/虫歯.md), [歯](../vocabulary/歯.md), [温かい](../vocabulary/温かい.md), [温泉](../vocabulary/温泉.md), [温度](../vocabulary/温度.md), [空港](../vocabulary/空港.md), [茶の湯](../vocabulary/茶の湯.md), [湯気](../vocabulary/湯気.md), [登る](../vocabulary/登る.md), [登山](../vocabulary/登山.md), [着る](../vocabulary/着る.md), [短い](../vocabulary/短い.md), [短刀](../vocabulary/短刀.md), [短期](../vocabulary/短期.md), [泉](../vocabulary/泉.md), [合う](../vocabulary/合う.md), [酒飲み](../vocabulary/酒飲み.md), [鳴き声](../vocabulary/鳴き声.md), [飲み物](../vocabulary/飲み物.md), [聞こえる](../vocabulary/聞こえる.md), [心配事](../vocabulary/心配事.md), [音読み](../vocabulary/音読み.md), [運転手](../vocabulary/運転手.md), [落ち葉](../vocabulary/落ち葉.md), [父親](../vocabulary/父親.md), [母親](../vocabulary/母親.md), [三番目](../vocabulary/三番目.md), [話し方](../vocabulary/話し方.md), [転ぶ](../vocabulary/転ぶ.md), [集まる](../vocabulary/集まる.md), [落とす](../vocabulary/落とす.md), [終わり](../vocabulary/終わり.md), [終電](../vocabulary/終電.md), [開く](../vocabulary/開く.md), [起こる](../vocabulary/起こる.md), [心配する](../vocabulary/心配する.md), [鳴る](../vocabulary/鳴る.md), [歌う](../vocabulary/歌う.md), [勝手](../vocabulary/勝手.md), [伝わる](../vocabulary/伝わる.md), [都合](../vocabulary/都合.md), [要求する](../vocabulary/要求する.md), [消化](../vocabulary/消化.md), [運](../vocabulary/運.md), [気温](../vocabulary/気温.md), [〜階](../vocabulary/〜階.md), [都市](../vocabulary/都市.md), [言葉](../vocabulary/言葉.md), [僕](../vocabulary/僕.md), [地球](../vocabulary/地球.md), [田代島](../vocabulary/田代島.md), [会員](../vocabulary/会員.md), [船員](../vocabulary/船員.md), [都会](../vocabulary/都会.md), [島](../vocabulary/島.md), [落ち](../vocabulary/落ち.md), [陽気](../vocabulary/陽気.md), [期間](../vocabulary/期間.md), [行動](../vocabulary/行動.md), [集まり](../vocabulary/集まり.md), [植える](../vocabulary/植える.md), [親分](../vocabulary/親分.md), [顔文字](../vocabulary/顔文字.md), [大学院生](../vocabulary/大学院生.md), [港](../vocabulary/港.md), [湯](../vocabulary/湯.md), [活動](../vocabulary/活動.md), [祭日](../vocabulary/祭日.md), [着々](../vocabulary/着々.md), [苦しめる](../vocabulary/苦しめる.md), [終える](../vocabulary/終える.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -38,7 +40,9 @@
 | [業](../radicals/業.md) | Business |
 | [求](../radicals/求.md) | Request |
 | [直](../radicals/直.md) | Fix |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -81,7 +85,9 @@
 | [泉](../kanjis/泉.md) | Spring, Fountain |
 | [合](../kanjis/合.md) | Suit, Fit, Join |
 | [僕](../kanjis/僕.md) | I, Me |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

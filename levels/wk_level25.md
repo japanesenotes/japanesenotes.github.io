@@ -21,7 +21,9 @@
 | vocabulary | [状況](../vocabulary/状況.md), [限界](../vocabulary/限界.md), [限定](../vocabulary/限定.md), [限度](../vocabulary/限度.md), [限る](../vocabulary/限る.md), [時限](../vocabulary/時限.md), [期限](../vocabulary/期限.md), [無限](../vocabulary/無限.md), [吸収する](../vocabulary/吸収する.md), [割れる](../vocabulary/割れる.md), [割引](../vocabulary/割引.md), [準備する](../vocabulary/準備する.md), [頑張る](../vocabulary/頑張る.md), [抜く](../vocabulary/抜く.md), [捕まる](../vocabulary/捕まる.md), [模型](../vocabulary/模型.md), [与える](../vocabulary/与える.md), [賞与金](../vocabulary/賞与金.md), [含む](../vocabulary/含む.md), [含意](../vocabulary/含意.md), [影](../vocabulary/影.md), [不況](../vocabulary/不況.md), [渡る](../vocabulary/渡る.md), [響く](../vocabulary/響く.md), [影響](../vocabulary/影響.md), [票](../vocabulary/票.md), [投票する](../vocabulary/投票する.md), [光景](../vocabulary/光景.md), [景況](../vocabulary/景況.md), [景観](../vocabulary/景観.md), [全景](../vocabulary/全景.md), [前景](../vocabulary/前景.md), [訴える](../vocabulary/訴える.md), [告訴](../vocabulary/告訴.md), [訴訟](../vocabulary/訴訟.md), [逮捕](../vocabulary/逮捕.md), [補う](../vocabulary/補う.md), [候補者](../vocabulary/候補者.md), [気候](../vocabulary/気候.md), [天候](../vocabulary/天候.md), [時候](../vocabulary/時候.md), [構う](../vocabulary/構う.md), [構成](../vocabulary/構成.md), [結構](../vocabulary/結構.md), [模様](../vocabulary/模様.md), [規模](../vocabulary/規模.md), [新鮮](../vocabulary/新鮮.md), [鮮やか](../vocabulary/鮮やか.md), [鮮魚](../vocabulary/鮮魚.md), [効く](../vocabulary/効く.md), [効果](../vocabulary/効果.md), [効率](../vocabulary/効率.md), [効力](../vocabulary/効力.md), [所属](../vocabulary/所属.md), [属する](../vocabulary/属する.md), [金属](../vocabulary/金属.md), [慣れる](../vocabulary/慣れる.md), [習慣](../vocabulary/習慣.md), [豊か](../vocabulary/豊か.md), [豊満](../vocabulary/豊満.md), [満足](../vocabulary/満足.md), [満月](../vocabulary/満月.md), [満員](../vocabulary/満員.md), [満点](../vocabulary/満点.md), [肥満](../vocabulary/肥満.md), [肥料](../vocabulary/肥料.md), [巻く](../vocabulary/巻く.md), [一巻](../vocabulary/一巻.md), [下巻](../vocabulary/下巻.md), [上巻](../vocabulary/上巻.md), [二巻](../vocabulary/二巻.md), [捜す](../vocabulary/捜す.md), [捜査](../vocabulary/捜査.md), [絞殺](../vocabulary/絞殺.md), [絞る](../vocabulary/絞る.md), [先輩](../vocabulary/先輩.md), [後輩](../vocabulary/後輩.md), [年輩](../vocabulary/年輩.md), [隠す](../vocabulary/隠す.md), [隠居](../vocabulary/隠居.md), [掛ける](../vocabulary/掛ける.md), [替える](../vocabulary/替える.md), [女優](../vocabulary/女優.md), [革命家](../vocabulary/革命家.md), [革ジャン](../vocabulary/革ジャン.md), [長崎県](../vocabulary/長崎県.md), [呼ばれる](../vocabulary/呼ばれる.md), [現す](../vocabulary/現す.md), [景色](../vocabulary/景色.md), [居る](../vocabulary/居る.md), [律動的](../vocabulary/律動的.md), [見渡す](../vocabulary/見渡す.md), [規則正しい](../vocabulary/規則正しい.md), [家庭教師](../vocabulary/家庭教師.md), [不規則](../vocabulary/不規則.md), [反響](../vocabulary/反響.md), [収める](../vocabulary/収める.md), [増す](../vocabulary/増す.md), [掛け算](../vocabulary/掛け算.md), [優れる](../vocabulary/優れる.md), [捉える](../vocabulary/捉える.md), [絞める](../vocabulary/絞める.md), [人狼](../vocabulary/人狼.md), [莫大](../vocabulary/莫大.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -33,7 +35,9 @@
 | [両](../radicals/両.md) | Both |
 | [莫](../radicals/莫.md) | Greenhouse |
 | [禹](../radicals/禹.md) | Mantis |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -72,7 +76,9 @@
 | [居](../kanjis/居.md) | Alive |
 | [捉](../kanjis/捉.md) | Catch |
 | [莫](../kanjis/莫.md) | Greenhouse, Endless |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

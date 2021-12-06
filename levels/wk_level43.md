@@ -21,14 +21,18 @@
 | vocabulary | [軍艦島](../vocabulary/軍艦島.md), [偽物](../vocabulary/偽物.md), [包み](../vocabulary/包み.md), [浴衣](../vocabulary/浴衣.md), [誠に](../vocabulary/誠に.md), [誰](../vocabulary/誰.md), [誰か](../vocabulary/誰か.md), [珍](../vocabulary/珍.md), [珍味](../vocabulary/珍味.md), [珍しい](../vocabulary/珍しい.md), [裂く](../vocabulary/裂く.md), [決裂](../vocabulary/決裂.md), [分裂](../vocabulary/分裂.md), [襲う](../vocabulary/襲う.md), [襲撃](../vocabulary/襲撃.md), [奇襲](../vocabulary/奇襲.md), [空襲](../vocabulary/空襲.md), [逆襲](../vocabulary/逆襲.md), [貢献](../vocabulary/貢献.md), [趣](../vocabulary/趣.md), [趣味](../vocabulary/趣味.md), [距離](../vocabulary/距離.md), [戸籍](../vocabulary/戸籍.md), [国籍](../vocabulary/国籍.md), [暴露](../vocabulary/暴露.md), [露骨](../vocabulary/露骨.md), [露店](../vocabulary/露店.md), [露出](../vocabulary/露出.md), [牧師](../vocabulary/牧師.md), [牧野](../vocabulary/牧野.md), [牧草](../vocabulary/牧草.md), [牧場](../vocabulary/牧場.md), [印刷](../vocabulary/印刷.md), [刷る](../vocabulary/刷る.md), [明朗](../vocabulary/明朗.md), [朗報](../vocabulary/朗報.md), [朗らか](../vocabulary/朗らか.md), [潮](../vocabulary/潮.md), [風潮](../vocabulary/風潮.md), [満潮](../vocabulary/満潮.md), [潮流](../vocabulary/潮流.md), [即〜](../vocabulary/即〜.md), [即興](../vocabulary/即興.md), [即座](../vocabulary/即座.md), [即死](../vocabulary/即死.md), [即日](../vocabulary/即日.md), [即効](../vocabulary/即効.md), [垣](../vocabulary/垣.md), [垣根](../vocabulary/垣根.md), [石垣](../vocabulary/石垣.md), [権威](../vocabulary/権威.md), [威張る](../vocabulary/威張る.md), [球威](../vocabulary/球威.md), [威厳](../vocabulary/威厳.md), [封](../vocabulary/封.md), [開封](../vocabulary/開封.md), [封書](../vocabulary/封書.md), [封建主義](../vocabulary/封建主義.md), [封筒](../vocabulary/封筒.md), [筒](../vocabulary/筒.md), [慰謝](../vocabulary/慰謝.md), [慰める](../vocabulary/慰める.md), [慰問](../vocabulary/慰問.md), [慰安](../vocabulary/慰安.md), [懇意](../vocabulary/懇意.md), [懇話](../vocabulary/懇話.md), [懇親](../vocabulary/懇親.md), [懇談](../vocabulary/懇談.md), [懲りる](../vocabulary/懲りる.md), [懲罰](../vocabulary/懲罰.md), [摩擦](../vocabulary/摩擦.md), [擦れる](../vocabulary/擦れる.md), [相撲](../vocabulary/相撲.md), [一斉](../vocabulary/一斉.md), [旨い](../vocabulary/旨い.md), [旨](../vocabulary/旨.md), [要旨](../vocabulary/要旨.md), [論旨](../vocabulary/論旨.md), [柔らかい](../vocabulary/柔らかい.md), [柔道](../vocabulary/柔道.md), [柔和](../vocabulary/柔和.md), [沈む](../vocabulary/沈む.md), [沈滞](../vocabulary/沈滞.md), [沼](../vocabulary/沼.md), [沼田](../vocabulary/沼田.md), [沼地](../vocabulary/沼地.md), [泥沼](../vocabulary/泥沼.md), [沼沢](../vocabulary/沼沢.md), [安泰](../vocabulary/安泰.md), [滅ぼす](../vocabulary/滅ぼす.md), [滅亡](../vocabulary/滅亡.md), [撲滅](../vocabulary/撲滅.md), [絶滅](../vocabulary/絶滅.md), [壊滅](../vocabulary/壊滅.md), [幻滅](../vocabulary/幻滅.md), [滋養](../vocabulary/滋養.md), [高炉](../vocabulary/高炉.md), [暖炉](../vocabulary/暖炉.md), [炉心](../vocabulary/炉心.md), [原子炉](../vocabulary/原子炉.md), [琴](../vocabulary/琴.md), [伺い](../vocabulary/伺い.md), [群がる](../vocabulary/群がる.md), [潜る](../vocabulary/潜る.md), [埋まる](../vocabulary/埋まる.md), [慰謝料](../vocabulary/慰謝料.md), [露](../vocabulary/露.md), [御札](../vocabulary/御札.md), [濡れ衣](../vocabulary/濡れ衣.md), [凄く](../vocabulary/凄く.md), [揚がる](../vocabulary/揚がる.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
 | [耒](../radicals/耒.md) | Plow |
 | [龍](../radicals/龍.md) | Imperial |
 | [豸](../radicals/豸.md) | Badger |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -66,7 +70,9 @@
 | [滋](../kanjis/滋.md) | Nourishing |
 | [炉](../kanjis/炉.md) | Furnace |
 | [琴](../kanjis/琴.md) | Harp, Zither |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

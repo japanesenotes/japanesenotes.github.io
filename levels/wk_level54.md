@@ -21,11 +21,15 @@
 | vocabulary | [風呂場](../vocabulary/風呂場.md), [風呂屋](../vocabulary/風呂屋.md), [倫理学](../vocabulary/倫理学.md), [倫理的](../vocabulary/倫理的.md), [偏り](../vocabulary/偏り.md), [冠](../vocabulary/冠.md), [王冠](../vocabulary/王冠.md), [殊勲](../vocabulary/殊勲.md), [叙勲](../vocabulary/叙勲.md), [勲章](../vocabulary/勲章.md), [卸](../vocabulary/卸.md), [卸す](../vocabulary/卸す.md), [卸値](../vocabulary/卸値.md), [卸売](../vocabulary/卸売.md), [叙事詩](../vocabulary/叙事詩.md), [叙述](../vocabulary/叙述.md), [叙情](../vocabulary/叙情.md), [自叙伝](../vocabulary/自叙伝.md), [阿呆](../vocabulary/阿呆.md), [呆ける](../vocabulary/呆ける.md), [露呈](../vocabulary/露呈.md), [進呈](../vocabulary/進呈.md), [贈呈](../vocabulary/贈呈.md), [哺育](../vocabulary/哺育.md), [噴き出す](../vocabulary/噴き出す.md), [孤児院](../vocabulary/孤児院.md), [尚](../vocabulary/尚.md), [和尚](../vocabulary/和尚.md), [高尚](../vocabulary/高尚.md), [時期尚早](../vocabulary/時期尚早.md), [庶民](../vocabulary/庶民.md), [庶務](../vocabulary/庶務.md), [怠ける](../vocabulary/怠ける.md), [悠々](../vocabulary/悠々.md), [悠久](../vocabulary/悠久.md), [悠長](../vocabulary/悠長.md), [愚](../vocabulary/愚.md), [愚痴](../vocabulary/愚痴.md), [傲慢](../vocabulary/傲慢.md), [誘拐](../vocabulary/誘拐.md), [杏](../vocabulary/杏.md), [銀杏](../vocabulary/銀杏.md), [栞](../vocabulary/栞.md), [栽培](../vocabulary/栽培.md), [盆栽](../vocabulary/盆栽.md), [欄](../vocabulary/欄.md), [空欄](../vocabulary/空欄.md), [欄干](../vocabulary/欄干.md), [欄外](../vocabulary/欄外.md), [殊に](../vocabulary/殊に.md), [犠牲者](../vocabulary/犠牲者.md), [哺乳瓶](../vocabulary/哺乳瓶.md), [過疎](../vocabulary/過疎.md), [空疎](../vocabulary/空疎.md), [疎遠](../vocabulary/疎遠.md), [疎開](../vocabulary/疎開.md), [疎外](../vocabulary/疎外.md), [疎通](../vocabulary/疎通.md), [疎ら](../vocabulary/疎ら.md), [疾患](../vocabulary/疾患.md), [疾走](../vocabulary/疾走.md), [疾風](../vocabulary/疾風.md), [疾病](../vocabulary/疾病.md), [音痴](../vocabulary/音痴.md), [痴呆](../vocabulary/痴呆.md), [痴漢](../vocabulary/痴漢.md), [無秩序](../vocabulary/無秩序.md), [自粛](../vocabulary/自粛.md), [厳粛](../vocabulary/厳粛.md), [静粛](../vocabulary/静粛.md), [兵糧](../vocabulary/兵糧.md), [紋](../vocabulary/紋.md), [指紋](../vocabulary/指紋.md), [波紋](../vocabulary/波紋.md), [紋章](../vocabulary/紋章.md), [膨らむ](../vocabulary/膨らむ.md), [茎](../vocabulary/茎.md), [茨城県](../vocabulary/茨城県.md), [山荘](../vocabulary/山荘.md), [荘厳](../vocabulary/荘厳.md), [別荘](../vocabulary/別荘.md), [歌謡](../vocabulary/歌謡.md), [童謡](../vocabulary/童謡.md), [民謡](../vocabulary/民謡.md), [貫き通す](../vocabulary/貫き通す.md), [賠償金](../vocabulary/賠償金.md), [実践](../vocabulary/実践.md), [逸話](../vocabulary/逸話.md), [逸品](../vocabulary/逸品.md), [逸脱](../vocabulary/逸脱.md), [秀逸](../vocabulary/秀逸.md), [逸らす](../vocabulary/逸らす.md), [最優遇](../vocabulary/最優遇.md), [応酬](../vocabulary/応酬.md), [報酬](../vocabulary/報酬.md), [酷](../vocabulary/酷.md), [過酷](../vocabulary/過酷.md), [酷使](../vocabulary/酷使.md), [酷似](../vocabulary/酷似.md), [酷い](../vocabulary/酷い.md), [酷暑](../vocabulary/酷暑.md), [残酷](../vocabulary/残酷.md), [冷酷](../vocabulary/冷酷.md), [酷評](../vocabulary/酷評.md), [鎌](../vocabulary/鎌.md), [新陳代謝](../vocabulary/新陳代謝.md), [陳列室](../vocabulary/陳列室.md), [必須条件](../vocabulary/必須条件.md), [露顕](../vocabulary/露顕.md), [顕在](../vocabulary/顕在.md), [顕著](../vocabulary/顕著.md), [顕彰](../vocabulary/顕彰.md), [鯨](../vocabulary/鯨.md), [捕鯨](../vocabulary/捕鯨.md), [鯨肉](../vocabulary/鯨肉.md), [茜色](../vocabulary/茜色.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -64,7 +68,9 @@
 | [杏](../kanjis/杏.md) | Apricot |
 | [茜](../kanjis/茜.md) | Red Dye |
 | [栞](../kanjis/栞.md) | Bookmark |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

@@ -21,7 +21,9 @@
 | vocabulary | [切れる](../vocabulary/切れる.md), [大文字](../vocabulary/大文字.md), [耳打ち](../vocabulary/耳打ち.md), [見分ける](../vocabulary/見分ける.md), [仕方がない](../vocabulary/仕方がない.md), [写る](../vocabulary/写る.md), [行う](../vocabulary/行う.md), [文化](../vocabulary/文化.md), [地](../vocabulary/地.md), [地下](../vocabulary/地下.md), [土地](../vocabulary/土地.md), [地図](../vocabulary/地図.md), [両手](../vocabulary/両手.md), [両日](../vocabulary/両日.md), [両方](../vocabulary/両方.md), [全て](../vocabulary/全て.md), [全力](../vocabulary/全力.md), [全日本](../vocabulary/全日本.md), [安全](../vocabulary/安全.md), [方向](../vocabulary/方向.md), [安い](../vocabulary/安い.md), [安心](../vocabulary/安心.md), [不安](../vocabulary/不安.md), [平安](../vocabulary/平安.md), [州](../vocabulary/州.md), [九州](../vocabulary/九州.md), [本州](../vocabulary/本州.md), [曲](../vocabulary/曲.md), [名曲](../vocabulary/名曲.md), [有る](../vocabulary/有る.md), [有名](../vocabulary/有名.md), [次](../vocabulary/次.md), [次回](../vocabulary/次回.md), [目次](../vocabulary/目次.md), [年次](../vocabulary/年次.md), [死ぬ](../vocabulary/死ぬ.md), [死体](../vocabulary/死体.md), [死亡](../vocabulary/死亡.md), [羊](../vocabulary/羊.md), [羊毛](../vocabulary/羊毛.md), [血](../vocabulary/血.md), [出血](../vocabulary/出血.md), [国](../vocabulary/国.md), [中国](../vocabulary/中国.md), [天国](../vocabulary/天国.md), [全国](../vocabulary/全国.md), [四国](../vocabulary/四国.md), [外国](../vocabulary/外国.md), [外国人](../vocabulary/外国人.md), [米国](../vocabulary/米国.md), [夜](../vocabulary/夜.md), [今夜](../vocabulary/今夜.md), [姉妹](../vocabulary/姉妹.md), [妹](../vocabulary/妹.md), [お姉さん](../vocabulary/お姉さん.md), [店](../vocabulary/店.md), [明るい](../vocabulary/明るい.md), [不明](../vocabulary/不明.md), [東方](../vocabulary/東方.md), [東北](../vocabulary/東北.md), [中東](../vocabulary/中東.md), [南東](../vocabulary/南東.md), [歩く](../vocabulary/歩く.md), [直す](../vocabulary/直す.md), [正直](../vocabulary/正直.md), [直行](../vocabulary/直行.md), [長い](../vocabulary/長い.md), [社長](../vocabulary/社長.md), [前](../vocabulary/前.md), [午前](../vocabulary/午前.md), [南](../vocabulary/南.md), [後ろ](../vocabulary/後ろ.md), [後で](../vocabulary/後で.md), [午後](../vocabulary/午後.md), [思う](../vocabulary/思う.md), [生活](../vocabulary/生活.md), [海外](../vocabulary/海外.md), [点](../vocabulary/点.md), [科学](../vocabulary/科学.md), [お茶](../vocabulary/お茶.md), [茶色](../vocabulary/茶色.md), [食べる](../vocabulary/食べる.md), [首](../vocabulary/首.md), [足首](../vocabulary/足首.md), [首になる](../vocabulary/首になる.md), [四十二](../vocabulary/四十二.md), [引き分け](../vocabulary/引き分け.md), [亡くなる](../vocabulary/亡くなる.md), [小文字](../vocabulary/小文字.md), [冬休み](../vocabulary/冬休み.md), [出来る](../vocabulary/出来る.md), [方言](../vocabulary/方言.md), [東京](../vocabulary/東京.md), [早口](../vocabulary/早口.md), [足りない](../vocabulary/足りない.md), [年上](../vocabulary/年上.md), [世の中](../vocabulary/世の中.md), [代わり](../vocabulary/代わり.md), [今年](../vocabulary/今年.md), [代える](../vocabulary/代える.md), [年下](../vocabulary/年下.md), [向く](../vocabulary/向く.md), [東](../vocabulary/東.md), [私](../vocabulary/私.md), [私生活](../vocabulary/私生活.md), [私立](../vocabulary/私立.md), [広がる](../vocabulary/広がる.md), [国宝](../vocabulary/国宝.md), [宝くじ](../vocabulary/宝くじ.md), [一歩](../vocabulary/一歩.md), [三百](../vocabulary/三百.md), [足す](../vocabulary/足す.md), [車両](../vocabulary/車両.md), [早く](../vocabulary/早く.md), [死](../vocabulary/死.md), [姉](../vocabulary/姉.md), [〜室](../vocabulary/〜室.md), [草地](../vocabulary/草地.md), [国王](../vocabulary/国王.md), [水星](../vocabulary/水星.md), [金星](../vocabulary/金星.md), [生える](../vocabulary/生える.md), [土星](../vocabulary/土星.md), [活気](../vocabulary/活気.md), [点ける](../vocabulary/点ける.md), [地中](../vocabulary/地中.md), [活用](../vocabulary/活用.md), [知る](../vocabulary/知る.md), [手首](../vocabulary/手首.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -47,7 +49,9 @@
 | [舌](../radicals/舌.md) | Tongue |
 | [亡](../radicals/亡.md) | Death |
 | [市](../radicals/市.md) | City |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -92,7 +96,9 @@
 | [首](../kanjis/首.md) | Neck |
 | [亡](../kanjis/亡.md) | Death, Deceased |
 | [私](../kanjis/私.md) | I, Private |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

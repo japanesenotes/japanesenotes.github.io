@@ -21,7 +21,9 @@
 | vocabulary | [久しい](../vocabulary/久しい.md), [白旗](../vocabulary/白旗.md), [結婚式](../vocabulary/結婚式.md), [押しボタン](../vocabulary/押しボタン.md), [押入れ](../vocabulary/押入れ.md), [出版する](../vocabulary/出版する.md), [出版社](../vocabulary/出版社.md), [貧乏人](../vocabulary/貧乏人.md), [冷える](../vocabulary/冷える.md), [結婚する](../vocabulary/結婚する.md), [撮影禁止](../vocabulary/撮影禁止.md), [照り焼き](../vocabulary/照り焼き.md), [背中](../vocabulary/背中.md), [購読する](../vocabulary/購読する.md), [迎える](../vocabulary/迎える.md), [大騒ぎ](../vocabulary/大騒ぎ.md), [序文](../vocabulary/序文.md), [順序](../vocabulary/順序.md), [志](../vocabulary/志.md), [意志](../vocabulary/意志.md), [志望](../vocabulary/志望.md), [恩人](../vocabulary/恩人.md), [恩賞](../vocabulary/恩賞.md), [採る](../vocabulary/採る.md), [採用](../vocabulary/採用.md), [採決](../vocabulary/採決.md), [採算](../vocabulary/採算.md), [桜](../vocabulary/桜.md), [桜んぼ](../vocabulary/桜んぼ.md), [桜肉](../vocabulary/桜肉.md), [桜色](../vocabulary/桜色.md), [永遠](../vocabulary/永遠.md), [永久](../vocabulary/永久.md), [液体](../vocabulary/液体.md), [血液](../vocabulary/血液.md), [眼](../vocabulary/眼.md), [眼球](../vocabulary/眼球.md), [老眼](../vocabulary/老眼.md), [先祖](../vocabulary/先祖.md), [祖父](../vocabulary/祖父.md), [祖母](../vocabulary/祖母.md), [功績](../vocabulary/功績.md), [成績](../vocabulary/成績.md), [興味](../vocabulary/興味.md), [自衛](../vocabulary/自衛.md), [衛生](../vocabulary/衛生.md), [複雑](../vocabulary/複雑.md), [衛星](../vocabulary/衛星.md), [複数](../vocabulary/複数.md), [複写](../vocabulary/複写.md), [雑音](../vocabulary/雑音.md), [雑費](../vocabulary/雑費.md), [酸っぱい](../vocabulary/酸っぱい.md), [賛成](../vocabulary/賛成.md), [酸素](../vocabulary/酸素.md), [銭](../vocabulary/銭.md), [銭湯](../vocabulary/銭湯.md), [飼う](../vocabulary/飼う.md), [傷](../vocabulary/傷.md), [傷める](../vocabulary/傷める.md), [傷心](../vocabulary/傷心.md), [傷者](../vocabulary/傷者.md), [自民党](../vocabulary/自民党.md), [共産党](../vocabulary/共産党.md), [政党](../vocabulary/政党.md), [党員](../vocabulary/党員.md), [社会党](../vocabulary/社会党.md), [卵](../vocabulary/卵.md), [生卵](../vocabulary/生卵.md), [ゆで卵](../vocabulary/ゆで卵.md), [厳しい](../vocabulary/厳しい.md), [厳禁](../vocabulary/厳禁.md), [捨てる](../vocabulary/捨てる.md), [込む](../vocabulary/込む.md), [密か](../vocabulary/密か.md), [密会](../vocabulary/密会.md), [密告](../vocabulary/密告.md), [秘密](../vocabulary/秘密.md), [密輸](../vocabulary/密輸.md), [染める](../vocabulary/染める.md), [感染](../vocabulary/感染.md), [伝染病](../vocabulary/伝染病.md), [汚れる](../vocabulary/汚れる.md), [汚染](../vocabulary/汚染.md), [汚水](../vocabulary/汚水.md), [汚点](../vocabulary/汚点.md), [欲しい](../vocabulary/欲しい.md), [欲求](../vocabulary/欲求.md), [肉欲](../vocabulary/肉欲.md), [食欲](../vocabulary/食欲.md), [暖かい](../vocabulary/暖かい.md), [温暖](../vocabulary/温暖.md), [机](../vocabulary/机.md), [秘める](../vocabulary/秘める.md), [便秘](../vocabulary/便秘.md), [訳](../vocabulary/訳.md), [訳す](../vocabulary/訳す.md), [訳者](../vocabulary/訳者.md), [訳語](../vocabulary/訳語.md), [通訳](../vocabulary/通訳.md), [英訳](../vocabulary/英訳.md), [和訳](../vocabulary/和訳.md), [延長する](../vocabulary/延長する.md), [今更](../vocabulary/今更.md), [漏らす](../vocabulary/漏らす.md), [越す](../vocabulary/越す.md), [浮かれる](../vocabulary/浮かれる.md), [背丈](../vocabulary/背丈.md), [火傷](../vocabulary/火傷.md), [意欲](../vocabulary/意欲.md), [恐い](../vocabulary/恐い.md), [背が高い](../vocabulary/背が高い.md), [飾り](../vocabulary/飾り.md), [飾り気](../vocabulary/飾り気.md), [遊び](../vocabulary/遊び.md), [火照る](../vocabulary/火照る.md), [背広](../vocabulary/背広.md), [匂い](../vocabulary/匂い.md), [濡れる](../vocabulary/濡れる.md), [預かる](../vocabulary/預かる.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -31,7 +33,9 @@
 | [必](../radicals/必.md) | Certain |
 | [夋](../radicals/夋.md) | Spider |
 | [舎](../radicals/舎.md) | Cottage |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -69,7 +73,9 @@
 | [秘](../kanjis/秘.md) | Secret |
 | [訳](../kanjis/訳.md) | Translation, Reason |
 | [染](../kanjis/染.md) | Dye |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

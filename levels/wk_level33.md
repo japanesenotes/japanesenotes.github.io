@@ -21,7 +21,9 @@
 | vocabulary | [簡易](../vocabulary/簡易.md), [編集する](../vocabulary/編集する.md), [掃除機](../vocabulary/掃除機.md), [散歩する](../vocabulary/散歩する.md), [華々しい](../vocabulary/華々しい.md), [除いて](../vocabulary/除いて.md), [物真似](../vocabulary/物真似.md), [墓場](../vocabulary/墓場.md), [閉める](../vocabulary/閉める.md), [閉店](../vocabulary/閉店.md), [開閉](../vocabulary/開閉.md), [雑誌](../vocabulary/雑誌.md), [窓口](../vocabulary/窓口.md), [窓](../vocabulary/窓.md), [否](../vocabulary/否.md), [否定](../vocabulary/否定.md), [否決](../vocabulary/否決.md), [筋](../vocabulary/筋.md), [筋肉](../vocabulary/筋肉.md), [垂らす](../vocabulary/垂らす.md), [垂直](../vocabulary/垂直.md), [宣伝](../vocabulary/宣伝.md), [宣言](../vocabulary/宣言.md), [尊い](../vocabulary/尊い.md), [尊敬](../vocabulary/尊敬.md), [忠実](../vocabulary/忠実.md), [忠告](../vocabulary/忠告.md), [拡がる](../vocabulary/拡がる.md), [拡張](../vocabulary/拡張.md), [拡大](../vocabulary/拡大.md), [操る](../vocabulary/操る.md), [操](../vocabulary/操.md), [操作](../vocabulary/操作.md), [体操](../vocabulary/体操.md), [敬語](../vocabulary/敬語.md), [暮らす](../vocabulary/暮らす.md), [野暮](../vocabulary/野暮.md), [灰](../vocabulary/灰.md), [灰色](../vocabulary/灰色.md), [灰皿](../vocabulary/灰皿.md), [熟れる](../vocabulary/熟れる.md), [熟語](../vocabulary/熟語.md), [未熟](../vocabulary/未熟.md), [成熟](../vocabulary/成熟.md), [異なる](../vocabulary/異なる.md), [異状](../vocabulary/異状.md), [異性](../vocabulary/異性.md), [異義](../vocabulary/異義.md), [天皇](../vocabulary/天皇.md), [皇太子](../vocabulary/皇太子.md), [皇族](../vocabulary/皇族.md), [皇室](../vocabulary/皇室.md), [盛る](../vocabulary/盛る.md), [砂糖](../vocabulary/砂糖.md), [砂漠](../vocabulary/砂漠.md), [漠然](../vocabulary/漠然.md), [果糖](../vocabulary/果糖.md), [無糖](../vocabulary/無糖.md), [納める](../vocabulary/納める.md), [収納](../vocabulary/収納.md), [納入](../vocabulary/納入.md), [肺](../vocabulary/肺.md), [肺がん](../vocabulary/肺がん.md), [肺病](../vocabulary/肺病.md), [著しい](../vocabulary/著しい.md), [著者](../vocabulary/著者.md), [著作](../vocabulary/著作.md), [蒸れる](../vocabulary/蒸れる.md), [蒸気](../vocabulary/蒸気.md), [蔵](../vocabulary/蔵.md), [冷蔵庫](../vocabulary/冷蔵庫.md), [地蔵](../vocabulary/地蔵.md), [装い](../vocabulary/装い.md), [装置](../vocabulary/装置.md), [変装](../vocabulary/変装.md), [服装](../vocabulary/服装.md), [裏口](../vocabulary/裏口.md), [裏切る](../vocabulary/裏切る.md), [裏切り](../vocabulary/裏切り.md), [裏通り](../vocabulary/裏通り.md), [裏](../vocabulary/裏.md), [諸君](../vocabulary/諸君.md), [諸〜](../vocabulary/諸〜.md), [家賃](../vocabulary/家賃.md), [賃貸](../vocabulary/賃貸.md), [貨物船](../vocabulary/貨物船.md), [小麦粉](../vocabulary/小麦粉.md), [泥棒](../vocabulary/泥棒.md), [似合う](../vocabulary/似合う.md), [驚かす](../vocabulary/驚かす.md), [掃除する](../vocabulary/掃除する.md), [乾かす](../vocabulary/乾かす.md), [散らかす](../vocabulary/散らかす.md), [離す](../vocabulary/離す.md), [簡単](../vocabulary/簡単.md), [編集者](../vocabulary/編集者.md), [散らし](../vocabulary/散らし.md), [武装](../vocabulary/武装.md), [異常](../vocabulary/異常.md), [噂](../vocabulary/噂.md), [股間](../vocabulary/股間.md), [股関節](../vocabulary/股関節.md), [屁](../vocabulary/屁.md), [屁理屈](../vocabulary/屁理屈.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -31,7 +33,9 @@
 | [蔵](../radicals/蔵.md) | Storehouse |
 | [広](../radicals/広.md) | Wide |
 | [喿](../radicals/喿.md) | Syrup |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -69,7 +73,9 @@
 | [噂](../kanjis/噂.md) | Rumor, Gossip |
 | [股](../kanjis/股.md) | Crotch, Groin, Fork |
 | [屁](../kanjis/屁.md) | Flatulence, Gas |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |

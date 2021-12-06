@@ -21,7 +21,9 @@
 | vocabulary | [一](../vocabulary/一.md), [一つ](../vocabulary/一つ.md), [七](../vocabulary/七.md), [七つ](../vocabulary/七つ.md), [九](../vocabulary/九.md), [九つ](../vocabulary/九つ.md), [二](../vocabulary/二.md), [二つ](../vocabulary/二つ.md), [人](../vocabulary/人.md), [二人](../vocabulary/二人.md), [一人](../vocabulary/一人.md), [入る](../vocabulary/入る.md), [八](../vocabulary/八.md), [八つ](../vocabulary/八つ.md), [力](../vocabulary/力.md), [十](../vocabulary/十.md), [三](../vocabulary/三.md), [三つ](../vocabulary/三つ.md), [三人](../vocabulary/三人.md), [上](../vocabulary/上.md), [上げる](../vocabulary/上げる.md), [下](../vocabulary/下.md), [下げる](../vocabulary/下げる.md), [下さい](../vocabulary/下さい.md), [口](../vocabulary/口.md), [入り口](../vocabulary/入り口.md), [大きい](../vocabulary/大きい.md), [大きさ](../vocabulary/大きさ.md), [大した](../vocabulary/大した.md), [大人](../vocabulary/大人.md), [女](../vocabulary/女.md), [山](../vocabulary/山.md), [ふじ山](../vocabulary/ふじ山.md), [川](../vocabulary/川.md), [人口](../vocabulary/人口.md), [人工](../vocabulary/人工.md), [力いっぱい](../vocabulary/力いっぱい.md),  |
 
 
- # radicals
+
+
+# radicals
 
 | Character | Meaning |
 | --- | --- |
@@ -48,7 +50,9 @@
 | [日](../radicals/日.md) | Sun |
 | [木](../radicals/木.md) | Tree |
 | [工](../radicals/工.md) | Construction |
- # kanjis
+
+
+# kanjis
 
 | Character | Meaning |
 | --- | --- |
@@ -70,7 +74,9 @@
 | [山](../kanjis/山.md) | Mountain |
 | [川](../kanjis/川.md) | River |
 | [工](../kanjis/工.md) | Construction, Industry |
- # vocabulary
+
+
+# vocabulary
 
 | Character | Meaning |
 | --- | --- |
