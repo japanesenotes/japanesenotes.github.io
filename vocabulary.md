@@ -4,7 +4,9 @@
 [Kanjis](kanjis.md) -
 [Vocabulary](vocabulary.md) -
 [Levels](levels.md) -
-[Grammar](grammar.md)
+[Grammar](grammar.md) - 
+[Progress](progress.md) -
+[Resources](resources.md)
 # Vocabulary 
 
 | Vocabulary | Reading | Meaning | Level |
@@ -32,7 +34,7 @@
 | [三つ](vocabulary/三つ.md) | みっつ | Three Things | [1](levels/wk_level1.md) |
 | [三人](vocabulary/三人.md) | さんにん | Three People, Three Persons | [1](levels/wk_level1.md) |
 | [上](vocabulary/上.md) | うえ | Up, Above, Over | [1](levels/wk_level1.md) |
-| [上げる](vocabulary/上げる.md) | あげる | To Lift Something, To Raise Something | [1](levels/wk_level1.md) |
+| [上げる](vocabulary/上げる.md) | あげる | To Lift Something, To Raise Something, To Increase Something | [1](levels/wk_level1.md) |
 | [上がる](vocabulary/上がる.md) | あがる | To Go Up, To Rise, To Be Raised | [5](levels/wk_level5.md) |
 | [上る](vocabulary/上る.md) | のぼる | To Climb, To Go Up | [2](levels/wk_level2.md) |
 | [下](vocabulary/下.md) | した | Down, Below, Under, Beneath | [1](levels/wk_level1.md) |
@@ -157,7 +159,7 @@
 | [方](vocabulary/方.md) | かた, ほう | Way, Direction | [3](levels/wk_level3.md) |
 | [止まる](vocabulary/止まる.md) | とまる | To Stop | [5](levels/wk_level5.md) |
 | [止める](vocabulary/止める.md) | とめる | To Stop Something, To Prevent Something | [3](levels/wk_level3.md) |
-| [中止](vocabulary/中止.md) | ちゅうし | Suspension, Cancellation, Stoppage, Discontinuance, Interruption | [3](levels/wk_level3.md) |
+| [中止](vocabulary/中止.md) | ちゅうし | Suspension, Cancellation, Discontinuation | [3](levels/wk_level3.md) |
 | [毛](vocabulary/毛.md) | け | Fur, Hair | [3](levels/wk_level3.md) |
 | [父](vocabulary/父.md) | ちち | Father, Dad | [3](levels/wk_level3.md) |
 | [お父さん](vocabulary/お父さん.md) | おとうさん | Father, Dad, Papa | [3](levels/wk_level3.md) |
@@ -168,7 +170,7 @@
 | [北](vocabulary/北.md) | きた | North | [3](levels/wk_level3.md) |
 | [半](vocabulary/半.md) | はん | Half | [3](levels/wk_level3.md) |
 | [古い](vocabulary/古い.md) | ふるい | Old, Ancient, Out-Of-Date | [3](levels/wk_level3.md) |
-| [中古](vocabulary/中古.md) | ちゅうこ | Secondhand, Used, Second Hand | [3](levels/wk_level3.md) |
+| [中古](vocabulary/中古.md) | ちゅうこ | Secondhand, Used | [3](levels/wk_level3.md) |
 | [一台](vocabulary/一台.md) | いちだい | One Machine | [3](levels/wk_level3.md) |
 | [二台](vocabulary/二台.md) | にだい | Two Machines | [3](levels/wk_level3.md) |
 | [五台](vocabulary/五台.md) | ごだい | Five Machines | [3](levels/wk_level3.md) |
@@ -251,7 +253,7 @@
 | [足](vocabulary/足.md) | あし | Foot, Leg | [4](levels/wk_level4.md) |
 | [不足](vocabulary/不足.md) | ふそく | Shortage, Physical Shortage, Insufficient, Not Sufficient, Not Enough | [4](levels/wk_level4.md) |
 | [車](vocabulary/車.md) | くるま | Car | [4](levels/wk_level4.md) |
-| [車内](vocabulary/車内.md) | しゃない | Inside The Car, In The Car, In A Car, Inside A Car, Within The Car, Within A Car | [4](levels/wk_level4.md) |
+| [車内](vocabulary/車内.md) | しゃない | Inside The Car, Inside The Train, Inside The Bus | [4](levels/wk_level4.md) |
 | [世](vocabulary/世.md) | よ | World, Society, Age, Generation | [4](levels/wk_level4.md) |
 | [二世](vocabulary/二世.md) | にせい | Second Generation | [4](levels/wk_level4.md) |
 | [三世](vocabulary/三世.md) | さんせい | Third Generation | [4](levels/wk_level4.md) |
@@ -280,9 +282,9 @@
 | [皿](vocabulary/皿.md) | さら | Plate, Dish | [4](levels/wk_level4.md) |
 | [小皿](vocabulary/小皿.md) | こざら | Small Plate, Small Dish, Little Plate, Little Dish | [4](levels/wk_level4.md) |
 | [お礼](vocabulary/お礼.md) | おれい | Thanks, Gratitude | [4](levels/wk_level4.md) |
-| [不正](vocabulary/不正.md) | ふせい | Injustice, Unfairness, Dishonesty | [4](levels/wk_level4.md) |
+| [不正](vocabulary/不正.md) | ふせい | Injustice, Dishonest, Unauthorized | [4](levels/wk_level4.md) |
 | [交ぜる](vocabulary/交ぜる.md) | まぜる | To Mix Something, To Mix  | [5](levels/wk_level5.md) |
-| [大会](vocabulary/大会.md) | たいかい | Convention, Tournament, Meetup, Event | [5](levels/wk_level5.md) |
+| [大会](vocabulary/大会.md) | たいかい | Convention, Tournament, Event | [5](levels/wk_level5.md) |
 | [会う](vocabulary/会う.md) | あう | To Meet, To Encounter | [5](levels/wk_level5.md) |
 | [光](vocabulary/光.md) | ひかり | Light, Sunlight | [5](levels/wk_level5.md) |
 | [光年](vocabulary/光年.md) | こうねん | Light-year | [5](levels/wk_level5.md) |
@@ -310,9 +312,9 @@
 | [考え方](vocabulary/考え方.md) | かんがえかた | Way Of Thinking, Thought Process | [7](levels/wk_level7.md) |
 | [肉](vocabulary/肉.md) | にく | Meat | [5](levels/wk_level5.md) |
 | [牛肉](vocabulary/牛肉.md) | ぎゅうにく | Beef | [5](levels/wk_level5.md) |
-| [皮肉](vocabulary/皮肉.md) | ひにく | Irony, Sarcasm | [5](levels/wk_level5.md) |
+| [皮肉](vocabulary/皮肉.md) | ひにく | Irony, Sarcasm, Ironic, Sarcastic | [5](levels/wk_level5.md) |
 | [自分](vocabulary/自分.md) | じぶん | Oneself, Myself, Self | [5](levels/wk_level5.md) |
-| [自立](vocabulary/自立.md) | じりつ | Independence, Self Reliance | [5](levels/wk_level5.md) |
+| [自立](vocabulary/自立.md) | じりつ | Independence, Self Reliance, Independent | [5](levels/wk_level5.md) |
 | [色](vocabulary/色.md) | いろ | Color | [5](levels/wk_level5.md) |
 | [色々](vocabulary/色々.md) | いろいろ | Various | [5](levels/wk_level5.md) |
 | [水色](vocabulary/水色.md) | みずいろ | Sky Blue, Light Blue, Aqua Blue, Sky Blue Color, Light Blue Color, Aqua Blue Color | [5](levels/wk_level5.md) |
@@ -331,7 +333,7 @@
 | [学ぶ](vocabulary/学ぶ.md) | まなぶ | To Learn, To Study In Depth, To Study | [5](levels/wk_level5.md) |
 | [学生](vocabulary/学生.md) | がくせい | Student | [5](levels/wk_level5.md) |
 | [学年](vocabulary/学年.md) | がくねん | School Grade, Grade In School, School Year, Year In School | [5](levels/wk_level5.md) |
-| [入学](vocabulary/入学.md) | にゅうがく | School Admission, University Admission, Entry Into School | [5](levels/wk_level5.md) |
+| [入学](vocabulary/入学.md) | にゅうがく | School Admission, University Admission, Entry Into School, Enrollment | [5](levels/wk_level5.md) |
 | [工学](vocabulary/工学.md) | こうがく | Engineering | [5](levels/wk_level5.md) |
 | [大学](vocabulary/大学.md) | だいがく | University, College, Uni | [5](levels/wk_level5.md) |
 | [休学](vocabulary/休学.md) | きゅうがく | Absent From School, Absence From School, School Absence, Leave Of Absence | [5](levels/wk_level5.md) |
@@ -371,18 +373,18 @@
 | [古来](vocabulary/古来.md) | こらい | Ancient | [5](levels/wk_level5.md) |
 | [外来](vocabulary/外来.md) | がいらい | Imported, Outpatient, Foreign | [5](levels/wk_level5.md) |
 | [〜年来](vocabulary/〜年来.md) | ねんらい | For Some Years, For Years | [5](levels/wk_level5.md) |
-| [社内](vocabulary/社内.md) | しゃない | Within The Company, In House, Inside The Company, Inside A Company, In The Company, Within A Company | [5](levels/wk_level5.md) |
+| [社内](vocabulary/社内.md) | しゃない | Within The Company, In House, Inside The Company | [5](levels/wk_level5.md) |
 | [入社](vocabulary/入社.md) | にゅうしゃ | Joining A Company, Entering A Company | [5](levels/wk_level5.md) |
 | [公社](vocabulary/公社.md) | こうしゃ | Government-Run Company, Government-Owned Company | [5](levels/wk_level5.md) |
 | [本社](vocabulary/本社.md) | ほんしゃ | Headquarters, Hq, Head Office, Company Headquarters | [5](levels/wk_level5.md) |
 | [会社](vocabulary/会社.md) | かいしゃ | Company, Corporation, The Office | [5](levels/wk_level5.md) |
 | [角](vocabulary/角.md) | かく, かど | Angle, Corner | [5](levels/wk_level5.md) |
 | [三角](vocabulary/三角.md) | さんかく | Triangle | [5](levels/wk_level5.md) |
-| [四角](vocabulary/四角.md) | しかく | Square, Rectangle | [5](levels/wk_level5.md) |
+| [四角](vocabulary/四角.md) | しかく | Square, Rectangle, Cube | [5](levels/wk_level5.md) |
 | [言う](vocabulary/言う.md) | いう | To Say | [5](levels/wk_level5.md) |
 | [谷](vocabulary/谷.md) | たに | Valley | [5](levels/wk_level5.md) |
 | [走る](vocabulary/走る.md) | はしる | To Run | [5](levels/wk_level5.md) |
-| [走行](vocabulary/走行.md) | そうこう | Traveling, Running, Moving | [5](levels/wk_level5.md) |
+| [走行](vocabulary/走行.md) | そうこう | Traveling, Running, Moving, Driving | [5](levels/wk_level5.md) |
 | [近い](vocabulary/近い.md) | ちかい | Close, Nearby, Near | [5](levels/wk_level5.md) |
 | [近日](vocabulary/近日.md) | きんじつ | Soon, In A Few Days, Coming Days | [5](levels/wk_level5.md) |
 | [近年](vocabulary/近年.md) | きんねん | Recent Years | [5](levels/wk_level5.md) |
@@ -469,7 +471,7 @@
 | [足首](vocabulary/足首.md) | あしくび | Ankle | [6](levels/wk_level6.md) |
 | [首になる](vocabulary/首になる.md) | くびになる | To Get Fired, To Get Sacked | [6](levels/wk_level6.md) |
 | [欠点](vocabulary/欠点.md) | けってん | Shortcoming, Fault, Defect, Flaw, Weakness, Weak Point | [7](levels/wk_level7.md) |
-| [〜氏](vocabulary/〜氏.md) | し | Mister, Sir, Ma'am, Madam, Miss | [7](levels/wk_level7.md) |
+| [〜氏](vocabulary/〜氏.md) | し | Mister, Madam, Miss, Mixter | [7](levels/wk_level7.md) |
 | [氏名](vocabulary/氏名.md) | しめい | Full Name, First And Last Name | [7](levels/wk_level7.md) |
 | [自由](vocabulary/自由.md) | じゆう | Freedom, Liberty | [7](levels/wk_level7.md) |
 | [理由](vocabulary/理由.md) | りゆう | Reason | [7](levels/wk_level7.md) |
@@ -1221,7 +1223,7 @@
 | [女性](vocabulary/女性.md) | じょせい | Female, Woman, Lady | [14](levels/wk_level14.md) |
 | [性病](vocabulary/性病.md) | せいびょう | Sexually Transmitted Disease, Std, Sexually Transmitted Infection, Sti | [14](levels/wk_level14.md) |
 | [男性](vocabulary/男性.md) | だんせい | Male, Man, Guy | [14](levels/wk_level14.md) |
-| [技](vocabulary/技.md) | わざ | Technique, Art | [14](levels/wk_level14.md) |
+| [技](vocabulary/技.md) | わざ | Technique, Art, Skill | [14](levels/wk_level14.md) |
 | [技能](vocabulary/技能.md) | ぎのう | Skill, Ability | [14](levels/wk_level14.md) |
 | [特技](vocabulary/特技.md) | とくぎ | Specialty | [14](levels/wk_level14.md) |
 | [折る](vocabulary/折る.md) | おる | To Fold | [14](levels/wk_level14.md) |
@@ -1685,7 +1687,7 @@
 | [落書き](vocabulary/落書き.md) | らくがき | Graffiti, Scribble, Sketch | [18](levels/wk_level18.md) |
 | [葉書](vocabulary/葉書.md) | はがき | Postcard | [18](levels/wk_level18.md) |
 | [訓読み](vocabulary/訓読み.md) | くんよみ | Kun'yomi, Kun Reading, Japanese Reading | [18](levels/wk_level18.md) |
-| [教訓](vocabulary/教訓.md) | きょうくん | Lesson, Moral | [18](levels/wk_level18.md) |
+| [教訓](vocabulary/教訓.md) | きょうくん | Lesson, Moral, Teachings | [18](levels/wk_level18.md) |
 | [許す](vocabulary/許す.md) | ゆるす | To Permit, To Forgive, To Allow | [18](levels/wk_level18.md) |
 | [試みる](vocabulary/試みる.md) | こころみる | To Try To Do Something, To Attempt Something | [9](levels/wk_level9.md) |
 | [試す](vocabulary/試す.md) | ためす | To Try Something Out, To Give Something A Try | [11](levels/wk_level11.md) |
@@ -1866,7 +1868,7 @@
 | [臭い](vocabulary/臭い.md) | くさい | Stinky, Stinking, Smelly | [20](levels/wk_level20.md) |
 | [被害](vocabulary/被害.md) | ひがい | Damage, Harm, Injury | [20](levels/wk_level20.md) |
 | [余裕](vocabulary/余裕.md) | よゆう | Surplus, Leeway, Room | [20](levels/wk_level20.md) |
-| [裕福](vocabulary/裕福.md) | ゆうふく | Wealth | [20](levels/wk_level20.md) |
+| [裕福](vocabulary/裕福.md) | ゆうふく | Wealthy, Wealth | [20](levels/wk_level20.md) |
 | [論文](vocabulary/論文.md) | ろんぶん | Thesis, Paper, Article, Essay | [20](levels/wk_level20.md) |
 | [理論](vocabulary/理論.md) | りろん | Theory | [20](levels/wk_level20.md) |
 | [論理](vocabulary/論理.md) | ろんり | Logic | [20](levels/wk_level20.md) |
@@ -1992,7 +1994,7 @@
 | [任意](vocabulary/任意.md) | にんい | Optional, Voluntary, Arbitrary | [21](levels/wk_level21.md) |
 | [検査](vocabulary/検査.md) | けんさ | Checkup, Inspection, Examination | [21](levels/wk_level21.md) |
 | [検問する](vocabulary/検問する.md) | けんもんする | To Inspect, To Examine, To Check | [21](levels/wk_level21.md) |
-| [審判](vocabulary/審判.md) | しんぱん | Judgment, Judgement, Referee, Umpire | [21](levels/wk_level21.md) |
+| [審判](vocabulary/審判.md) | しんぱん | Judgment, Referee, Umpire | [21](levels/wk_level21.md) |
 | [条約](vocabulary/条約.md) | じょうやく | Treaty | [21](levels/wk_level21.md) |
 | [責める](vocabulary/責める.md) | せめる | To Blame | [21](levels/wk_level21.md) |
 | [責任](vocabulary/責任.md) | せきにん | Responsibility | [21](levels/wk_level21.md) |
@@ -2052,7 +2054,7 @@
 | [各〜](vocabulary/各〜.md) | かく | Each, Every, Various | [22](levels/wk_level22.md) |
 | [各地](vocabulary/各地.md) | かくち | Each Area | [22](levels/wk_level22.md) |
 | [各自](vocabulary/各自.md) | かくじ | Each Person, Individual | [22](levels/wk_level22.md) |
-| [案内](vocabulary/案内.md) | あんない | Guide | [22](levels/wk_level22.md) |
+| [案内](vocabulary/案内.md) | あんない | Guide, Information, Invitation | [22](levels/wk_level22.md) |
 | [案外](vocabulary/案外.md) | あんがい | Unexpectedly, More Than Expected | [22](levels/wk_level22.md) |
 | [置く](vocabulary/置く.md) | おく | To Put Down, To Set Down, To Place, To Put | [22](levels/wk_level22.md) |
 | [位置](vocabulary/位置.md) | いち | Position, Location, Place | [22](levels/wk_level22.md) |
@@ -2416,7 +2418,7 @@
 | [革命家](vocabulary/革命家.md) | かくめいか | Revolutionary, A Revolutionary | [25](levels/wk_level25.md) |
 | [革ジャン](vocabulary/革ジャン.md) | かわじゃん, かわジャン | Leather Jacket | [25](levels/wk_level25.md) |
 | [長崎県](vocabulary/長崎県.md) | ながさきけん | Nagasaki Prefecture | [25](levels/wk_level25.md) |
-| [本当](vocabulary/本当.md) | ほんとう | Reality, Truth, True | [5](levels/wk_level5.md) |
+| [本当](vocabulary/本当.md) | ほんとう | Reality, Truth, Real, True | [5](levels/wk_level5.md) |
 | [本当に](vocabulary/本当に.md) | ほんとうに | Really, Truly | [7](levels/wk_level7.md) |
 | [呼ばれる](vocabulary/呼ばれる.md) | よばれる | To Be Called | [25](levels/wk_level25.md) |
 | [現す](vocabulary/現す.md) | あらわす | To Show, To Reveal | [25](levels/wk_level25.md) |
@@ -3033,7 +3035,7 @@
 | [富士山](vocabulary/富士山.md) | ふじさん | Mt Fuji, Mount Fuji | [31](levels/wk_level31.md) |
 | [富む](vocabulary/富む.md) | とむ | To Be Rich, To Be Wealthy | [31](levels/wk_level31.md) |
 | [富](vocabulary/富.md) | とみ | Wealth, Riches | [31](levels/wk_level31.md) |
-| [富裕](vocabulary/富裕.md) | ふゆう | Wealthy, Affluent | [31](levels/wk_level31.md) |
+| [富裕](vocabulary/富裕.md) | ふゆう | Wealthy, Affluent, Rich | [31](levels/wk_level31.md) |
 | [道徳](vocabulary/道徳.md) | どうとく | Morals, Morality | [31](levels/wk_level31.md) |
 | [徳川](vocabulary/徳川.md) | とくがわ | Tokugawa, Tokugawa Shogun | [31](levels/wk_level31.md) |
 | [徳島県](vocabulary/徳島県.md) | とくしまけん | Tokushima Prefecture | [31](levels/wk_level31.md) |
@@ -3102,7 +3104,7 @@
 | [銭湯](vocabulary/銭湯.md) | せんとう | Public Bath | [32](levels/wk_level32.md) |
 | [飼う](vocabulary/飼う.md) | かう | To Keep A Pet, To Raise A Pet, To Own A Pet | [32](levels/wk_level32.md) |
 | [傷](vocabulary/傷.md) | きず | Wound, Damage | [32](levels/wk_level32.md) |
-| [傷める](vocabulary/傷める.md) | いためる | To Damage Something, To Injure Something | [32](levels/wk_level32.md) |
+| [傷める](vocabulary/傷める.md) | いためる | To Damage Something, To Injure Something | [36](levels/wk_level36.md) |
 | [傷心](vocabulary/傷心.md) | しょうしん | Heartbreak | [32](levels/wk_level32.md) |
 | [傷者](vocabulary/傷者.md) | しょうしゃ | Injured Person, Wounded Person | [32](levels/wk_level32.md) |
 | [自民党](vocabulary/自民党.md) | じみんとう | Liberal Democratic Party, LDP | [32](levels/wk_level32.md) |
@@ -3782,7 +3784,7 @@
 | [将棋](vocabulary/将棋.md) | しょうぎ | Shogi, Shougi, Japanese Chess | [39](levels/wk_level39.md) |
 | [跡継ぎ](vocabulary/跡継ぎ.md) | あとつぎ | Heir, Heiress, Successor | [39](levels/wk_level39.md) |
 | [跳ねる](vocabulary/跳ねる.md) | はねる | To Jump, To Leap, To Hop | [39](levels/wk_level39.md) |
-| [縄跳び](vocabulary/縄跳び.md) | なわとび | Jump Rope | [39](levels/wk_level39.md) |
+| [縄跳び](vocabulary/縄跳び.md) | なわとび | Jump Rope, Skipping Rope | [39](levels/wk_level39.md) |
 | [応募する](vocabulary/応募する.md) | おうぼする | To Apply For, To Enlist, To Answer An Ad | [39](levels/wk_level39.md) |
 | [本塁打](vocabulary/本塁打.md) | ほんるいだ | Home Run, Homer | [39](levels/wk_level39.md) |
 | [崩れる](vocabulary/崩れる.md) | くずれる | To Crumble, To Collapse | [39](levels/wk_level39.md) |
@@ -3900,7 +3902,7 @@
 | [逃す](vocabulary/逃す.md) | のがす | To Miss, To Lose, To Let Go | [40](levels/wk_level40.md) |
 | [逃亡者](vocabulary/逃亡者.md) | とうぼうしゃ | Fugitive, Runaway, Refugee | [40](levels/wk_level40.md) |
 | [顧問](vocabulary/顧問.md) | こもん | Advisor | [40](levels/wk_level40.md) |
-| [顧みる](vocabulary/顧みる.md) | かえりみる | To Look Back On, To Reflect On | [40](levels/wk_level40.md) |
+| [顧みる](vocabulary/顧みる.md) | かえりみる | To Look Back On Something, To Reflect On Something, To Be Attentive To Someone | [40](levels/wk_level40.md) |
 | [回顧録](vocabulary/回顧録.md) | かいころく | Memoirs, Reminiscences | [40](levels/wk_level40.md) |
 | [駐日](vocabulary/駐日.md) | ちゅうにち | Resident Of Japan, Stationed In Japan | [40](levels/wk_level40.md) |
 | [駐在](vocabulary/駐在.md) | ちゅうざい | Residence, Stay | [40](levels/wk_level40.md) |
@@ -3959,7 +3961,7 @@
 | [座敷](vocabulary/座敷.md) | ざしき | Tatami Room, Tatami Mat Room | [40](levels/wk_level40.md) |
 | [〜殿](vocabulary/〜殿.md) | どの | Mr., Ms., Lord | [40](levels/wk_level40.md) |
 | [殿様](vocabulary/殿様.md) | とのさま | Feudal Lord | [40](levels/wk_level40.md) |
-| [殿堂](vocabulary/殿堂.md) | でんどう | Palace | [40](levels/wk_level40.md) |
+| [殿堂](vocabulary/殿堂.md) | でんどう | Palace, Sanctuary, Hall Of Fame | [40](levels/wk_level40.md) |
 | [犠打](vocabulary/犠打.md) | ぎだ | Sacrifice Fly, Sacrifice Bunt | [40](levels/wk_level40.md) |
 | [獲得](vocabulary/獲得.md) | かくとく | Acquisition, Possession | [40](levels/wk_level40.md) |
 | [捕獲](vocabulary/捕獲.md) | ほかく | Capture, Seizure | [40](levels/wk_level40.md) |
@@ -4170,7 +4172,7 @@
 | [紛らす](vocabulary/紛らす.md) | まぎらす | To Divert, To Distract | [42](levels/wk_level42.md) |
 | [紛糾](vocabulary/紛糾.md) | ふんきゅう | Complication, Confusion | [42](levels/wk_level42.md) |
 | [糾弾](vocabulary/糾弾.md) | きゅうだん | Blame | [42](levels/wk_level42.md) |
-| [綱](vocabulary/綱.md) | つな | Rope | [42](levels/wk_level42.md) |
+| [綱](vocabulary/綱.md) | つな | Rope, Sumo Champion's Belt | [42](levels/wk_level42.md) |
 | [横綱](vocabulary/横綱.md) | よこづな | Yokozuna, Sumo Grand Champion | [42](levels/wk_level42.md) |
 | [綱引き](vocabulary/綱引き.md) | つなひき | Tug Of War | [42](levels/wk_level42.md) |
 | [網](vocabulary/網.md) | あみ | Net, Netting, Web | [42](levels/wk_level42.md) |
@@ -4701,7 +4703,7 @@
 | [脅迫](vocabulary/脅迫.md) | きょうはく | Threat, Menace | [48](levels/wk_level48.md) |
 | [魔法使い](vocabulary/魔法使い.md) | まほうつかい | Wizard, Magician, Sorcerer | [48](levels/wk_level48.md) |
 | [涼む](vocabulary/涼む.md) | すずむ | To Cool Oneself, To Cool Off | [48](levels/wk_level48.md) |
-| [備蓄](vocabulary/備蓄.md) | びちく | Emergency Stores | [48](levels/wk_level48.md) |
+| [備蓄](vocabulary/備蓄.md) | びちく | Emergency Stores, Stockpile, Reserves | [48](levels/wk_level48.md) |
 | [貯蓄](vocabulary/貯蓄.md) | ちょちく | Savings | [48](levels/wk_level48.md) |
 | [蓄える](vocabulary/蓄える.md) | たくわえる | To Amass, To Store, To Lay In Stock, To Have A Beard, To Grow A Beard | [48](levels/wk_level48.md) |
 | [蚊](vocabulary/蚊.md) | か | Mosquito | [48](levels/wk_level48.md) |
@@ -4932,7 +4934,7 @@
 | [堰](vocabulary/堰.md) | せき | Dam | [50](levels/wk_level50.md) |
 | [堤](vocabulary/堤.md) | つつみ | Embankment, Bank, Dike | [50](levels/wk_level50.md) |
 | [堤防](vocabulary/堤防.md) | ていぼう | Embankment, Bank, Levee | [50](levels/wk_level50.md) |
-| [漂う](vocabulary/漂う.md) | ただよう | To Drift | [50](levels/wk_level50.md) |
+| [漂う](vocabulary/漂う.md) | ただよう | To Drift, To Waft | [50](levels/wk_level50.md) |
 | [漂流](vocabulary/漂流.md) | ひょうりゅう | Drifting, Drift | [50](levels/wk_level50.md) |
 | [漂着](vocabulary/漂着.md) | ひょうちゃく | Drifting Ashore | [50](levels/wk_level50.md) |
 | [翻意](vocabulary/翻意.md) | ほんい | Change One's Mind, Change Your Mind | [50](levels/wk_level50.md) |
@@ -5082,9 +5084,9 @@
 | [見返す](vocabulary/見返す.md) | みかえす | To Look Back At, To Triumph Over | [15](levels/wk_level15.md) |
 | [動き](vocabulary/動き.md) | うごき | Movement, Activity, Trend, Development, Change | [14](levels/wk_level14.md) |
 | [軍](vocabulary/軍.md) | ぐん | Army, Troops, Force | [15](levels/wk_level15.md) |
-| [列](vocabulary/列.md) | れつ | Line, Line Of Things, Line Of People, Queue | [15](levels/wk_level15.md) |
-| [伝](vocabulary/伝.md) | つて | Intermediary, Connections, Go Between | [15](levels/wk_level15.md) |
-| [急](vocabulary/急.md) | きゅう | Urgent, Sudden, Abrupt | [16](levels/wk_level16.md) |
+| [列](vocabulary/列.md) | れつ | Line, Queue, Row | [15](levels/wk_level15.md) |
+| [伝](vocabulary/伝.md) | つて | Intermediary, Connections, Contacts, Go Between | [15](levels/wk_level15.md) |
+| [急](vocabulary/急.md) | きゅう | Urgent, Sudden, Steep, Emergency | [16](levels/wk_level16.md) |
 | [兵](vocabulary/兵.md) | へい | Soldier, Army, Troops | [17](levels/wk_level17.md) |
 | [無理](vocabulary/無理.md) | むり | Impossible, Unreasonable, Overdoing | [17](levels/wk_level17.md) |
 | [側](vocabulary/側.md) | がわ, そば | Side, Side Of Something, Part | [17](levels/wk_level17.md) |
@@ -5112,7 +5114,7 @@
 | [毎朝](vocabulary/毎朝.md) | まいあさ | Every Morning | [8](levels/wk_level8.md) |
 | [不自由](vocabulary/不自由.md) | ふじゆう | Discomfort, Inconvenience, Disability, Impairment, Poverty, Destitution | [9](levels/wk_level9.md) |
 | [教え](vocabulary/教え.md) | おしえ | Teaching, Instruction, Teachings, Lesson, Doctrine | [9](levels/wk_level9.md) |
-| [表](vocabulary/表.md) | おもて | Front, Surface, Exterior, Face, Outside, Appearance | [9](levels/wk_level9.md) |
+| [表](vocabulary/表.md) | おもて | Front, Exterior, Face, Outside, Appearance | [9](levels/wk_level9.md) |
 | [作業](vocabulary/作業.md) | さぎょう | Work, Operation, Manufacturing | [10](levels/wk_level10.md) |
 | [病む](vocabulary/病む.md) | やむ | To Be Sick, To Fall Ill, To Be Ill, To Come Down With, To Suffer From | [10](levels/wk_level10.md) |
 | [中指](vocabulary/中指.md) | なかゆび | Middle Finger, Second Finger, Middle Toe | [13](levels/wk_level13.md) |
@@ -5696,7 +5698,7 @@
 | [最優遇](vocabulary/最優遇.md) | さいゆうぐう | Most Favorable Treatment, Warmest Reception | [54](levels/wk_level54.md) |
 | [応酬](vocabulary/応酬.md) | おうしゅう | Exchange, Reciprocation | [54](levels/wk_level54.md) |
 | [報酬](vocabulary/報酬.md) | ほうしゅう | Reward, Compensation | [54](levels/wk_level54.md) |
-| [酷](vocabulary/酷.md) | こく | Severe, Harsh, Strict, Unfair | [54](levels/wk_level54.md) |
+| [酷](vocabulary/酷.md) | こく | Harsh, Severe, Cruel, Terrible | [54](levels/wk_level54.md) |
 | [過酷](vocabulary/過酷.md) | かこく | Severity, Rigor, Cruelty, Harsh | [54](levels/wk_level54.md) |
 | [酷使](vocabulary/酷使.md) | こくし | Exploitation, Overuse, Abuse | [54](levels/wk_level54.md) |
 | [酷似](vocabulary/酷似.md) | こくじ | Resemblance, Resemble | [54](levels/wk_level54.md) |
@@ -5724,7 +5726,7 @@
 | [伏線](vocabulary/伏線.md) | ふくせん | Foreshadowing | [55](levels/wk_level55.md) |
 | [伏兵](vocabulary/伏兵.md) | ふくへい | Ambush | [55](levels/wk_level55.md) |
 | [佳作](vocabulary/佳作.md) | かさく | Fine Work, Good Piece Of Work | [55](levels/wk_level55.md) |
-| [傍](vocabulary/傍.md) | そば, はた | Near, Close, Beside | [55](levels/wk_level55.md) |
+| [傍](vocabulary/傍.md) | そば, はた | Near, Close, Beside, By One's Side | [55](levels/wk_level55.md) |
 | [傍観](vocabulary/傍観.md) | ぼうかん | Look On, Sit By And Watch, Spectate | [55](levels/wk_level55.md) |
 | [傍受](vocabulary/傍受.md) | ぼうじゅ | Monitoring, Interception, Tapping | [55](levels/wk_level55.md) |
 | [凝固](vocabulary/凝固.md) | ぎょうこ | Solidify, Coagulate, Freeze | [55](levels/wk_level55.md) |
@@ -5863,7 +5865,7 @@
 | [船舶](vocabulary/船舶.md) | せんぱく | Ship, Vessel | [56](levels/wk_level56.md) |
 | [舶来](vocabulary/舶来.md) | はくらい | Imported | [56](levels/wk_level56.md) |
 | [蝶](vocabulary/蝶.md) | ちょう | Butterfly | [56](levels/wk_level56.md) |
-| [歌謡曲](vocabulary/歌謡曲.md) | かようきょく | Popular Song | [56](levels/wk_level56.md) |
+| [歌謡曲](vocabulary/歌謡曲.md) | かようきょく | Popular Song, Retro J-Pop, Showa-Era Pop Music, Kayokyoku | [56](levels/wk_level56.md) |
 | [管轄](vocabulary/管轄.md) | かんかつ | Jurisdiction, Control | [56](levels/wk_level56.md) |
 | [所轄](vocabulary/所轄.md) | しょかつ | Jurisdiction | [56](levels/wk_level56.md) |
 | [直轄](vocabulary/直轄.md) | ちょっかつ | Direct Control | [56](levels/wk_level56.md) |
@@ -6143,8 +6145,8 @@
 | [唄](vocabulary/唄.md) | うた | Song, Shamisen Song | [60](levels/wk_level60.md) |
 | [唄う](vocabulary/唄う.md) | うたう | To Sing, To Recite, To Chant | [60](levels/wk_level60.md) |
 | [長唄](vocabulary/長唄.md) | ながうた | Long Shamisen Song, Epic Shamisen Song, Nagauta | [60](levels/wk_level60.md) |
-| [囚人](vocabulary/囚人.md) | しゅうじん | Prisoner, Convict | [60](levels/wk_level60.md) |
-| [死刑囚](vocabulary/死刑囚.md) | しけいしゅう | Condemned Criminal, Death Row Convict | [60](levels/wk_level60.md) |
+| [囚人](vocabulary/囚人.md) | しゅうじん | Prisoner, Convict | [39](levels/wk_level39.md) |
+| [死刑囚](vocabulary/死刑囚.md) | しけいしゅう | Condemned Criminal, Death Row Convict | [39](levels/wk_level39.md) |
 | [坑道](vocabulary/坑道.md) | こうどう | Tunnel, Mine, Shaft | [60](levels/wk_level60.md) |
 | [妄想](vocabulary/妄想.md) | もうそう | Delusion, Fantasy | [60](levels/wk_level60.md) |
 | [婿](vocabulary/婿.md) | むこ | Husband, Groom, Son In Law | [60](levels/wk_level60.md) |
@@ -6160,7 +6162,7 @@
 | [慕う](vocabulary/慕う.md) | したう | To Adore, To Miss, To Yearn For | [60](levels/wk_level60.md) |
 | [感慨無量](vocabulary/感慨無量.md) | かんがいむりょう | Deep Emotion, Deeply Moved, Filled With Emotion | [60](levels/wk_level60.md) |
 | [感慨深い](vocabulary/感慨深い.md) | かんがいぶかい | Deeply Moving, Deeply Emotive | [60](levels/wk_level60.md) |
-| [悪戯](vocabulary/悪戯.md) | いたずら | Tease, Prank, Trick, Practical Joke | [60](levels/wk_level60.md) |
+| [悪戯](vocabulary/悪戯.md) | いたずら | Tease, Prank, Lewd Behavior | [60](levels/wk_level60.md) |
 | [戯れ](vocabulary/戯れ.md) | たわむれ | Play Flirt, Joke, Flirt | [60](levels/wk_level60.md) |
 | [拷問](vocabulary/拷問.md) | ごうもん | Torture, The Rack, Third Degree | [60](levels/wk_level60.md) |
 | [某〜](vocabulary/某〜.md) | ぼう | Certain, One | [60](levels/wk_level60.md) |
@@ -6198,7 +6200,7 @@
 | [醜態](vocabulary/醜態.md) | しゅうたい | Shameful Sight, Disgraceful Behavior | [60](levels/wk_level60.md) |
 | [醜聞](vocabulary/醜聞.md) | しゅうぶん | Scandal | [60](levels/wk_level60.md) |
 | [狐](vocabulary/狐.md) | きつね | Fox | [60](levels/wk_level60.md) |
-| [大人しい](vocabulary/大人しい.md) | おとなしい | Obedient, Docile, Quiet | [3](levels/wk_level3.md) |
+| [大人しい](vocabulary/大人しい.md) | おとなしい | Obedient, Quiet, Calm | [3](levels/wk_level3.md) |
 | [出かける](vocabulary/出かける.md) | でかける | To Go Out, To Leave | [4](levels/wk_level4.md) |
 | [大体](vocabulary/大体.md) | だいたい | Generally, About, General, Gist | [5](levels/wk_level5.md) |
 | [海王星](vocabulary/海王星.md) | かいおうせい | Neptune | [7](levels/wk_level7.md) |
@@ -6456,25 +6458,41 @@
 | [飲酒](vocabulary/飲酒.md) | いんしゅ | Drinking Alcohol, Drinking | [19](levels/wk_level19.md) |
 | [出身](vocabulary/出身.md) | しゅっしん | One's Origin, One's Hometown, One's Birthplace | [9](levels/wk_level9.md) |
 | [莫大](vocabulary/莫大.md) | ばくだい | Huge, Enormous | [25](levels/wk_level25.md) |
+| [回答](vocabulary/回答.md) | かいとう | Answer, Response, Reply | [10](levels/wk_level10.md) |
 | [昆虫](vocabulary/昆虫.md) | こんちゅう | Insect, Bug | [19](levels/wk_level19.md) |
 | [殺虫剤](vocabulary/殺虫剤.md) | さっちゅうざい | Insecticide, Pesticide | [42](levels/wk_level42.md) |
 | [人里](vocabulary/人里.md) | ひとざと | Human Habitation, Village | [7](levels/wk_level7.md) |
 | [里芋](vocabulary/里芋.md) | さといも | Taro | [34](levels/wk_level34.md) |
+| [我が国](vocabulary/我が国.md) | わがくに | Our Country | [31](levels/wk_level31.md) |
+| [我が〜](vocabulary/我が〜.md) | わが | Our, One's Own, My | [30](levels/wk_level30.md) |
+| [乗車券](vocabulary/乗車券.md) | じょうしゃけん | Passenger Ticket, Ticket | [29](levels/wk_level29.md) |
+| [乗客](vocabulary/乗客.md) | じょうきゃく | Passenger | [15](levels/wk_level15.md) |
 | [乗馬](vocabulary/乗馬.md) | じょうば | Horseback Riding, Horse Riding | [15](levels/wk_level15.md) |
 | [頁](vocabulary/頁.md) | ページ, ぺーじ | Page | [10](levels/wk_level10.md) |
 | [癒す](vocabulary/癒す.md) | いやす | To Heal Something, To Cure Something, To Quench A Thirst | [57](levels/wk_level57.md) |
 | [弊社](vocabulary/弊社.md) | へいしゃ | Our Company, Our Humble Company | [56](levels/wk_level56.md) |
 | [北斗七星](vocabulary/北斗七星.md) | ほくとしちせい | The Big Dipper, The Plough | [44](levels/wk_level44.md) |
 | [一斗缶](vocabulary/一斗缶.md) | いっとかん | Eighteen-Liter Container, Five-Gallon Container | [44](levels/wk_level44.md) |
+| [綾取り](vocabulary/綾取り.md) | あやとり | Cat's Cradle | [52](levels/wk_level52.md) |
 | [硬貨](vocabulary/硬貨.md) | こうか | Coin | [45](levels/wk_level45.md) |
+| [鑑みる](vocabulary/鑑みる.md) | かんがみる | To Be In Light Of Something, To Take Something Into Account | [35](levels/wk_level35.md) |
+| [彫る](vocabulary/彫る.md) | ほる | To Carve Something, To Engrave Something | [47](levels/wk_level47.md) |
+| [同窓会](vocabulary/同窓会.md) | どうそうかい | Class Reunion, School Reunion, Alumni Association | [36](levels/wk_level36.md) |
+| [抱っこ](vocabulary/抱っこ.md) | だっこ | Holding In One's Arms, Carrying | [37](levels/wk_level37.md) |
 | [由来](vocabulary/由来.md) | ゆらい | Origin, Source, Coming From | [15](levels/wk_level15.md) |
 | [経由](vocabulary/経由.md) | けいゆ | Via | [20](levels/wk_level20.md) |
+| [由緒](vocabulary/由緒.md) | ゆいしょ | Lineage, History | [38](levels/wk_level38.md) |
+| [由緒正しい](vocabulary/由緒正しい.md) | ゆいしょただしい | Of Honorable Lineage, Venerable | [39](levels/wk_level39.md) |
 | [〜分](vocabulary/〜分.md) | ふん | Minute, Minutes | [7](levels/wk_level7.md) |
+| [任せる](vocabulary/任せる.md) | まかせる | To Entrust Something, To Delegate Something, To Leave Something To | [26](levels/wk_level26.md) |
+| [お任せ](vocabulary/お任せ.md) | おまかせ | Leaving Decisions To Someone Else, Chef's Choice, Omakase | [27](levels/wk_level27.md) |
 | [豊富](vocabulary/豊富.md) | ほうふ | Abundant, Plentiful, Rich | [31](levels/wk_level31.md) |
 | [交代](vocabulary/交代.md) | こうたい | Change, Substitution, Shift | [9](levels/wk_level9.md) |
+| [献立](vocabulary/献立.md) | こんだて | Menu, Meal Plan | [45](levels/wk_level45.md) |
 | [空手](vocabulary/空手.md) | からて | Karate | [9](levels/wk_level9.md) |
 | [無くす](vocabulary/無くす.md) | なくす | To Get Rid Of Something, To Do Away With Something, To Lose Something | [21](levels/wk_level21.md) |
 | [その他](vocabulary/その他.md) | そのほか, そのた | The Others, Other, Other Than That | [5](levels/wk_level5.md) |
+| [豚カツ](vocabulary/豚カツ.md) | とんかつ, とんカツ | Tonkatsu, Breaded Pork Cutlet, Pork Cutlet | [29](levels/wk_level29.md) |
 | [勿論](vocabulary/勿論.md) | もちろん | Of Course, Needless To Say | [55](levels/wk_level55.md) |
 | [勿体ない](vocabulary/勿体ない.md) | もったいない | Wasteful, A Waste, Too Good | [58](levels/wk_level58.md) |
 | [瑛斗](vocabulary/瑛斗.md) | えいと | Eito | [55](levels/wk_level55.md) |
@@ -6506,4 +6524,6 @@
 | [沙羅](vocabulary/沙羅.md) | さら | Sara | [59](levels/wk_level59.md) |
 | [土砂](vocabulary/土砂.md) | どしゃ | Sediment, Earth And Sand | [44](levels/wk_level44.md) |
 | [砂利](vocabulary/砂利.md) | じゃり | Gravel | [47](levels/wk_level47.md) |
+| [内ポケット](vocabulary/内ポケット.md) | うちぽけっと, うちポケット | Inside Pocket | [7](levels/wk_level7.md) |
 | [ナポレオン三世](vocabulary/ナポレオン三世.md) | なぽれおんさんせい, ナポレオンさんせい | Napoleon The Third, Napoleon III | [7](levels/wk_level7.md) |
+| [自撮り](vocabulary/自撮り.md) | じどり | Selfie | [35](levels/wk_level35.md) |

@@ -4,7 +4,9 @@
 [Kanjis](kanjis.md) -
 [Vocabulary](vocabulary.md) -
 [Levels](levels.md) -
-[Grammar](grammar.md)
+[Grammar](grammar.md) - 
+[Progress](progress.md) -
+[Resources](resources.md)
 # Kanjis 
 
 | Kanji      | Meaning| Level |
@@ -855,7 +857,7 @@
 | [印](kanjis/印.md) | Seal, Mark | [26](levels/wk_level26.md) |
 | [創](kanjis/創.md) | Create | [26](levels/wk_level26.md) |
 | [復](kanjis/復.md) | Restore | [26](levels/wk_level26.md) |
-| [往](kanjis/往.md) | Depart | [26](levels/wk_level26.md) |
+| [往](kanjis/往.md) | Journey, Depart | [26](levels/wk_level26.md) |
 | [較](kanjis/較.md) | Contrast, Compare | [26](levels/wk_level26.md) |
 | [筆](kanjis/筆.md) | Writing Brush | [26](levels/wk_level26.md) |
 | [鉛](kanjis/鉛.md) | Lead | [26](levels/wk_level26.md) |
@@ -2028,7 +2030,7 @@
 | [罷](kanjis/罷.md) | Quit, Leave | [60](levels/wk_level60.md) |
 | [矯](kanjis/矯.md) | Correct, Straighten | [60](levels/wk_level60.md) |
 | [某](kanjis/某.md) | Certain, One, That Person | [60](levels/wk_level60.md) |
-| [囚](kanjis/囚.md) | Criminal | [60](levels/wk_level60.md) |
+| [囚](kanjis/囚.md) | Criminal | [39](levels/wk_level39.md) |
 | [泌](kanjis/泌.md) | Secrete | [60](levels/wk_level60.md) |
 | [漸](kanjis/漸.md) | Gradually, Steadily | [60](levels/wk_level60.md) |
 | [藻](kanjis/藻.md) | Seaweed | [60](levels/wk_level60.md) |

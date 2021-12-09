@@ -4,7 +4,9 @@
 [Kanjis](../kanjis.md) -
 [Vocabulary](../vocabulary.md) -
 [Levels](../levels.md) -
-[Grammar](../grammar.md)
+[Grammar](../grammar.md) - 
+[Progress](../progress.md) -
+[Resources](../resources.md)
 # Level 24
 
 [Level 23](wk_level23.md), [Level 25](wk_level25.md)
@@ -25,180 +27,180 @@
 
 # radicals
 
-| Character | Meaning |
-| --- | --- |
-| [旦](../radicals/旦.md) | Dawn |
-| [韋](../radicals/韋.md) | Korea |
-| [客](../radicals/客.md) | Guest |
-| [制](../radicals/制.md) | Control |
-| [然](../radicals/然.md) | Nature |
-| [受](../radicals/受.md) | Accept |
+| Characters | Readings | Meanings |
+| --- | --- | --- |
+| [旦](../radicals/旦.md) |  | Dawn |
+| [韋](../radicals/韋.md) |  | Korea |
+| [客](../radicals/客.md) |  | Guest |
+| [制](../radicals/制.md) |  | Control |
+| [然](../radicals/然.md) |  | Nature |
+| [受](../radicals/受.md) |  | Accept |
 
 
 # kanjis
 
-| Character | Meaning |
-| --- | --- |
-| [担](../kanjis/担.md) | Carry, Bear |
-| [額](../kanjis/額.md) | Amount, Framed Picture, Forehead |
-| [製](../kanjis/製.md) | Manufacture |
-| [違](../kanjis/違.md) | Different |
-| [輸](../kanjis/輸.md) | Transport |
-| [燃](../kanjis/燃.md) | Burn |
-| [祝](../kanjis/祝.md) | Celebrate |
-| [届](../kanjis/届.md) | Deliver |
-| [狭](../kanjis/狭.md) | Narrow |
-| [肩](../kanjis/肩.md) | Shoulder |
-| [腕](../kanjis/腕.md) | Arm |
-| [腰](../kanjis/腰.md) | Waist |
-| [触](../kanjis/触.md) | Touch |
-| [載](../kanjis/載.md) | Publish |
-| [層](../kanjis/層.md) | Layer |
-| [型](../kanjis/型.md) | Model, Type |
-| [庁](../kanjis/庁.md) | Agency, Government Office |
-| [視](../kanjis/視.md) | Look At |
-| [差](../kanjis/差.md) | Distinction |
-| [管](../kanjis/管.md) | Pipe |
-| [象](../kanjis/象.md) | Elephant, Phenomenon |
-| [量](../kanjis/量.md) | Quantity, Amount |
-| [境](../kanjis/境.md) | Boundary |
-| [環](../kanjis/環.md) | Loop |
-| [武](../kanjis/武.md) | Military |
-| [質](../kanjis/質.md) | Quality |
-| [述](../kanjis/述.md) | Mention |
-| [供](../kanjis/供.md) | Servant, Companion |
-| [展](../kanjis/展.md) | Expand |
-| [販](../kanjis/販.md) | Sell |
-| [株](../kanjis/株.md) | Stocks, Shares |
+| Characters | Readings | Meanings |
+| --- | --- | --- |
+| [担](../kanjis/担.md) | たん, にな, かつ | Carry, Bear |
+| [額](../kanjis/額.md) | がく, ひたい | Amount, Framed Picture, Forehead |
+| [製](../kanjis/製.md) | せい | Manufacture |
+| [違](../kanjis/違.md) | い, ちが | Different |
+| [輸](../kanjis/輸.md) | ゆ | Transport |
+| [燃](../kanjis/燃.md) | ねん, も | Burn |
+| [祝](../kanjis/祝.md) | しゅく, しゅう, いわ | Celebrate |
+| [届](../kanjis/届.md) | とど | Deliver |
+| [狭](../kanjis/狭.md) | きょう, せま, せば | Narrow |
+| [肩](../kanjis/肩.md) | けん, かた | Shoulder |
+| [腕](../kanjis/腕.md) | わん, うで | Arm |
+| [腰](../kanjis/腰.md) | よう, こし | Waist |
+| [触](../kanjis/触.md) | しょく, さわ, ふ | Touch |
+| [載](../kanjis/載.md) | さい, の | Publish |
+| [層](../kanjis/層.md) | そう | Layer |
+| [型](../kanjis/型.md) | けい, かた | Model, Type |
+| [庁](../kanjis/庁.md) | ちょう | Agency, Government Office |
+| [視](../kanjis/視.md) | し, み | Look At |
+| [差](../kanjis/差.md) | さ, さ | Distinction |
+| [管](../kanjis/管.md) | かん, くだ | Pipe |
+| [象](../kanjis/象.md) | ぞう, しょう | Elephant, Phenomenon |
+| [量](../kanjis/量.md) | りょう, はか | Quantity, Amount |
+| [境](../kanjis/境.md) | きょう, さかい | Boundary |
+| [環](../kanjis/環.md) | かん | Loop |
+| [武](../kanjis/武.md) | ぶ, む, たけ | Military |
+| [質](../kanjis/質.md) | しつ, しち | Quality |
+| [述](../kanjis/述.md) | じゅつ, の | Mention |
+| [供](../kanjis/供.md) | きょう, とも, そな | Servant, Companion |
+| [展](../kanjis/展.md) | てん, のぶ, のび | Expand |
+| [販](../kanjis/販.md) | はん | Sell |
+| [株](../kanjis/株.md) | しゅ, かぶ | Stocks, Shares |
 
 
 # vocabulary
 
-| Character | Meaning |
-| --- | --- |
-| [安値](../vocabulary/安値.md) | Low Price, Cheap Price |
-| [高値](../vocabulary/高値.md) | High Price, Expensive Price |
-| [違い](../vocabulary/違い.md) | Difference |
-| [違う](../vocabulary/違う.md) | To Be Different, To Be Wrong, To Be Mistaken, To Vary, To Differ |
-| [可燃ゴミ](../vocabulary/可燃ゴミ.md) | Burnable Garbage, Burnable Trash, Burnable Rubbish |
-| [営業する](../vocabulary/営業する.md) | To Run A Business, To Manage A Business |
-| [伝統的](../vocabulary/伝統的.md) | Traditional |
-| [誕生日](../vocabulary/誕生日.md) | Birthday |
-| [寝坊する](../vocabulary/寝坊する.md) | To Oversleep |
-| [過去形](../vocabulary/過去形.md) | Past Tense |
-| [過ぎ](../vocabulary/過ぎ.md) | Too Much, After, Past |
-| [対策](../vocabulary/対策.md) | Counter Plan, Counter Measure |
-| [価値観](../vocabulary/価値観.md) | Values, Sense Of Values, Moral Values |
-| [応援団](../vocabulary/応援団.md) | Rooting Section, Cheerleaders, Cheering Section |
-| [規準](../vocabulary/規準.md) | Standard, Criterion |
-| [法規](../vocabulary/法規.md) | Laws, Regulations |
-| [担ぐ](../vocabulary/担ぐ.md) | To Carry, To Shoulder |
-| [担当](../vocabulary/担当.md) | In Charge |
-| [負担](../vocabulary/負担.md) | Burden, Responsibility |
-| [半額](../vocabulary/半額.md) | Half Price |
-| [多額](../vocabulary/多額.md) | Large Amount, Large Sum |
-| [年額](../vocabulary/年額.md) | Annual Amount, Yearly Amount |
-| [月額](../vocabulary/月額.md) | Monthly Amount |
-| [定額](../vocabulary/定額.md) | Fixed Amount, Fixed Sum, Flat Rate, Ration |
-| [残額](../vocabulary/残額.md) | Remaining Amount |
-| [製品](../vocabulary/製品.md) | Product, Manufactured Goods |
-| [製作](../vocabulary/製作.md) | Manufacturing, Production |
-| [木製](../vocabulary/木製.md) | Wooden, Made From Wood, Made Of Wood |
-| [日本製](../vocabulary/日本製.md) | Made In Japan |
-| [中国製](../vocabulary/中国製.md) | Made In China |
-| [アメリカ製](../vocabulary/アメリカ製.md) | Made In USA, Made in America |
-| [自家製](../vocabulary/自家製.md) | Homemade, Home Brewed, Made At Home |
-| [輸出](../vocabulary/輸出.md) | Export |
-| [輸血](../vocabulary/輸血.md) | Blood Transfusion |
-| [不燃ゴミ](../vocabulary/不燃ゴミ.md) | Nonburnable Garbage, Unburnable Garbage, Nonburnable Trash, Unburnable Trash, Nonburnable Rubbish, Unburnable Rubbish |
-| [祝う](../vocabulary/祝う.md) | To Celebrate |
-| [祝日](../vocabulary/祝日.md) | National Holiday, Public Holiday |
-| [届く](../vocabulary/届く.md) | To Be Delivered, To Arrive, To Reach |
-| [狭い](../vocabulary/狭い.md) | Narrow |
-| [肩](../vocabulary/肩.md) | Shoulder |
-| [腕](../vocabulary/腕.md) | Arm |
-| [腕時計](../vocabulary/腕時計.md) | Wristwatch, Watch |
-| [腰](../vocabulary/腰.md) | Waist |
-| [触る](../vocabulary/触る.md) | To Touch |
-| [触角](../vocabulary/触角.md) | Antenna |
-| [感触](../vocabulary/感触.md) | Touch, Feel, Touch Sense, Sense Of Touch |
-| [所載](../vocabulary/所載.md) | Printed, Published |
-| [記載](../vocabulary/記載.md) | Record, Report |
-| [載る](../vocabulary/載る.md) | To Be Published, To Be Reported, To Be Printed |
-| [一層](../vocabulary/一層.md) | Much More, All The More |
-| [〜層](../vocabulary/〜層.md) | Layer Of, Layer, Demographic |
-| [型](../vocabulary/型.md) | Model, Type, Mold |
-| [典型的](../vocabulary/典型的.md) | Typical |
-| [原型](../vocabulary/原型.md) | Prototype, Model |
-| [都庁](../vocabulary/都庁.md) | Metropolitan Government, Metro Government |
-| [警視庁](../vocabulary/警視庁.md) | Metropolitan Police Department, Metro Police Department |
-| [警察庁](../vocabulary/警察庁.md) | National Police Agency |
-| [官庁](../vocabulary/官庁.md) | Government Office, Government Authorities, Government Agency |
-| [無視する](../vocabulary/無視する.md) | To Ignore, To Disregard |
-| [視覚](../vocabulary/視覚.md) | Sense Of Sight, Sight |
-| [近視](../vocabulary/近視.md) | Nearsightedness, Shortsightedness, Myopia |
-| [遠視](../vocabulary/遠視.md) | Farsightedness, Longsightedness, Hyperopia |
-| [差す](../vocabulary/差す.md) | To Shine At, To Shine On |
-| [差別](../vocabulary/差別.md) | Discrimination, Distinction |
-| [交差点](../vocabulary/交差点.md) | Intersection |
-| [時差](../vocabulary/時差.md) | Time Difference |
-| [管](../vocabulary/管.md) | Pipe, Tube |
-| [管理](../vocabulary/管理.md) | Management, Administration |
-| [血管](../vocabulary/血管.md) | Blood Vessel |
-| [象](../vocabulary/象.md) | Elephant |
-| [対象](../vocabulary/対象.md) | Target, Subject |
-| [現象](../vocabulary/現象.md) | Phenomenon |
-| [気象](../vocabulary/気象.md) | Weather, Disposition |
-| [量る](../vocabulary/量る.md) | To Measure, To Weigh |
-| [量](../vocabulary/量.md) | Quantity, Amount |
-| [大量](../vocabulary/大量.md) | Large Quantity, Huge Amount |
-| [定量](../vocabulary/定量.md) | Fixed Quantity, Measurement, Fixed Amount, Set Quantity, Set Amount |
-| [境](../vocabulary/境.md) | Boundary |
-| [国境](../vocabulary/国境.md) | National Border |
-| [境界](../vocabulary/境界.md) | Boundary |
-| [環境](../vocabulary/環境.md) | Environment |
-| [武器](../vocabulary/武器.md) | Weapon |
-| [武道](../vocabulary/武道.md) | Martial Arts |
-| [武士](../vocabulary/武士.md) | Samurai |
-| [質](../vocabulary/質.md) | Quality |
-| [質問](../vocabulary/質問.md) | Question |
-| [品質](../vocabulary/品質.md) | Material Quality, Item Quality, Product Quality, Quality |
-| [良質](../vocabulary/良質.md) | Good Quality, High Quality, Superior Quality |
-| [特質](../vocabulary/特質.md) | Characteristic, Trait |
-| [述べる](../vocabulary/述べる.md) | To Mention, To State, To Explain |
-| [記述](../vocabulary/記述.md) | Description, Account |
-| [上述](../vocabulary/上述.md) | Above Mentioned, The Above Mentioned |
-| [提供](../vocabulary/提供.md) | Offer, Program Sponsoring, Programme Sponsoring |
-| [供える](../vocabulary/供える.md) | To Make An Offering, To Offer |
-| [子供](../vocabulary/子供.md) | Child, Kid, Children, Kids |
-| [展示会](../vocabulary/展示会.md) | Trade Show, Exhibition |
-| [発展する](../vocabulary/発展する.md) | To Develop |
-| [展開](../vocabulary/展開.md) | Unfolding, Development |
-| [親展](../vocabulary/親展.md) | Confidential |
-| [販売](../vocabulary/販売.md) | Sales, Selling, Marketing |
-| [自動販売機](../vocabulary/自動販売機.md) | Vending Machine |
-| [通販](../vocabulary/通販.md) | Mail Order |
-| [株](../vocabulary/株.md) | Stock, Share |
-| [株式](../vocabulary/株式.md) | Stock, Share, Stocks, Shares |
-| [朝寝坊](../vocabulary/朝寝坊.md) | Late Riser, Oversleep |
-| [営業中](../vocabulary/営業中.md) | Open For Business |
-| [置き場](../vocabulary/置き場.md) | Place To Put Something, Place To Put Down, Location To Put Something, Location To Put Down |
-| [主観的](../vocabulary/主観的.md) | Subjective |
-| [援助する](../vocabulary/援助する.md) | To Assist, To Aid |
-| [応援する](../vocabulary/応援する.md) | To Root For, To Cheer On, To Cheer For |
-| [副大統領](../vocabulary/副大統領.md) | Vice President |
-| [提案する](../vocabulary/提案する.md) | To Propose |
-| [支援する](../vocabulary/支援する.md) | To Support, To Back, To Aid |
-| [観光客](../vocabulary/観光客.md) | Tourist, Sightseer |
-| [燃やす](../vocabulary/燃やす.md) | To Burn Something, To Burn |
-| [全額](../vocabulary/全額.md) | Total, Full Amount, Sum, Total Amount, Entirety, Grand Total |
-| [左腕](../vocabulary/左腕.md) | Left Arm |
-| [額](../vocabulary/額.md) | Framed Picture, Picture, Frame |
-| [指差す](../vocabulary/指差す.md) | To Point At, To Point To |
-| [本質](../vocabulary/本質.md) | Essence, True Nature, Substance, Reality |
-| [燃料](../vocabulary/燃料.md) | Fuel |
-| [両腕](../vocabulary/両腕.md) | Both Arms |
-| [輸送](../vocabulary/輸送.md) | Transport, Transportation |
-| [値札](../vocabulary/値札.md) | Price Tag |
-| [半袖](../vocabulary/半袖.md) | Short Sleeves |
-| [長袖](../vocabulary/長袖.md) | Long Sleeves |
+| Characters | Readings | Meanings |
+| --- | --- | --- |
+| [安値](../vocabulary/安値.md) | やすね | Low Price, Cheap Price |
+| [高値](../vocabulary/高値.md) | たかね | High Price, Expensive Price |
+| [違い](../vocabulary/違い.md) | ちがい | Difference |
+| [違う](../vocabulary/違う.md) | ちがう | To Be Different, To Be Wrong, To Be Mistaken, To Vary, To Differ |
+| [可燃ゴミ](../vocabulary/可燃ゴミ.md) | かねんごみ, かねんゴミ | Burnable Garbage, Burnable Trash, Burnable Rubbish |
+| [営業する](../vocabulary/営業する.md) | えいぎょうする | To Run A Business, To Manage A Business |
+| [伝統的](../vocabulary/伝統的.md) | でんとうてき | Traditional |
+| [誕生日](../vocabulary/誕生日.md) | たんじょうび | Birthday |
+| [寝坊する](../vocabulary/寝坊する.md) | ねぼうする | To Oversleep |
+| [過去形](../vocabulary/過去形.md) | かこけい | Past Tense |
+| [過ぎ](../vocabulary/過ぎ.md) | すぎ | Too Much, After, Past |
+| [対策](../vocabulary/対策.md) | たいさく | Counter Plan, Counter Measure |
+| [価値観](../vocabulary/価値観.md) | かちかん | Values, Sense Of Values, Moral Values |
+| [応援団](../vocabulary/応援団.md) | おうえんだん | Rooting Section, Cheerleaders, Cheering Section |
+| [規準](../vocabulary/規準.md) | きじゅん | Standard, Criterion |
+| [法規](../vocabulary/法規.md) | ほうき | Laws, Regulations |
+| [担ぐ](../vocabulary/担ぐ.md) | かつぐ | To Carry, To Shoulder |
+| [担当](../vocabulary/担当.md) | たんとう | In Charge |
+| [負担](../vocabulary/負担.md) | ふたん | Burden, Responsibility |
+| [半額](../vocabulary/半額.md) | はんがく | Half Price |
+| [多額](../vocabulary/多額.md) | たがく | Large Amount, Large Sum |
+| [年額](../vocabulary/年額.md) | ねんがく | Annual Amount, Yearly Amount |
+| [月額](../vocabulary/月額.md) | げつがく | Monthly Amount |
+| [定額](../vocabulary/定額.md) | ていがく | Fixed Amount, Fixed Sum, Flat Rate, Ration |
+| [残額](../vocabulary/残額.md) | ざんがく | Remaining Amount |
+| [製品](../vocabulary/製品.md) | せいひん | Product, Manufactured Goods |
+| [製作](../vocabulary/製作.md) | せいさく | Manufacturing, Production |
+| [木製](../vocabulary/木製.md) | もくせい | Wooden, Made From Wood, Made Of Wood |
+| [日本製](../vocabulary/日本製.md) | にほんせい | Made In Japan |
+| [中国製](../vocabulary/中国製.md) | ちゅうごくせい | Made In China |
+| [アメリカ製](../vocabulary/アメリカ製.md) | あめりかせい, アメリカせい | Made In USA, Made in America |
+| [自家製](../vocabulary/自家製.md) | じかせい | Homemade, Home Brewed, Made At Home |
+| [輸出](../vocabulary/輸出.md) | ゆしゅつ | Export |
+| [輸血](../vocabulary/輸血.md) | ゆけつ | Blood Transfusion |
+| [不燃ゴミ](../vocabulary/不燃ゴミ.md) | ふねんごみ, ふねんゴミ | Nonburnable Garbage, Unburnable Garbage, Nonburnable Trash, Unburnable Trash, Nonburnable Rubbish, Unburnable Rubbish |
+| [祝う](../vocabulary/祝う.md) | いわう | To Celebrate |
+| [祝日](../vocabulary/祝日.md) | しゅくじつ | National Holiday, Public Holiday |
+| [届く](../vocabulary/届く.md) | とどく | To Be Delivered, To Arrive, To Reach |
+| [狭い](../vocabulary/狭い.md) | せまい | Narrow |
+| [肩](../vocabulary/肩.md) | かた | Shoulder |
+| [腕](../vocabulary/腕.md) | うで | Arm |
+| [腕時計](../vocabulary/腕時計.md) | うでどけい | Wristwatch, Watch |
+| [腰](../vocabulary/腰.md) | こし | Waist |
+| [触る](../vocabulary/触る.md) | さわる | To Touch |
+| [触角](../vocabulary/触角.md) | しょっかく | Antenna |
+| [感触](../vocabulary/感触.md) | かんしょく | Touch, Feel, Touch Sense, Sense Of Touch |
+| [所載](../vocabulary/所載.md) | しょさい | Printed, Published |
+| [記載](../vocabulary/記載.md) | きさい | Record, Report |
+| [載る](../vocabulary/載る.md) | のる | To Be Published, To Be Reported, To Be Printed |
+| [一層](../vocabulary/一層.md) | いっそう | Much More, All The More |
+| [〜層](../vocabulary/〜層.md) | そう | Layer Of, Layer, Demographic |
+| [型](../vocabulary/型.md) | かた | Model, Type, Mold |
+| [典型的](../vocabulary/典型的.md) | てんけいてき | Typical |
+| [原型](../vocabulary/原型.md) | げんけい | Prototype, Model |
+| [都庁](../vocabulary/都庁.md) | とちょう | Metropolitan Government, Metro Government |
+| [警視庁](../vocabulary/警視庁.md) | けいしちょう | Metropolitan Police Department, Metro Police Department |
+| [警察庁](../vocabulary/警察庁.md) | けいさつちょう | National Police Agency |
+| [官庁](../vocabulary/官庁.md) | かんちょう | Government Office, Government Authorities, Government Agency |
+| [無視する](../vocabulary/無視する.md) | むしする | To Ignore, To Disregard |
+| [視覚](../vocabulary/視覚.md) | しかく | Sense Of Sight, Sight |
+| [近視](../vocabulary/近視.md) | きんし | Nearsightedness, Shortsightedness, Myopia |
+| [遠視](../vocabulary/遠視.md) | えんし | Farsightedness, Longsightedness, Hyperopia |
+| [差す](../vocabulary/差す.md) | さす | To Shine At, To Shine On |
+| [差別](../vocabulary/差別.md) | さべつ | Discrimination, Distinction |
+| [交差点](../vocabulary/交差点.md) | こうさてん | Intersection |
+| [時差](../vocabulary/時差.md) | じさ | Time Difference |
+| [管](../vocabulary/管.md) | くだ | Pipe, Tube |
+| [管理](../vocabulary/管理.md) | かんり | Management, Administration |
+| [血管](../vocabulary/血管.md) | けっかん | Blood Vessel |
+| [象](../vocabulary/象.md) | ぞう | Elephant |
+| [対象](../vocabulary/対象.md) | たいしょう | Target, Subject |
+| [現象](../vocabulary/現象.md) | げんしょう | Phenomenon |
+| [気象](../vocabulary/気象.md) | きしょう | Weather, Disposition |
+| [量る](../vocabulary/量る.md) | はかる | To Measure, To Weigh |
+| [量](../vocabulary/量.md) | りょう | Quantity, Amount |
+| [大量](../vocabulary/大量.md) | たいりょう | Large Quantity, Huge Amount |
+| [定量](../vocabulary/定量.md) | ていりょう | Fixed Quantity, Measurement, Fixed Amount, Set Quantity, Set Amount |
+| [境](../vocabulary/境.md) | さかい | Boundary |
+| [国境](../vocabulary/国境.md) | こっきょう, くにざかい | National Border |
+| [境界](../vocabulary/境界.md) | きょうかい | Boundary |
+| [環境](../vocabulary/環境.md) | かんきょう | Environment |
+| [武器](../vocabulary/武器.md) | ぶき | Weapon |
+| [武道](../vocabulary/武道.md) | ぶどう | Martial Arts |
+| [武士](../vocabulary/武士.md) | ぶし | Samurai |
+| [質](../vocabulary/質.md) | しつ | Quality |
+| [質問](../vocabulary/質問.md) | しつもん | Question |
+| [品質](../vocabulary/品質.md) | ひんしつ | Material Quality, Item Quality, Product Quality, Quality |
+| [良質](../vocabulary/良質.md) | りょうしつ | Good Quality, High Quality, Superior Quality |
+| [特質](../vocabulary/特質.md) | とくしつ | Characteristic, Trait |
+| [述べる](../vocabulary/述べる.md) | のべる | To Mention, To State, To Explain |
+| [記述](../vocabulary/記述.md) | きじゅつ | Description, Account |
+| [上述](../vocabulary/上述.md) | じょうじゅつ | Above Mentioned, The Above Mentioned |
+| [提供](../vocabulary/提供.md) | ていきょう | Offer, Program Sponsoring, Programme Sponsoring |
+| [供える](../vocabulary/供える.md) | そなえる | To Make An Offering, To Offer |
+| [子供](../vocabulary/子供.md) | こども | Child, Kid, Children, Kids |
+| [展示会](../vocabulary/展示会.md) | てんじかい | Trade Show, Exhibition |
+| [発展する](../vocabulary/発展する.md) | はってんする | To Develop |
+| [展開](../vocabulary/展開.md) | てんかい | Unfolding, Development |
+| [親展](../vocabulary/親展.md) | しんてん | Confidential |
+| [販売](../vocabulary/販売.md) | はんばい | Sales, Selling, Marketing |
+| [自動販売機](../vocabulary/自動販売機.md) | じどうはんばいき | Vending Machine |
+| [通販](../vocabulary/通販.md) | つうはん | Mail Order |
+| [株](../vocabulary/株.md) | かぶ | Stock, Share |
+| [株式](../vocabulary/株式.md) | かぶしき | Stock, Share, Stocks, Shares |
+| [朝寝坊](../vocabulary/朝寝坊.md) | あさねぼう | Late Riser, Oversleep |
+| [営業中](../vocabulary/営業中.md) | えいぎょうちゅう | Open For Business |
+| [置き場](../vocabulary/置き場.md) | おきば | Place To Put Something, Place To Put Down, Location To Put Something, Location To Put Down |
+| [主観的](../vocabulary/主観的.md) | しゅかんてき | Subjective |
+| [援助する](../vocabulary/援助する.md) | えんじょする | To Assist, To Aid |
+| [応援する](../vocabulary/応援する.md) | おうえんする | To Root For, To Cheer On, To Cheer For |
+| [副大統領](../vocabulary/副大統領.md) | ふくだいとうりょう | Vice President |
+| [提案する](../vocabulary/提案する.md) | ていあんする | To Propose |
+| [支援する](../vocabulary/支援する.md) | しえんする | To Support, To Back, To Aid |
+| [観光客](../vocabulary/観光客.md) | かんこうきゃく | Tourist, Sightseer |
+| [燃やす](../vocabulary/燃やす.md) | もやす | To Burn Something, To Burn |
+| [全額](../vocabulary/全額.md) | ぜんがく | Total, Full Amount, Sum, Total Amount, Entirety, Grand Total |
+| [左腕](../vocabulary/左腕.md) | ひだりうで, さわん | Left Arm |
+| [額](../vocabulary/額.md) | がく | Framed Picture, Picture, Frame |
+| [指差す](../vocabulary/指差す.md) | ゆびさす | To Point At, To Point To |
+| [本質](../vocabulary/本質.md) | ほんしつ | Essence, True Nature, Substance, Reality |
+| [燃料](../vocabulary/燃料.md) | ねんりょう | Fuel |
+| [両腕](../vocabulary/両腕.md) | りょううで | Both Arms |
+| [輸送](../vocabulary/輸送.md) | ゆそう | Transport, Transportation |
+| [値札](../vocabulary/値札.md) | ねふだ | Price Tag |
+| [半袖](../vocabulary/半袖.md) | はんそで | Short Sleeves |
+| [長袖](../vocabulary/長袖.md) | ながそで | Long Sleeves |

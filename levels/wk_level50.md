@@ -4,7 +4,9 @@
 [Kanjis](../kanjis.md) -
 [Vocabulary](../vocabulary.md) -
 [Levels](../levels.md) -
-[Grammar](../grammar.md)
+[Grammar](../grammar.md) - 
+[Progress](../progress.md) -
+[Resources](../resources.md)
 # Level 50
 
 [Level 49](wk_level49.md), [Level 51](wk_level51.md)
@@ -25,144 +27,144 @@
 
 # radicals
 
-| Character | Meaning |
-| --- | --- |
-| [名](../radicals/名.md) | Name |
-| [禺](../radicals/禺.md) | Splinter |
+| Characters | Readings | Meanings |
+| --- | --- | --- |
+| [名](../radicals/名.md) |  | Name |
+| [禺](../radicals/禺.md) |  | Splinter |
 
 
 # kanjis
 
-| Character | Meaning |
-| --- | --- |
-| [峰](../kanjis/峰.md) | Summit |
-| [巧](../kanjis/巧.md) | Adept |
-| [邪](../kanjis/邪.md) | Wicked |
-| [駄](../kanjis/駄.md) | Burdensome |
-| [唐](../kanjis/唐.md) | China, Sudden |
-| [廷](../kanjis/廷.md) | Courts |
-| [鬱](../kanjis/鬱.md) | Gloom |
-| [鰐](../kanjis/鰐.md) | Alligator, Crocodile |
-| [蟹](../kanjis/蟹.md) | Crab |
-| [簿](../kanjis/簿.md) | Record Book |
-| [彰](../kanjis/彰.md) | Clear |
-| [漫](../kanjis/漫.md) | Manga |
-| [訂](../kanjis/訂.md) | Revise |
-| [諮](../kanjis/諮.md) | Consult |
-| [銘](../kanjis/銘.md) | Inscription |
-| [堰](../kanjis/堰.md) | Dam |
-| [堤](../kanjis/堤.md) | Embankment |
-| [漂](../kanjis/漂.md) | Drift |
-| [翻](../kanjis/翻.md) | Flip |
-| [軌](../kanjis/軌.md) | Rut |
-| [后](../kanjis/后.md) | Empress |
-| [奮](../kanjis/奮.md) | Stirred Up |
-| [亭](../kanjis/亭.md) | Restaurant |
-| [仰](../kanjis/仰.md) | Look Up To |
-| [伯](../kanjis/伯.md) | Chief |
-| [偶](../kanjis/偶.md) | Accidentally |
-| [淀](../kanjis/淀.md) | Eddy |
-| [墳](../kanjis/墳.md) | Tomb |
-| [壮](../kanjis/壮.md) | Robust |
-| [把](../kanjis/把.md) | Bundle, Grasp |
-| [搬](../kanjis/搬.md) | Transport |
-| [晶](../kanjis/晶.md) | Crystal |
-| [洞](../kanjis/洞.md) | Cave |
-| [涯](../kanjis/涯.md) | Horizon |
-| [疫](../kanjis/疫.md) | Epidemic |
+| Characters | Readings | Meanings |
+| --- | --- | --- |
+| [峰](../kanjis/峰.md) | ほう, みね | Summit |
+| [巧](../kanjis/巧.md) | こう, うま, たく | Adept |
+| [邪](../kanjis/邪.md) | じゃ, よこしま | Wicked |
+| [駄](../kanjis/駄.md) | だ, た | Burdensome |
+| [唐](../kanjis/唐.md) | とう, から | China, Sudden |
+| [廷](../kanjis/廷.md) | てい | Courts |
+| [鬱](../kanjis/鬱.md) | うつ | Gloom |
+| [鰐](../kanjis/鰐.md) | わに | Alligator, Crocodile |
+| [蟹](../kanjis/蟹.md) | かに | Crab |
+| [簿](../kanjis/簿.md) | ぼ | Record Book |
+| [彰](../kanjis/彰.md) | しょう | Clear |
+| [漫](../kanjis/漫.md) | まん | Manga |
+| [訂](../kanjis/訂.md) | てい | Revise |
+| [諮](../kanjis/諮.md) | し, はか | Consult |
+| [銘](../kanjis/銘.md) | めい | Inscription |
+| [堰](../kanjis/堰.md) | せき, えん | Dam |
+| [堤](../kanjis/堤.md) | てい, つつみ | Embankment |
+| [漂](../kanjis/漂.md) | ひょう, ただよ | Drift |
+| [翻](../kanjis/翻.md) | ほん, ひるがえ | Flip |
+| [軌](../kanjis/軌.md) | き | Rut |
+| [后](../kanjis/后.md) | こう, ご, きさき | Empress |
+| [奮](../kanjis/奮.md) | ふん, ふる | Stirred Up |
+| [亭](../kanjis/亭.md) | てい | Restaurant |
+| [仰](../kanjis/仰.md) | ぎょう, こう, あお | Look Up To |
+| [伯](../kanjis/伯.md) | はく, お | Chief |
+| [偶](../kanjis/偶.md) | ぐう, たま | Accidentally |
+| [淀](../kanjis/淀.md) | よど | Eddy |
+| [墳](../kanjis/墳.md) | ふん | Tomb |
+| [壮](../kanjis/壮.md) | そう | Robust |
+| [把](../kanjis/把.md) | は, わ | Bundle, Grasp |
+| [搬](../kanjis/搬.md) | はん | Transport |
+| [晶](../kanjis/晶.md) | しょう | Crystal |
+| [洞](../kanjis/洞.md) | どう, ほら | Cave |
+| [涯](../kanjis/涯.md) | がい, はて | Horizon |
+| [疫](../kanjis/疫.md) | えき | Epidemic |
 
 
 # vocabulary
 
-| Character | Meaning |
-| --- | --- |
-| [公告](../vocabulary/公告.md) | Public Notice, Public Announcement |
-| [溶ける](../vocabulary/溶ける.md) | To Melt, To Dissolve, To Thaw |
-| [悪賢い](../vocabulary/悪賢い.md) | Devious, Cunning, Crafty, Wily |
-| [輝き](../vocabulary/輝き.md) | Radiance |
-| [蟹](../vocabulary/蟹.md) | Crab |
-| [鰐](../vocabulary/鰐.md) | Alligator, Crocodile |
-| [鬱陶しい](../vocabulary/鬱陶しい.md) | Gloomy, Gloomy Mood, Depressing |
-| [峰](../vocabulary/峰.md) | Summit, Peak, Ridge |
-| [連峰](../vocabulary/連峰.md) | Mountain Range |
-| [巧い](../vocabulary/巧い.md) | Adept, Skillful, Clever |
-| [巧妙](../vocabulary/巧妙.md) | Ingenious, Skillful |
-| [風邪](../vocabulary/風邪.md) | Cold, Common Cold |
-| [邪魔](../vocabulary/邪魔.md) | Hindrance, Intrusion |
-| [邪](../vocabulary/邪.md) | Wicked, Evil |
-| [下駄](../vocabulary/下駄.md) | Geta, Japanese Wooden Clogs |
-| [駄目](../vocabulary/駄目.md) | Not Good, Hopeless, Cannot, Not Allowed |
-| [無駄](../vocabulary/無駄.md) | Futility, Uselessness, Pointlessness |
-| [唐突](../vocabulary/唐突.md) | Sudden, Unexpected |
-| [法廷](../vocabulary/法廷.md) | Courtroom |
-| [宮廷](../vocabulary/宮廷.md) | Imperial Court, Royal Court |
-| [名簿](../vocabulary/名簿.md) | Register Of Names, List Of Names, Roll |
-| [帳簿](../vocabulary/帳簿.md) | Account Book, Register |
-| [表彰](../vocabulary/表彰.md) | Public Acknowledgement, Public Recognition |
-| [漫画](../vocabulary/漫画.md) | Manga, Japanese Comics |
-| [漫才](../vocabulary/漫才.md) | Comic Dialogue, Two Man Comedy Act |
-| [訂正](../vocabulary/訂正.md) | Correction, Revision |
-| [改訂版](../vocabulary/改訂版.md) | Revised Edition |
-| [諮問](../vocabulary/諮問.md) | Question, Enquiry |
-| [諮る](../vocabulary/諮る.md) | To Consult With, To Discuss, To Confer |
-| [感銘](../vocabulary/感銘.md) | Deep Impression |
-| [銘柄](../vocabulary/銘柄.md) | Brand, Make |
-| [銘々](../vocabulary/銘々.md) | Each, Individual |
-| [堰](../vocabulary/堰.md) | Dam |
-| [堤](../vocabulary/堤.md) | Embankment, Bank, Dike |
-| [堤防](../vocabulary/堤防.md) | Embankment, Bank, Levee |
-| [漂う](../vocabulary/漂う.md) | To Drift |
-| [漂流](../vocabulary/漂流.md) | Drifting, Drift |
-| [漂着](../vocabulary/漂着.md) | Drifting Ashore |
-| [翻意](../vocabulary/翻意.md) | Change One's Mind, Change Your Mind |
-| [翻訳](../vocabulary/翻訳.md) | Translation |
-| [翻る](../vocabulary/翻る.md) | To Billow, To Flutter, To Suddenly Change |
-| [軌跡](../vocabulary/軌跡.md) | Tire Track, Path One Has Taken |
-| [軌道](../vocabulary/軌道.md) | Orbit, Trajectory |
-| [皇后](../vocabulary/皇后.md) | Japanese Empress |
-| [興奮](../vocabulary/興奮.md) | Excitement, Stimulation |
-| [奮起](../vocabulary/奮起.md) | Stirring, Rousing Oneself |
-| [〜亭](../vocabulary/〜亭.md) | Restaurant, Traditional Japanese Restaurant |
-| [仰ぐ](../vocabulary/仰ぐ.md) | To Look Up At, To Look Up To |
-| [仰々しい](../vocabulary/仰々しい.md) | Pompous, Exaggerated |
-| [仰天](../vocabulary/仰天.md) | Taken Aback, Amazed, Horrified, Flabbergasted |
-| [信仰](../vocabulary/信仰.md) | Religious Faith |
-| [伯](../vocabulary/伯.md) | Chief, Count, Earl |
-| [伯母](../vocabulary/伯母.md) | Aunt |
-| [偶に](../vocabulary/偶に.md) | Occasionally, Once In A While |
-| [偶然](../vocabulary/偶然.md) | By Chance, Unexpectedly |
-| [配偶者](../vocabulary/配偶者.md) | Spouse, Partner |
-| [淀川](../vocabulary/淀川.md) | Yodogawa |
-| [古墳](../vocabulary/古墳.md) | Ancient Tomb, Ancient Mound |
-| [墳墓](../vocabulary/墳墓.md) | Grave, Tomb |
-| [壮大](../vocabulary/壮大.md) | Magnificent, Grand, Epic |
-| [壮年](../vocabulary/壮年.md) | Prime Of Life |
-| [壮行](../vocabulary/壮行.md) | Rousing |
-| [〜把](../vocabulary/〜把.md) | Counter For Bundles, Counter for Bunches, Bundle Counter, Bunch Counter |
-| [把握](../vocabulary/把握.md) | Grasp, Catch |
-| [運搬](../vocabulary/運搬.md) | Transport, Carriage |
-| [搬送](../vocabulary/搬送.md) | Transportation |
-| [搬出](../vocabulary/搬出.md) | Carry Out |
-| [液晶](../vocabulary/液晶.md) | Liquid Crystal |
-| [水晶](../vocabulary/水晶.md) | Crystal |
-| [洞](../vocabulary/洞.md) | Cave, Den |
-| [空洞](../vocabulary/空洞.md) | Hollow, Cavity, Cave |
-| [洞穴](../vocabulary/洞穴.md) | Cave, Den |
-| [生涯](../vocabulary/生涯.md) | One's Lifetime, One's Career |
-| [検疫](../vocabulary/検疫.md) | Quarantine |
-| [免疫](../vocabulary/免疫.md) | Immunity, Immunization |
-| [疫病](../vocabulary/疫病.md) | Infectious Disease, Plague, Epidemic |
-| [脅す](../vocabulary/脅す.md) | To Threaten |
-| [飢え](../vocabulary/飢え.md) | Hunger, Starvation |
-| [尽くす](../vocabulary/尽くす.md) | To Exhaust, To Run Out, To Do To Exhaustion |
-| [彩り](../vocabulary/彩り.md) | Coloring, Color Scheme, Makeup |
-| [悔やむ](../vocabulary/悔やむ.md) | To Regret, To Mourn, To Lament |
-| [殴り合い](../vocabulary/殴り合い.md) | Fistfight, Fist Fight |
-| [殴り込み](../vocabulary/殴り込み.md) | Raid |
-| [遂げる](../vocabulary/遂げる.md) | To Accomplish, To Achieve, To Carry Out |
-| [麻布](../vocabulary/麻布.md) | Hemp Cloth, Linen |
-| [鬱気](../vocabulary/鬱気.md) | Gloomy, Melancholy, Gloominess |
-| [伯父](../vocabulary/伯父.md) | Uncle |
-| [灯る](../vocabulary/灯る.md) | To Burn, To Be Lighted, To Be Lit, To Be Burning |
-| [無邪気](../vocabulary/無邪気.md) | Innocence, Simple Mindedness, Innocent, Simple Minded, Naive |
-| [煮える](../vocabulary/煮える.md) | To Be Boiled, To Be Cooked |
+| Characters | Readings | Meanings |
+| --- | --- | --- |
+| [公告](../vocabulary/公告.md) | こうこく | Public Notice, Public Announcement |
+| [溶ける](../vocabulary/溶ける.md) | とける | To Melt, To Dissolve, To Thaw |
+| [悪賢い](../vocabulary/悪賢い.md) | わるがしこい | Devious, Cunning, Crafty, Wily |
+| [輝き](../vocabulary/輝き.md) | かがやき | Radiance |
+| [蟹](../vocabulary/蟹.md) | かに | Crab |
+| [鰐](../vocabulary/鰐.md) | わに | Alligator, Crocodile |
+| [鬱陶しい](../vocabulary/鬱陶しい.md) | うっとうしい | Gloomy, Gloomy Mood, Depressing |
+| [峰](../vocabulary/峰.md) | みね | Summit, Peak, Ridge |
+| [連峰](../vocabulary/連峰.md) | れんぽう | Mountain Range |
+| [巧い](../vocabulary/巧い.md) | うまい | Adept, Skillful, Clever |
+| [巧妙](../vocabulary/巧妙.md) | こうみょう | Ingenious, Skillful |
+| [風邪](../vocabulary/風邪.md) | かぜ | Cold, Common Cold |
+| [邪魔](../vocabulary/邪魔.md) | じゃま | Hindrance, Intrusion |
+| [邪](../vocabulary/邪.md) | よこしま | Wicked, Evil |
+| [下駄](../vocabulary/下駄.md) | げた | Geta, Japanese Wooden Clogs |
+| [駄目](../vocabulary/駄目.md) | だめ | Not Good, Hopeless, Cannot, Not Allowed |
+| [無駄](../vocabulary/無駄.md) | むだ | Futility, Uselessness, Pointlessness |
+| [唐突](../vocabulary/唐突.md) | とうとつ | Sudden, Unexpected |
+| [法廷](../vocabulary/法廷.md) | ほうてい | Courtroom |
+| [宮廷](../vocabulary/宮廷.md) | きゅうてい | Imperial Court, Royal Court |
+| [名簿](../vocabulary/名簿.md) | めいぼ | Register Of Names, List Of Names, Roll |
+| [帳簿](../vocabulary/帳簿.md) | ちょうぼ | Account Book, Register |
+| [表彰](../vocabulary/表彰.md) | ひょうしょう | Public Acknowledgement, Public Recognition |
+| [漫画](../vocabulary/漫画.md) | まんが | Manga, Japanese Comics |
+| [漫才](../vocabulary/漫才.md) | まんざい | Comic Dialogue, Two Man Comedy Act |
+| [訂正](../vocabulary/訂正.md) | ていせい | Correction, Revision |
+| [改訂版](../vocabulary/改訂版.md) | かいていばん | Revised Edition |
+| [諮問](../vocabulary/諮問.md) | しもん | Question, Enquiry |
+| [諮る](../vocabulary/諮る.md) | はかる | To Consult With, To Discuss, To Confer |
+| [感銘](../vocabulary/感銘.md) | かんめい | Deep Impression |
+| [銘柄](../vocabulary/銘柄.md) | めいがら | Brand, Make |
+| [銘々](../vocabulary/銘々.md) | めいめい | Each, Individual |
+| [堰](../vocabulary/堰.md) | せき | Dam |
+| [堤](../vocabulary/堤.md) | つつみ | Embankment, Bank, Dike |
+| [堤防](../vocabulary/堤防.md) | ていぼう | Embankment, Bank, Levee |
+| [漂う](../vocabulary/漂う.md) | ただよう | To Drift, To Waft |
+| [漂流](../vocabulary/漂流.md) | ひょうりゅう | Drifting, Drift |
+| [漂着](../vocabulary/漂着.md) | ひょうちゃく | Drifting Ashore |
+| [翻意](../vocabulary/翻意.md) | ほんい | Change One's Mind, Change Your Mind |
+| [翻訳](../vocabulary/翻訳.md) | ほんやく | Translation |
+| [翻る](../vocabulary/翻る.md) | ひるがえる | To Billow, To Flutter, To Suddenly Change |
+| [軌跡](../vocabulary/軌跡.md) | きせき | Tire Track, Path One Has Taken |
+| [軌道](../vocabulary/軌道.md) | きどう | Orbit, Trajectory |
+| [皇后](../vocabulary/皇后.md) | こうごう | Japanese Empress |
+| [興奮](../vocabulary/興奮.md) | こうふん | Excitement, Stimulation |
+| [奮起](../vocabulary/奮起.md) | ふんき | Stirring, Rousing Oneself |
+| [〜亭](../vocabulary/〜亭.md) | てい | Restaurant, Traditional Japanese Restaurant |
+| [仰ぐ](../vocabulary/仰ぐ.md) | あおぐ | To Look Up At, To Look Up To |
+| [仰々しい](../vocabulary/仰々しい.md) | ぎょうぎょうしい | Pompous, Exaggerated |
+| [仰天](../vocabulary/仰天.md) | ぎょうてん | Taken Aback, Amazed, Horrified, Flabbergasted |
+| [信仰](../vocabulary/信仰.md) | しんこう | Religious Faith |
+| [伯](../vocabulary/伯.md) | はく | Chief, Count, Earl |
+| [伯母](../vocabulary/伯母.md) | おば | Aunt |
+| [偶に](../vocabulary/偶に.md) | たまに | Occasionally, Once In A While |
+| [偶然](../vocabulary/偶然.md) | ぐうぜん | By Chance, Unexpectedly |
+| [配偶者](../vocabulary/配偶者.md) | はいぐうしゃ | Spouse, Partner |
+| [淀川](../vocabulary/淀川.md) | よどがわ | Yodogawa |
+| [古墳](../vocabulary/古墳.md) | こふん | Ancient Tomb, Ancient Mound |
+| [墳墓](../vocabulary/墳墓.md) | ふんぼ | Grave, Tomb |
+| [壮大](../vocabulary/壮大.md) | そうだい | Magnificent, Grand, Epic |
+| [壮年](../vocabulary/壮年.md) | そうねん | Prime Of Life |
+| [壮行](../vocabulary/壮行.md) | そうこう | Rousing |
+| [〜把](../vocabulary/〜把.md) | わ | Counter For Bundles, Counter for Bunches, Bundle Counter, Bunch Counter |
+| [把握](../vocabulary/把握.md) | はあく | Grasp, Catch |
+| [運搬](../vocabulary/運搬.md) | うんぱん | Transport, Carriage |
+| [搬送](../vocabulary/搬送.md) | はんそう | Transportation |
+| [搬出](../vocabulary/搬出.md) | はんしゅつ | Carry Out |
+| [液晶](../vocabulary/液晶.md) | えきしょう | Liquid Crystal |
+| [水晶](../vocabulary/水晶.md) | すいしょう | Crystal |
+| [洞](../vocabulary/洞.md) | ほら | Cave, Den |
+| [空洞](../vocabulary/空洞.md) | くうどう | Hollow, Cavity, Cave |
+| [洞穴](../vocabulary/洞穴.md) | どうけつ, ほらあな | Cave, Den |
+| [生涯](../vocabulary/生涯.md) | しょうがい | One's Lifetime, One's Career |
+| [検疫](../vocabulary/検疫.md) | けんえき | Quarantine |
+| [免疫](../vocabulary/免疫.md) | めんえき | Immunity, Immunization |
+| [疫病](../vocabulary/疫病.md) | えきびょう | Infectious Disease, Plague, Epidemic |
+| [脅す](../vocabulary/脅す.md) | おどす | To Threaten |
+| [飢え](../vocabulary/飢え.md) | うえ | Hunger, Starvation |
+| [尽くす](../vocabulary/尽くす.md) | つくす | To Exhaust, To Run Out, To Do To Exhaustion |
+| [彩り](../vocabulary/彩り.md) | いろどり | Coloring, Color Scheme, Makeup |
+| [悔やむ](../vocabulary/悔やむ.md) | くやむ | To Regret, To Mourn, To Lament |
+| [殴り合い](../vocabulary/殴り合い.md) | なぐりあい | Fistfight, Fist Fight |
+| [殴り込み](../vocabulary/殴り込み.md) | なぐりこみ | Raid |
+| [遂げる](../vocabulary/遂げる.md) | とげる | To Accomplish, To Achieve, To Carry Out |
+| [麻布](../vocabulary/麻布.md) | あさぬの | Hemp Cloth, Linen |
+| [鬱気](../vocabulary/鬱気.md) | うっき | Gloomy, Melancholy, Gloominess |
+| [伯父](../vocabulary/伯父.md) | おじ | Uncle |
+| [灯る](../vocabulary/灯る.md) | ともる | To Burn, To Be Lighted, To Be Lit, To Be Burning |
+| [無邪気](../vocabulary/無邪気.md) | むじゃき | Innocence, Simple Mindedness, Innocent, Simple Minded, Naive |
+| [煮える](../vocabulary/煮える.md) | にえる | To Be Boiled, To Be Cooked |

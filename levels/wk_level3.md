@@ -4,7 +4,9 @@
 [Kanjis](../kanjis.md) -
 [Vocabulary](../vocabulary.md) -
 [Levels](../levels.md) -
-[Grammar](../grammar.md)
+[Grammar](../grammar.md) - 
+[Progress](../progress.md) -
+[Resources](../resources.md)
 # Level 3
 
 [Level 2](wk_level2.md), [Level 4](wk_level4.md)
@@ -25,139 +27,139 @@
 
 # radicals
 
-| Character | Meaning |
-| --- | --- |
-| [匕](../radicals/匕.md) | Spoon |
-| [ラ](../radicals/ラ.md) | Ra |
-| [久](../radicals/久.md) | Raptor Cage |
-| [夂](../radicals/夂.md) | Winter |
-| [干](../radicals/干.md) | Dry |
-| [广](../radicals/广.md) | Canopy |
-| [扌](../radicals/扌.md) | Fingers |
-| [元](../radicals/元.md) | Origin |
-| [心](../radicals/心.md) | Heart |
-| [方](../radicals/方.md) | Direction |
-| [毛](../radicals/毛.md) | Fur |
-| [父](../radicals/父.md) | Father |
-| [古](../radicals/古.md) | Old |
-| [母](../radicals/母.md) | Drawer |
-| [用](../radicals/用.md) | Task |
-| [矢](../radicals/矢.md) | Arrow |
-| [戸](../radicals/戸.md) | Door |
-| [幺](../radicals/幺.md) | Poop |
-| [巾](../radicals/巾.md) | Towel |
-| [生](../radicals/生.md) | Life |
-| [今](../radicals/今.md) | Now |
+| Characters | Readings | Meanings |
+| --- | --- | --- |
+| [匕](../radicals/匕.md) |  | Spoon |
+| [ラ](../radicals/ラ.md) |  | Ra |
+| [久](../radicals/久.md) |  | Raptor Cage |
+| [夂](../radicals/夂.md) |  | Winter |
+| [干](../radicals/干.md) |  | Dry |
+| [广](../radicals/广.md) |  | Canopy |
+| [扌](../radicals/扌.md) |  | Fingers |
+| [元](../radicals/元.md) |  | Origin |
+| [心](../radicals/心.md) |  | Heart |
+| [方](../radicals/方.md) |  | Direction |
+| [毛](../radicals/毛.md) |  | Fur |
+| [父](../radicals/父.md) |  | Father |
+| [古](../radicals/古.md) |  | Old |
+| [母](../radicals/母.md) |  | Drawer |
+| [用](../radicals/用.md) |  | Task |
+| [矢](../radicals/矢.md) |  | Arrow |
+| [戸](../radicals/戸.md) |  | Door |
+| [幺](../radicals/幺.md) |  | Poop |
+| [巾](../radicals/巾.md) |  | Towel |
+| [生](../radicals/生.md) |  | Life |
+| [今](../radicals/今.md) |  | Now |
 
 
 # kanjis
 
-| Character | Meaning |
-| --- | --- |
-| [万](../kanjis/万.md) | Ten Thousand |
-| [今](../kanjis/今.md) | Now |
-| [元](../kanjis/元.md) | Origin |
-| [公](../kanjis/公.md) | Public |
-| [内](../kanjis/内.md) | Inside, Within |
-| [分](../kanjis/分.md) | Part, Minute, Separate, Understand |
-| [切](../kanjis/切.md) | Cut |
-| [午](../kanjis/午.md) | Noon |
-| [友](../kanjis/友.md) | Friend |
-| [太](../kanjis/太.md) | Fat |
-| [少](../kanjis/少.md) | Few, A Little |
-| [引](../kanjis/引.md) | Pull |
-| [心](../kanjis/心.md) | Heart |
-| [戸](../kanjis/戸.md) | Door |
-| [方](../kanjis/方.md) | Direction, Way |
-| [牛](../kanjis/牛.md) | Cow |
-| [父](../kanjis/父.md) | Father, Dad |
-| [毛](../kanjis/毛.md) | Fur, Hair |
-| [止](../kanjis/止.md) | Stop |
-| [冬](../kanjis/冬.md) | Winter |
-| [北](../kanjis/北.md) | North |
-| [半](../kanjis/半.md) | Half |
-| [古](../kanjis/古.md) | Old |
-| [台](../kanjis/台.md) | Machine |
-| [外](../kanjis/外.md) | Outside |
-| [市](../kanjis/市.md) | City |
-| [広](../kanjis/広.md) | Wide |
-| [母](../kanjis/母.md) | Mother, Mom |
-| [用](../kanjis/用.md) | Task, Use |
-| [矢](../kanjis/矢.md) | Arrow |
-| [生](../kanjis/生.md) | Life |
+| Characters | Readings | Meanings |
+| --- | --- | --- |
+| [万](../kanjis/万.md) | まん, ばん | Ten Thousand |
+| [今](../kanjis/今.md) | こん, いま | Now |
+| [元](../kanjis/元.md) | げん, がん, もと | Origin |
+| [公](../kanjis/公.md) | こう | Public |
+| [内](../kanjis/内.md) | ない, うち | Inside, Within |
+| [分](../kanjis/分.md) | ぶん, ふん, ぶ, わ | Part, Minute, Separate, Understand |
+| [切](../kanjis/切.md) | せつ, き | Cut |
+| [午](../kanjis/午.md) | ご | Noon |
+| [友](../kanjis/友.md) | ゆう, とも | Friend |
+| [太](../kanjis/太.md) | たい, た, ふと, おお | Fat |
+| [少](../kanjis/少.md) | しょう, すこ, すく | Few, A Little |
+| [引](../kanjis/引.md) | いん, ひ | Pull |
+| [心](../kanjis/心.md) | しん, こころ | Heart |
+| [戸](../kanjis/戸.md) | こ, と | Door |
+| [方](../kanjis/方.md) | ほう, かた | Direction, Way |
+| [牛](../kanjis/牛.md) | ぎゅう, うし | Cow |
+| [父](../kanjis/父.md) | ふ, ちち, とう | Father, Dad |
+| [毛](../kanjis/毛.md) | もう, け | Fur, Hair |
+| [止](../kanjis/止.md) | し, と, や | Stop |
+| [冬](../kanjis/冬.md) | とう, ふゆ | Winter |
+| [北](../kanjis/北.md) | ほく, きた | North |
+| [半](../kanjis/半.md) | はん, なか | Half |
+| [古](../kanjis/古.md) | こ, ふる | Old |
+| [台](../kanjis/台.md) | だい, たい | Machine |
+| [外](../kanjis/外.md) | がい, そと, はず | Outside |
+| [市](../kanjis/市.md) | し, いち | City |
+| [広](../kanjis/広.md) | こう, ひろ | Wide |
+| [母](../kanjis/母.md) | ぼ, はは, かあ | Mother, Mom |
+| [用](../kanjis/用.md) | よう, もち | Task, Use |
+| [矢](../kanjis/矢.md) | し, や | Arrow |
+| [生](../kanjis/生.md) | せい, しょう, い, なま, う, は, き | Life |
 
 
 # vocabulary
 
-| Character | Meaning |
-| --- | --- |
-| [アメリカ人](../vocabulary/アメリカ人.md) | American, American Person |
-| [フランス人](../vocabulary/フランス人.md) | Frenchman, French Person |
-| [ビー玉](../vocabulary/ビー玉.md) | Marble |
-| [生まれる](../vocabulary/生まれる.md) | To Be Born |
-| [生](../vocabulary/生.md) | Fresh, Raw, Live |
-| [一万](../vocabulary/一万.md) | Ten Thousand |
-| [二万](../vocabulary/二万.md) | Twenty Thousand |
-| [十万](../vocabulary/十万.md) | One Hundred Thousand, Hundred Thousand |
-| [今](../vocabulary/今.md) | Now |
-| [今日](../vocabulary/今日.md) | Today |
-| [今月](../vocabulary/今月.md) | This Month, Current Month |
-| [元](../vocabulary/元.md) | Origin, Ex, Former |
-| [半分](../vocabulary/半分.md) | Half |
-| [分かる](../vocabulary/分かる.md) | To Understand |
-| [分](../vocabulary/分.md) | Part, Portion, Content |
-| [大切](../vocabulary/大切.md) | Important, Precious, Valuable |
-| [切る](../vocabulary/切る.md) | To Cut |
-| [友人](../vocabulary/友人.md) | Friend |
-| [太い](../vocabulary/太い.md) | Fat, Thick |
-| [太る](../vocabulary/太る.md) | To Get Fat, To Gain Weight, To Grow Fat, To Become Fat |
-| [少し](../vocabulary/少し.md) | A Little, A Few, Few |
-| [少ない](../vocabulary/少ない.md) | A Few, Few, Scarce, Not Much, Not Many |
-| [引く](../vocabulary/引く.md) | To Pull, To Subtract, To Attract |
-| [心](../vocabulary/心.md) | Heart, Mind, Feeling |
-| [戸口](../vocabulary/戸口.md) | Doorway |
-| [方](../vocabulary/方.md) | Way, Direction |
-| [止める](../vocabulary/止める.md) | To Stop Something, To Prevent Something |
-| [中止](../vocabulary/中止.md) | Suspension, Cancellation, Stoppage, Discontinuance, Interruption |
-| [毛](../vocabulary/毛.md) | Fur, Hair |
-| [父](../vocabulary/父.md) | Father, Dad |
-| [お父さん](../vocabulary/お父さん.md) | Father, Dad, Papa |
-| [牛](../vocabulary/牛.md) | Cow, Bull, Ox |
-| [冬](../vocabulary/冬.md) | Winter |
-| [北](../vocabulary/北.md) | North |
-| [半](../vocabulary/半.md) | Half |
-| [古い](../vocabulary/古い.md) | Old, Ancient, Out-Of-Date |
-| [中古](../vocabulary/中古.md) | Secondhand, Used, Second Hand |
-| [一台](../vocabulary/一台.md) | One Machine |
-| [二台](../vocabulary/二台.md) | Two Machines |
-| [五台](../vocabulary/五台.md) | Five Machines |
-| [十台](../vocabulary/十台.md) | Ten Machines |
-| [外](../vocabulary/外.md) | Outside |
-| [外人](../vocabulary/外人.md) | Foreigner, Outsider |
-| [外れ](../vocabulary/外れ.md) | Extremity, Furthest Point, End, Outskirts, Outer Limits, Edge, Miss, Failure |
-| [市](../vocabulary/市.md) | City |
-| [市立](../vocabulary/市立.md) | Municipal, City |
-| [シアトル市](../vocabulary/シアトル市.md) | Seattle, City Of Seattle |
-| [広い](../vocabulary/広い.md) | Wide, Spacious |
-| [母](../vocabulary/母.md) | Mother, Mom |
-| [お母さん](../vocabulary/お母さん.md) | Mother, Mom |
-| [用いる](../vocabulary/用いる.md) | To Utilize, To Use |
-| [公用](../vocabulary/公用.md) | Government Business, Official Business |
-| [矢](../vocabulary/矢.md) | Arrow |
-| [人生](../vocabulary/人生.md) | One's Life, Human Life, Life |
-| [イギリス人](../vocabulary/イギリス人.md) | British Person, Brit |
-| [内](../vocabulary/内.md) | Inside, Within |
-| [〜台](../vocabulary/〜台.md) | Big Machine, Big Device, Machine, Device, Machine Counter, Number Of Machines |
-| [〜人](../vocabulary/〜人.md) | Number Of People, People, Counter For People |
-| [少女](../vocabulary/少女.md) | Girl, Young Lady |
-| [万](../vocabulary/万.md) | Ten Thousand |
-| [今日は](../vocabulary/今日は.md) | Hello, Good Day |
-| [用](../vocabulary/用.md) | Task, Use, Duty, Service, Business, Purpose |
-| [大人しい](../vocabulary/大人しい.md) | Obedient, Docile, Quiet |
-| [戸](../vocabulary/戸.md) | Japanese Style Door, Door |
-| [女の人](../vocabulary/女の人.md) | Woman |
-| [広げる](../vocabulary/広げる.md) | To Spread Something, To Unfold Something, To Open Something Up |
-| [外す](../vocabulary/外す.md) | To Disconnect Something, To Miss Something, To Exclude Something, To Remove Something |
-| [山びこ](../vocabulary/山びこ.md) | Echo, Mountain Echo |
-| [テーブルの上](../vocabulary/テーブルの上.md) | On The Table, Tabletop |
-| [ベッドの下](../vocabulary/ベッドの下.md) | Under The Bed, Below The Bed, Beneath The Bed |
+| Characters | Readings | Meanings |
+| --- | --- | --- |
+| [アメリカ人](../vocabulary/アメリカ人.md) | あめりかじん, アメリカじん | American, American Person |
+| [フランス人](../vocabulary/フランス人.md) | ふらんすじん, フランスじん | Frenchman, French Person |
+| [ビー玉](../vocabulary/ビー玉.md) | びーだま, ビーだま | Marble |
+| [生まれる](../vocabulary/生まれる.md) | うまれる | To Be Born |
+| [生](../vocabulary/生.md) | なま | Fresh, Raw, Live |
+| [一万](../vocabulary/一万.md) | いちまん | Ten Thousand |
+| [二万](../vocabulary/二万.md) | にまん | Twenty Thousand |
+| [十万](../vocabulary/十万.md) | じゅうまん | One Hundred Thousand, Hundred Thousand |
+| [今](../vocabulary/今.md) | いま | Now |
+| [今日](../vocabulary/今日.md) | きょう | Today |
+| [今月](../vocabulary/今月.md) | こんげつ | This Month, Current Month |
+| [元](../vocabulary/元.md) | もと | Origin, Ex, Former |
+| [半分](../vocabulary/半分.md) | はんぶん | Half |
+| [分かる](../vocabulary/分かる.md) | わかる | To Understand |
+| [分](../vocabulary/分.md) | ぶん | Part, Portion, Content |
+| [大切](../vocabulary/大切.md) | たいせつ | Important, Precious, Valuable |
+| [切る](../vocabulary/切る.md) | きる | To Cut |
+| [友人](../vocabulary/友人.md) | ゆうじん | Friend |
+| [太い](../vocabulary/太い.md) | ふとい | Fat, Thick |
+| [太る](../vocabulary/太る.md) | ふとる | To Get Fat, To Gain Weight, To Grow Fat, To Become Fat |
+| [少し](../vocabulary/少し.md) | すこし | A Little, A Few, Few |
+| [少ない](../vocabulary/少ない.md) | すくない | A Few, Few, Scarce, Not Much, Not Many |
+| [引く](../vocabulary/引く.md) | ひく | To Pull, To Subtract, To Attract |
+| [心](../vocabulary/心.md) | こころ | Heart, Mind, Feeling |
+| [戸口](../vocabulary/戸口.md) | とぐち | Doorway |
+| [方](../vocabulary/方.md) | かた, ほう | Way, Direction |
+| [止める](../vocabulary/止める.md) | とめる | To Stop Something, To Prevent Something |
+| [中止](../vocabulary/中止.md) | ちゅうし | Suspension, Cancellation, Discontinuation |
+| [毛](../vocabulary/毛.md) | け | Fur, Hair |
+| [父](../vocabulary/父.md) | ちち | Father, Dad |
+| [お父さん](../vocabulary/お父さん.md) | おとうさん | Father, Dad, Papa |
+| [牛](../vocabulary/牛.md) | うし | Cow, Bull, Ox |
+| [冬](../vocabulary/冬.md) | ふゆ | Winter |
+| [北](../vocabulary/北.md) | きた | North |
+| [半](../vocabulary/半.md) | はん | Half |
+| [古い](../vocabulary/古い.md) | ふるい | Old, Ancient, Out-Of-Date |
+| [中古](../vocabulary/中古.md) | ちゅうこ | Secondhand, Used |
+| [一台](../vocabulary/一台.md) | いちだい | One Machine |
+| [二台](../vocabulary/二台.md) | にだい | Two Machines |
+| [五台](../vocabulary/五台.md) | ごだい | Five Machines |
+| [十台](../vocabulary/十台.md) | じゅうだい | Ten Machines |
+| [外](../vocabulary/外.md) | そと | Outside |
+| [外人](../vocabulary/外人.md) | がいじん | Foreigner, Outsider |
+| [外れ](../vocabulary/外れ.md) | はずれ | Extremity, Furthest Point, End, Outskirts, Outer Limits, Edge, Miss, Failure |
+| [市](../vocabulary/市.md) | し | City |
+| [市立](../vocabulary/市立.md) | しりつ | Municipal, City |
+| [シアトル市](../vocabulary/シアトル市.md) | しあとるし, シアトルし | Seattle, City Of Seattle |
+| [広い](../vocabulary/広い.md) | ひろい | Wide, Spacious |
+| [母](../vocabulary/母.md) | はは | Mother, Mom |
+| [お母さん](../vocabulary/お母さん.md) | おかあさん | Mother, Mom |
+| [用いる](../vocabulary/用いる.md) | もちいる | To Utilize, To Use |
+| [公用](../vocabulary/公用.md) | こうよう | Government Business, Official Business |
+| [矢](../vocabulary/矢.md) | や | Arrow |
+| [人生](../vocabulary/人生.md) | じんせい | One's Life, Human Life, Life |
+| [イギリス人](../vocabulary/イギリス人.md) | いぎりすじん, イギリスじん | British Person, Brit |
+| [内](../vocabulary/内.md) | うち | Inside, Within |
+| [〜台](../vocabulary/〜台.md) | だい | Big Machine, Big Device, Machine, Device, Machine Counter, Number Of Machines |
+| [〜人](../vocabulary/〜人.md) | にん | Number Of People, People, Counter For People |
+| [少女](../vocabulary/少女.md) | しょうじょ | Girl, Young Lady |
+| [万](../vocabulary/万.md) | まん | Ten Thousand |
+| [今日は](../vocabulary/今日は.md) | こんにちは | Hello, Good Day |
+| [用](../vocabulary/用.md) | よう | Task, Use, Duty, Service, Business, Purpose |
+| [大人しい](../vocabulary/大人しい.md) | おとなしい | Obedient, Quiet, Calm |
+| [戸](../vocabulary/戸.md) | と | Japanese Style Door, Door |
+| [女の人](../vocabulary/女の人.md) | おんなのひと | Woman |
+| [広げる](../vocabulary/広げる.md) | ひろげる | To Spread Something, To Unfold Something, To Open Something Up |
+| [外す](../vocabulary/外す.md) | はずす | To Disconnect Something, To Miss Something, To Exclude Something, To Remove Something |
+| [山びこ](../vocabulary/山びこ.md) | やまびこ | Echo, Mountain Echo |
+| [テーブルの上](../vocabulary/テーブルの上.md) | てーぶるのうえ, テーブルのうえ | On The Table, Tabletop |
+| [ベッドの下](../vocabulary/ベッドの下.md) | べっどのした, ベッドのした | Under The Bed, Below The Bed, Beneath The Bed |

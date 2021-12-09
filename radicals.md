@@ -4,7 +4,9 @@
 [Kanjis](kanjis.md) -
 [Vocabulary](vocabulary.md) -
 [Levels](levels.md) -
-[Grammar](grammar.md)
+[Grammar](grammar.md) - 
+[Progress](progress.md) -
+[Resources](resources.md)
 # Radicals
 
 | Radical      | Meaning| Level |
@@ -156,7 +158,7 @@
 | [卩](radicals/卩.md) | Stamp | [7](levels/wk_level7.md) |
 | [夫](radicals/夫.md) | Husband | [7](levels/wk_level7.md) |
 | [氏](radicals/氏.md) | Clan | [7](levels/wk_level7.md) |
-| [矛](radicals/矛.md) | Spear | [7](levels/wk_level7.md) |
+| [矛](radicals/矛.md) | Spear | [21](levels/wk_level21.md) |
 | [舟](radicals/舟.md) | Boat | [7](levels/wk_level7.md) |
 | [魚](radicals/魚.md) | Fish | [7](levels/wk_level7.md) |
 | [鳥](radicals/鳥.md) | Bird | [7](levels/wk_level7.md) |
